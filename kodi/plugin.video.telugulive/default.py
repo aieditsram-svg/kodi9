@@ -108,6 +108,7 @@ def main_menu(channels):
     for lang in order:
         add_folder("%s  (%d)" % (lang, counts[lang]), action="list", lang=lang, hd="0")
     add_folder("[COLOR gray]Load all channels into Kodi's TV section[/COLOR]", action="pvr")
+    add_folder("[COLOR gray]JioTV: use your own Jio login (optional)[/COLOR]", action="jio")
     xbmcplugin.endOfDirectory(HANDLE)
 
 
@@ -159,8 +160,13 @@ def main():
     if action == "play":
         play(ARGS["key"], ARGS.get("label", ARGS["key"]))
         return
+    if action == "jio":
+        import jio_setup
+        jio_setup.run()
+        xbmcplugin.endOfDirectory(HANDLE, succeeded=False)
+        return
     if action == "pvr":
-        ok, message = pvr_setup.configure(ADDON.getSetting("pvr_playlist").strip())
+        ok, message = pvr_setup.configure(ADDON.getSetting("pvr_playlist").strip(), ADDON.getSetting("pvr_epg").strip())
         xbmcgui.Dialog().ok("Telugu Live", message)
         xbmcplugin.endOfDirectory(HANDLE, succeeded=False)
         return

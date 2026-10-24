@@ -1,6 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.telugulive" name="Telugu Live" version="2.2.0" provider-name="Telugu Live">
+<addon id="plugin.video.jiotv" name="JioTV" version="2.3.9" provider-name="aieditsram">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.codequick" version="1.0.2" />
+        <import addon="script.module.inputstreamhelper" version="0.5.10" />
+        <import addon="inputstream.adaptive" minversion="2.6.6" />
+        <import addon="script.module.m3u8" version="0.5.4" />
+        <import addon="script.module.requests" version="2.27.1" />
+        <import addon="repository.telugulive" version="1.0.1" />
+        <!-- <import addon="script.module.web-pdb" /> -->
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Stream Live Indian Channels From JioTV on Kodi</summary>
+        <description lang="en_GB">Enjoy Live TV experience in Kodi. Unofficial: not made or supported by Jio. Log in with your own Jio number. Based on the JioTV add-on by tobalan and botallen (MIT licence).</description>
+        <language>en</language>
+        <platform>all</platform>
+        <license>MIT</license>
+        <website>https://github.com/aieditsram-svg/kodi5</website>
+        <source>https://github.com/aieditsram-svg/kodi5</source>
+        <news>
+            [- 2.3.9 -]
+            [added] Revamped settings.xml and added strings.po
+
+            [- 2.3.8 -]
+            [added] support to play mpd streams
+
+            [- 2.3.7 -]
+            [added] fix for runtime error in channel list
+
+            [- 2.3.6 -]
+            [added] language filter
+
+            [- 2.3.5 -]
+            [added] handle playback exceptions
+            [added] remove unused code
+            [added] save mobile no automatically on login
+            [added] added request dependency for lower version
+            [added] revert inputstreamhelper dependency version
+
+            [- 2.3.4 -]
+            [added] AAC multi-audio fix (3rd Jun 2023)
+            [added] Genres selection in Settings with Languages
+            [added] EPG Source URL editable in Settings
+            [added] Settings sections rearranged, removed 'Welcome-donate' popup.
+
+            [- 2.3.3 -]
+            [added] updated epg url
+            [added] set epg cache to false
+            [added] updset useInputstreamAdaptiveforHls to true
+
+            [- 2.3.2 -]
+            [added] generate playlist is off by default
+
+            [- 2.3.1 -]
+            [added] caching of reponses
+
+            [- 2.3.0 -]
+            [added] more extra channels
+            [added] inputstream adaptive as a dependency
+
+            [- 2.2.0 -]
+            [fixed] Bugs related to playback
+            [added] Login with OTP
+
+            [- 2.1.0 -]
+
+            [added] Kodi Matrix support
+            [added] Star channels support
+
+            [- 2.0.14 -]
+
+            [added] Featured Content
+
+            [- 2.0.13 -]
+
+            [added] Web login
+
+            [- 2.0.0 -]
+
+            [fixed] All major issues related to playback almost solved
+            [added] Categorized by Language
+            [added] Filter channels by specific language in genre. (from settings)
+        </news>
+        <disclaimer>This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
+            is registered by "Reliance Corporate IT Park Limited (RCITPL)"</disclaimer>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/icon.png</fanart>
+            <screenshot>resources/icon.png</screenshot>
+            <screenshot>resources/icon.png</screenshot>
+            <screenshot>resources/icon.png</screenshot>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+<addon id="plugin.video.telugulive" name="Telugu Live" version="2.3.0" provider-name="Telugu Live">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -10,17 +109,17 @@
   <extension point="xbmc.service" library="service.py" start="login"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB">Live Indian TV in every language, HD first, with automatic failover</summary>
-    <description lang="en_GB">Free Indian TV channels split by language (Telugu, Hindi, Tamil, Kannada, Malayalam, Bengali and more), with an HD-only view. The playlist is rebuilt every 5 minutes and the add-on tests each stream on your own network, switching to a working link when one fails.</description>
+    <description lang="en_GB">Free Indian TV channels split by language (Telugu, Hindi, Tamil, Kannada, Malayalam, Bengali and more), with an HD-only view, a TV guide (EPG) and optional JioTV login support. The playlist is rebuilt every 5 minutes and the add-on tests each stream on your own network, switching to a working link when one fails.</description>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
   </extension>
 </addon>
-<addon id="repository.telugulive" name="Telugu Live Repository" version="1.0.0" provider-name="Telugu Live">
+<addon id="repository.telugulive" name="Telugu Live Repository" version="1.0.1" provider-name="Telugu Live">
   <extension point="xbmc.addon.repository" name="Telugu Live Repository">
     <dir>
-      <info compressed="false">https://aieditsram-svg.github.io/kodi5/addons.xml</info>
-      <checksum>https://aieditsram-svg.github.io/kodi5/addons.xml.md5</checksum>
-      <datadir zip="true">https://aieditsram-svg.github.io/kodi5/zips/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/zips/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">

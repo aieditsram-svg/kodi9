@@ -42,3 +42,7 @@ msgstr ""
 msgctxt "#30010"
 msgid "TV section setup already offered"
 msgstr ""
+
+msgctxt "#30011"
+msgid "TV guide (EPG) for Kodi's TV section: XMLTV address, leave empty for no guide"
+msgstr ""

@@ -1,0 +1,8 @@
+JioTV (plugin.video.jiotv)
+
+This copy is hosted in the aieditsram-svg/kodi5 repository so it can be installed from the Telugu Live Repository.
+It is based on the JioTV add-on by tobalan (https://github.com/tobalan/plugin.video.jiotv), which is itself based on
+work by botallen. Only the add-on's metadata (provider, dependency, links), its default guide address and its README
+were changed; the code is unchanged. The original MIT licence is in the LICENSE file and still applies.
+
+This add-on is unofficial: it is not made, supported or endorsed by Jio.

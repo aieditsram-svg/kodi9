@@ -100,6 +100,8 @@ def stream_path(ch):
 
 def probe(ch, timeout=5):
     """Quick check, from this device's own network, that a stream answers like a real stream."""
+    if ch["url"].lower().startswith("plugin://"):
+        return True  # another add-on (for example JioTV) resolves this link, so it cannot be tested from here
     headers = {"User-Agent": UA}
     headers.update(ch["headers"])
     req = urllib.request.Request(ch["url"], headers=headers)

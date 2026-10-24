@@ -4,7 +4,7 @@ What it does, in order:
   1. installs pvr.iptvsimple from Kodi's official repository if it is missing
   2. disables it for a moment, so Kodi does not overwrite the settings file
   3. points a dedicated "Telugu Live" instance (Kodi 20 and newer) or the single client (Kodi 19)
-     at the playlist address
+     at the playlist address and, when given, the TV guide (EPG) address
   4. enables it again, so the channels appear under TV
 
 Nothing else about the user's PVR setup is changed: on Kodi 20+ any existing instance is left alone.
@@ -67,20 +67,23 @@ def _data_dir():
     return path
 
 
-def _instance_xml(url):
-    return (
-        '<settings version="2">\n'
-        '    <setting id="kodi_addon_instance_name">%s</setting>\n'
-        '    <setting id="kodi_addon_instance_enabled">true</setting>\n'
-        '    <setting id="m3uPathType">1</setting>\n'
-        '    <setting id="m3uUrl">%s</setting>\n'
-        '    <setting id="m3uCache">false</setting>\n'
-        '    <setting id="m3uRefreshMode">1</setting>\n'
-        '    <setting id="m3uRefreshIntervalMins">%d</setting>\n'
-        '</settings>\n' % (escape(INSTANCE_NAME), escape(url), REFRESH_MINUTES))
+def _instance_xml(url, epg_url=""):
+    rows = [
+        ("kodi_addon_instance_name", INSTANCE_NAME),
+        ("kodi_addon_instance_enabled", "true"),
+        ("m3uPathType", "1"),
+        ("m3uUrl", url),
+        ("m3uCache", "false"),
+        ("m3uRefreshMode", "1"),
+        ("m3uRefreshIntervalMins", str(REFRESH_MINUTES)),
+    ]
+    if epg_url:  # TV guide: remote XMLTV file, always fresh
+        rows += [("epgPathType", "1"), ("epgUrl", epg_url), ("epgCache", "false")]
+    body = "".join('    <setting id="%s">%s</setting>\n' % (key, escape(val)) for key, val in rows)
+    return '<settings version="2">\n%s</settings>\n' % body
 
 
-def _write_instance(url):
+def _write_instance(url, epg_url=""):
     """Kodi 20+: one file per instance. Reuse ours if present, otherwise add the next free number."""
     folder = _data_dir()
     numbers, ours = [], None
@@ -97,18 +100,22 @@ def _write_instance(url):
             pass
     number = ours if ours is not None else (max(numbers) + 1 if numbers else 1)
     with open(os.path.join(folder, "instance-settings-%d.xml" % number), "w", encoding="utf-8") as fh:
-        fh.write(_instance_xml(url))
+        fh.write(_instance_xml(url, epg_url))
 
 
-def _write_legacy(url):
+def _write_legacy(url, epg_url=""):
     """Kodi 19: the client has a single settings set."""
     addon = xbmcaddon.Addon(PVR_ID)
     addon.setSetting("m3uPathType", "1")
     addon.setSetting("m3uUrl", url)
     addon.setSetting("m3uCache", "false")
+    if epg_url:
+        addon.setSetting("epgPathType", "1")
+        addon.setSetting("epgUrl", epg_url)
+        addon.setSetting("epgCache", "false")
 
 
-def configure(url):
+def configure(url, epg_url=""):
     """Returns (ok, message)."""
     if not ensure_installed():
         return False, "Could not install IPTV Simple Client. Install it from Add-ons > PVR clients, then try again."
@@ -117,9 +124,9 @@ def configure(url):
     monitor.waitForAbort(2)
     try:
         if _major_version() >= 20:
-            _write_instance(url)
+            _write_instance(url, epg_url)
         else:
-            _write_legacy(url)
+            _write_legacy(url, epg_url)
     except Exception as exc:
         _set_enabled(True)
         return False, "Could not write the IPTV Simple Client settings: %s" % exc

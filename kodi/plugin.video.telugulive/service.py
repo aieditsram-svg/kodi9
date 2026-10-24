@@ -73,7 +73,7 @@ def offer_tv_setup(monitor):
             "Telugu Live",
             "Load all channels into Kodi's TV section?\n\n"
             "This sets up IPTV Simple Client with the Telugu Live playlist, grouped by language."):
-        ok, message = pvr_setup.configure(addon.getSetting("pvr_playlist").strip())
+        ok, message = pvr_setup.configure(addon.getSetting("pvr_playlist").strip(), addon.getSetting("pvr_epg").strip())
         xbmcgui.Dialog().ok("Telugu Live", message)
 
 

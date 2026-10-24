@@ -33,6 +33,13 @@
             <heading>30009</heading>
           </control>
         </setting>
+        <setting id="pvr_epg" type="string" label="30011">
+          <level>0</level>
+          <default>{{RAW_URL}}/epg_pvr.xml.gz</default>
+          <control type="edit" format="string">
+            <heading>30011</heading>
+          </control>
+        </setting>
         <setting id="pvr_prompted" type="boolean" label="30010">
           <level>4</level>
           <default>false</default>
