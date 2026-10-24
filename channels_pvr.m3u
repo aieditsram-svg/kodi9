@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-10-24 13:04 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-10-24 13:09 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -1205,7 +1205,7 @@ https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143711_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Raj News Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="RealNewsKerala.in@SD" x-category="news" tvg-logo="https://i.imgur.com/8hnJuxa.png" tvg-language="Malayalam" group-title="Malayalam",Real News Kerala
+#EXTINF:-1 tvg-id="RealNewsKerala.in@SD" x-category="news" tvg-logo="https://i.imgur.com/8hnJuxa.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Reporter TV
 https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
