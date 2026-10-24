@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 21:10 UTC",
-  "fingerprint": "7374363aa5f7edcd2fb78d2b595175de",
+  "updated_at": "2026-10-24 21:37 UTC",
+  "fingerprint": "966c2da77dcc3be259e829f30b38c24d",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 4,
-  "dead": 166,
+  "working": 1159,
+  "in_grace_period": 14,
+  "dead": 164,
   "hd_channels": 610,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
-      "hd": 228
+      "working": 436,
+      "hd": 229
     },
     "Kannada": {
       "total": 69,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 104,
       "working": 87,
-      "hd": 44
+      "hd": 43
     },
     "Marathi": {
       "total": 41,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 158,
-      "working": 121,
+      "working": 122,
       "hd": 59
     },
     "Urdu": {
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Awaaz India TV (720p) [Not 24/7]",
-      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -218,11 +213,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -532,12 +522,12 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
