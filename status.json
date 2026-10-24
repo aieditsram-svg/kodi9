@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 20:02 UTC",
-  "fingerprint": "540e47e3e4e587c76bbd010c9248915c",
+  "updated_at": "2026-10-24 20:25 UTC",
+  "fingerprint": "3ddddb7bef31e70472142f987f92028e",
   "total": 1323,
-  "working": 1146,
-  "in_grace_period": 4,
-  "dead": 177,
-  "hd_channels": 611,
+  "working": 1150,
+  "in_grace_period": 14,
+  "dead": 173,
+  "hd_channels": 606,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 104,
       "working": 82,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 426,
-      "hd": 228
+      "working": 430,
+      "hd": 225
     },
     "Kannada": {
       "total": 69,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 137,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 158,
@@ -415,21 +415,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -443,11 +428,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -582,7 +562,7 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
