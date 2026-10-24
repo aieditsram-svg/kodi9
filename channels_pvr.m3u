@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-10-24 19:17 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-10-24 19:43 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -667,8 +667,8 @@ https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",India TV Speed News
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 tvg-id="IndiaVoice.in@SD" x-category="news" tvg-logo="https://i.imgur.com/CwDznyQ.png" tvg-language="Hindi" group-title="Hindi" height="396",India Voice
-https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in@SD" x-category="news" tvg-logo="https://i.imgur.com/CwDznyQ.png" tvg-language="Hindi" group-title="Hindi" height="720",India Voice
+https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" x-category="news" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-language="Hindi" group-title="Hindi" height="396",INH 24x7
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" x-category="music" tvg-logo="https://i.imgur.com/fAJdazJ.png" tvg-language="Hindi" group-title="Hindi" height="720",Insync
@@ -1091,7 +1091,7 @@ https://cdn.pishow.tv/ott/live/1507/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142883_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="1080",Republic Kannada
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/2z0bDRD.png" tvg-language="Kannada" group-title="Kannada" height="720",Sankara TV
-https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Siri Kannada
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" tvg-language="Kannada" group-title="Kannada" height="720",Siri Kannada All Time
@@ -1574,7 +1574,7 @@ https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NTCTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-language="Tamil" group-title="Tamil" height="720",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil",Oli TV
+#EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
@@ -1607,7 +1607,7 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/CR7DGBv.png" tvg-language="Tamil" group-title="Tamil" height="1080",Sana TV
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/2z0bDRD.png" tvg-language="Tamil" group-title="Tamil" height="720",Sankara TV
-https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Sathiyam TV
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD" x-category="comedy" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="396",Sirippoli TV
@@ -1676,8 +1676,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-id="YETTV.in@HD" x-category="entertainment" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" tvg-language="Tamil" group-title="Tamil",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-language="Tamil" group-title="Tamil",Zee Tamil HD
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Zee Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" x-category="news" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" tvg-language="Tamil" group-title="Tamil" height="720",Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="396",10 TV
