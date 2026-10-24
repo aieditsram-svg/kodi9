@@ -4,7 +4,7 @@ A GitHub Actions workflow rebuilds the playlists every 5 minutes. Each run fetch
 
 ## Playlist files
 
-All files are at `https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/<file>`.
+All files are at `https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/<file>`.
 
 | File | Use it for |
 |------|-----------|
@@ -22,9 +22,9 @@ Channels are grouped by language (`group-title` is the language name), so player
 ## 1. Kodi: IPTV Simple Client (PVR, normal TV guide and channel zapping)
 
 1. Add-ons > Install from repository > **PVR clients** > **PVR IPTV Simple Client** > Install.
-2. Open its settings > **General**: Location = **Remote path (Internet address)**, M3U play list URL = `https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/channels_pvr.m3u`.
+2. Open its settings > **General**: Location = **Remote path (Internet address)**, M3U play list URL = `https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/channels_pvr.m3u`.
 3. Turn off "Cache m3u at local storage" if shown, and set the playlist refresh to repeat (for example hourly) so new links are picked up.
-4. Optional TV guide: in the same settings, **EPG settings** > Location = **Remote path (Internet address)**, XMLTV URL = `https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/epg_pvr.xml.gz` (Telugu only: `epg_telugu.xml.gz`). Turn off "Cache XML at local storage".
+4. Optional TV guide: in the same settings, **EPG settings** > Location = **Remote path (Internet address)**, XMLTV URL = `https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/epg_pvr.xml.gz` (Telugu only: `epg_telugu.xml.gz`). Turn off "Cache XML at local storage".
 5. Restart Kodi. Live TV > Channels shows the channels, and Channel groups shows one group per language.
 
 For HD only, use `channels_hd.m3u`. For a single language, use `languages/telugu.m3u` and so on.
@@ -34,7 +34,7 @@ The PVR client plays the link it was given and cannot switch to another one if i
 ## 2. Kodi: Telugu Live add-on (instant failover)
 
 1. Kodi: Settings > System > Add-ons > allow **Unknown sources**.
-2. Download `https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/repository.telugulive.zip` to the device.
+2. Download `https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/repository.telugulive.zip` to the device.
 3. Add-ons > Install from zip file > pick `repository.telugulive.zip`.
 4. Add-ons > Install from repository > Telugu Live Repository > Video add-ons > **Telugu Live** > Install.
 
@@ -64,12 +64,12 @@ JioTV's code is unchanged from the original MIT-licensed add-on by tobalan and b
 
 ## 3. Web player for a blog or website
 
-`player.html` is a ready-made player: language filter, HD filter, search, and automatic switching to the next link when one fails. It is published at `https://aieditsram-svg.github.io/kodi5/player.html` once GitHub Pages is on.
+`player.html` is a ready-made player: language filter, HD filter, search, and automatic switching to the next link when one fails. It is published at `https://aieditsram-svg.github.io/kodi9/player.html` once GitHub Pages is on.
 
 **Embed it anywhere** (Blogger, WordPress, any site that accepts HTML):
 
 ```html
-<iframe src="https://aieditsram-svg.github.io/kodi5/player.html"
+<iframe src="https://aieditsram-svg.github.io/kodi9/player.html"
         style="width:100%;height:720px;border:0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ```
 
