@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 23:32 UTC",
-  "fingerprint": "53cbbbfd1c3a9f93bde29fcdf4cbbee7",
+  "updated_at": "2026-10-24 23:53 UTC",
+  "fingerprint": "58aad6175e93f23123a598ea1b80c3d6",
   "total": 1323,
-  "working": 1150,
-  "in_grace_period": 7,
-  "dead": 173,
+  "working": 1149,
+  "in_grace_period": 9,
+  "dead": 174,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 432,
+      "working": 431,
       "hd": 231
     },
     "Kannada": {
@@ -378,6 +378,11 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shemaroo TV (576p)",
