@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-24 15:50 UTC",
-  "fingerprint": "648563b14da2558d5339e9a15953e979",
+  "updated_at": "2026-10-24 16:11 UTC",
+  "fingerprint": "71ab0fc901fef4cd9e90cb542b23e7cf",
   "total": 1323,
-  "working": 1148,
-  "in_grace_period": 11,
-  "dead": 175,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 6,
+  "dead": 174,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
       "total": 104,
-      "working": 81,
+      "working": 82,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 428,
-      "hd": 229
+      "working": 429,
+      "hd": 230
     },
     "Kannada": {
       "total": 69,
@@ -137,6 +137,11 @@
     {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -405,16 +410,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -457,6 +452,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -793,11 +793,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
