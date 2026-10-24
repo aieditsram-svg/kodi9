@@ -90,32 +90,43 @@ def logout():
 	Script.notify("You've been logged out",'')
 def getHeaders():
 	with PersistentDict(_D)as A:return A.get(_H,_A)
+def _jio_get(url,tag):
+	try:
+		H={k:str(v)for k,v in getChannelHeaders().items()if v is not None}
+	except Exception:H={}
+	for hdr in([H,{}]if H else[{}]):
+		W='with session'if hdr else'no session'
+		try:
+			R=urlquick.get(url,verify=_A,max_age=-1,headers=hdr)
+			Script.log('JioTV %s HTTP %s (%s)'%(tag,R.status_code,W),lvl=Script.INFO)
+			R.raise_for_status()
+			return R
+		except Exception as X:
+			Script.log('JioTV %s failed (%s): %r'%(tag,W,X),lvl=Script.WARNING)
+	return None
 def getCachedChannels():
 	with PersistentDict(_D)as A:
 		B=A.get(_M,_A)
 		if not B:
+			R=_jio_get(CHANNELS_SRC,'channel list')
 			try:
-				R=urlquick.get(CHANNELS_SRC,verify=_A,max_age=-1)
-				Script.log('JioTV channel list HTTP %s'%R.status_code,lvl=Script.INFO)
-				R.raise_for_status()
-				C=R.json().get(_l)
+				C=R.json().get(_l)if R else None
 				if C:A[_M]=C
+				else:Script.notify(_V,_W)
 			except Exception as X:
-				Script.log('JioTV channel list fetch failed: %r'%(X,),lvl=Script.WARNING);Script.notify(_V,_W)
+				Script.log('JioTV channel list parse failed: %r'%(X,),lvl=Script.WARNING);Script.notify(_V,_W)
 		return A.get(_M,_A)
 def getCachedDictionary():
 	with PersistentDict(_D)as A:
 		C=A.get(_N,_A)
 		if not C:
+			R=_jio_get(DICTIONARY_URL,'dictionary')
 			try:
-				R=urlquick.get(DICTIONARY_URL,verify=_A,max_age=-1)
-				Script.log('JioTV dictionary HTTP %s'%R.status_code,lvl=Script.INFO)
-				R.raise_for_status()
-				T=R.text.lstrip(u'\ufeff');T=T[T.find('{'):]
-				D=json.loads(T)
-				if isinstance(D,dict)and D:A[_N]=D
+				if R:
+					T=R.text.lstrip(u'\ufeff');T=T[T.find('{'):];D=json.loads(T)
+					if isinstance(D,dict)and D:A[_N]=D
 			except Exception as X:
-				Script.log('JioTV dictionary fetch failed: %r'%(X,),lvl=Script.WARNING);Script.notify(_V,_W)
+				Script.log('JioTV dictionary parse failed: %r'%(X,),lvl=Script.WARNING)
 		return A.get(_N,_A)
 def getFeatured():
 	try:A=urlquick.get(FEATURED_SRC,verify=_A,headers={_h:_k,_E:_C,_G:_F,'versionCode':'290'},max_age=-1).json();return A.get('featuredNewData',[])

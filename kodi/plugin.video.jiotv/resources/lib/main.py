@@ -74,15 +74,44 @@ import inputstreamhelper
 from time import time,sleep
 from datetime import datetime,timedelta,date
 import m3u8,requests,gzip,xml.etree.ElementTree as ET,os
+import re
 monitor=Monitor()
 @Route.register
 def root(plugin):
+	yield Listitem.from_dict(**{_B:'Public channels (backup)',_C:Route.ref('/resources/lib/main:public_groups')})
 	A='cms/TKSS_Carousal1.jpg';yield Listitem.from_dict(**{_B:'Featured',_L:{_M:IMG_CATCHUP_SHOWS+A,_I:IMG_CATCHUP_SHOWS+A,_P:IMG_CATCHUP_SHOWS+A},_C:Route.ref(_s)})
 	for B in[_t,_u]:yield Listitem.from_dict(**{_B:B,_C:Route.ref('/resources/lib/main:show_listby'),_F:{'by':B}})
+PUBLIC_M3U='https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/channels_best.m3u'
+def _parse_m3u(text):
+	out=[];meta=None
+	for L in text.splitlines():
+		L=L.strip()
+		if L.startswith('#EXTINF'):
+			g=re.search(r'group-title="([^"]*)"',L);l=re.search(r'tvg-logo="([^"]*)"',L)
+			meta={'name':L.rsplit(',',1)[-1].strip()or'Channel','group':(g.group(1)if g else'')or'Other','logo':l.group(1)if l else''}
+		elif L and not L.startswith('#')and meta:
+			meta['url']=L;out.append(meta);meta=None
+	return out
+def _public_channels():
+	try:
+		R=requests.get(PUBLIC_M3U,timeout=20);R.raise_for_status();return _parse_m3u(R.text)
+	except Exception as X:
+		log('JioTV public playlist failed: %r'%(X,),LOGINFO);return[]
+@Route.register
+def public_groups(plugin):
+	C=_public_channels()
+	if not C:Script.notify('Public channels','Playlist unavailable');return
+	for G in sorted({c['group']for c in C},key=lambda g:(g!='Telugu',g)):yield Listitem.from_dict(**{_B:'%s (%d)'%(G,sum(1 for c in C if c['group']==G)),_C:Route.ref('/resources/lib/main:public_list'),_F:{'group':G}})
+@Route.register
+def public_list(plugin,group):
+	for c in _public_channels():
+		if c['group']==group:yield Listitem.from_dict(**{_B:c['name'],_L:{_M:c['logo'],_I:c['logo']},_C:play_public,_F:{'url':c['url']}})
+@Resolver.register
+def play_public(plugin,url):return url
 @Route.register
 def show_featured(plugin,id=_N):
 	G='showStatus';F='id';D='data'
-	for C in getFeatured():
+	for C in getFeatured()or[]:
 		if id:
 			if int(C.get(F,0))==int(id):
 				H=C.get(D,[])
@@ -94,7 +123,9 @@ def show_featured(plugin,id=_N):
 		else:yield Listitem.from_dict(**{_B:C.get('name'),_L:{_M:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G),_I:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G),_P:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G)},_C:Route.ref(_s),_F:{F:C.get(F)}})
 @Route.register
 def show_listby(plugin,by):
-	B=getCachedDictionary()or{};E=B.get(_m)or{};F=B.get(_n)or{};C=list(F.values());C.append(_a);G={_t:E.values(),_u:C}
+	B=getCachedDictionary()or{};E=B.get(_m)or{};F=B.get(_n)or{}
+	if not(E or F):Script.notify(_q,'Jio refused channel data - open Public channels (backup)')
+	C=list(F.values());C.append(_a);G={_t:E.values(),_u:C}
 	for A in G[by]:D=IMG_CONFIG[by].get(A,{}).get('tvImg','');H=IMG_CONFIG[by].get(A,{}).get('promoImg','');yield Listitem.from_dict(**{_B:A,_L:{_M:D,_I:D,_P:H},_C:Route.ref('/resources/lib/main:show_category'),_F:{'categoryOrLang':A,'by':by}})
 def is_lang_allowed(langId,langMap):
 	B=langMap;A=langId
