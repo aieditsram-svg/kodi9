@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 16:11 UTC",
-  "fingerprint": "71ab0fc901fef4cd9e90cb542b23e7cf",
+  "updated_at": "2026-10-24 16:41 UTC",
+  "fingerprint": "721cefbf734db4cc592dc05c8030f989",
   "total": 1323,
-  "working": 1149,
-  "in_grace_period": 6,
-  "dead": 174,
-  "hd_channels": 613,
+  "working": 1150,
+  "in_grace_period": 4,
+  "dead": 173,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 429,
-      "hd": 230
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 69,
@@ -235,6 +235,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Good News Today (720p)",
+      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
@@ -410,11 +415,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -423,11 +423,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
