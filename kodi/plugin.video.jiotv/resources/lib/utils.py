@@ -94,16 +94,28 @@ def getCachedChannels():
 	with PersistentDict(_D)as A:
 		B=A.get(_M,_A)
 		if not B:
-			try:C=urlquick.get(CHANNELS_SRC,verify=_A).json().get(_l);A[_M]=C
-			except:Script.notify(_V,_W)
+			try:
+				R=urlquick.get(CHANNELS_SRC,verify=_A,max_age=-1)
+				Script.log('JioTV channel list HTTP %s'%R.status_code,lvl=Script.INFO)
+				R.raise_for_status()
+				C=R.json().get(_l)
+				if C:A[_M]=C
+			except Exception as X:
+				Script.log('JioTV channel list fetch failed: %r'%(X,),lvl=Script.WARNING);Script.notify(_V,_W)
 		return A.get(_M,_A)
 def getCachedDictionary():
-	B='utf8'
 	with PersistentDict(_D)as A:
 		C=A.get(_N,_A)
 		if not C:
-			try:D=urlquick.get(DICTIONARY_URL,verify=_A).text.encode(B)[3:].decode(B);A[_N]=json.loads(D)
-			except:Script.notify(_V,_W)
+			try:
+				R=urlquick.get(DICTIONARY_URL,verify=_A,max_age=-1)
+				Script.log('JioTV dictionary HTTP %s'%R.status_code,lvl=Script.INFO)
+				R.raise_for_status()
+				T=R.text.lstrip(u'\ufeff');T=T[T.find('{'):]
+				D=json.loads(T)
+				if isinstance(D,dict)and D:A[_N]=D
+			except Exception as X:
+				Script.log('JioTV dictionary fetch failed: %r'%(X,),lvl=Script.WARNING);Script.notify(_V,_W)
 		return A.get(_N,_A)
 def getFeatured():
 	try:A=urlquick.get(FEATURED_SRC,verify=_A,headers={_h:_k,_E:_C,_G:_F,'versionCode':'290'},max_age=-1).json();return A.get('featuredNewData',[])

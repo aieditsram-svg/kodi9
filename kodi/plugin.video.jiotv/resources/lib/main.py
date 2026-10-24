@@ -94,7 +94,7 @@ def show_featured(plugin,id=_N):
 		else:yield Listitem.from_dict(**{_B:C.get('name'),_L:{_M:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G),_I:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G),_P:IMG_CATCHUP_SHOWS+C.get(D,[{}])[0].get(_G)},_C:Route.ref(_s),_F:{F:C.get(F)}})
 @Route.register
 def show_listby(plugin,by):
-	B=getCachedDictionary();E=B.get(_m);F=B.get(_n);C=list(F.values());C.append(_a);G={_t:E.values(),_u:C}
+	B=getCachedDictionary()or{};E=B.get(_m)or{};F=B.get(_n)or{};C=list(F.values());C.append(_a);G={_t:E.values(),_u:C}
 	for A in G[by]:D=IMG_CONFIG[by].get(A,{}).get('tvImg','');H=IMG_CONFIG[by].get(A,{}).get('promoImg','');yield Listitem.from_dict(**{_B:A,_L:{_M:D,_I:D,_P:H},_C:Route.ref('/resources/lib/main:show_category'),_F:{'categoryOrLang':A,'by':by}})
 def is_lang_allowed(langId,langMap):
 	B=langMap;A=langId
@@ -107,7 +107,7 @@ def isPlayAbleLang(each,LANG_MAP):return not each.get(_A4)and is_lang_allowed(st
 def isPlayAbleGenre(each,GENRE_MAP):return not each.get(_A4)and is_genre_allowed(str(each.get(_b)),GENRE_MAP)
 @Route.register
 def show_category(plugin,categoryOrLang,by):
-	C=categoryOrLang;I=getCachedChannels();E=getCachedDictionary();D=E.get(_m);B=E.get(_n)
+	C=categoryOrLang;I=getCachedChannels()or[];E=getCachedDictionary()or{};D=E.get(_m)or{};B=E.get(_n)or{}
 	def J(x):
 		A=by.lower()[:-1]
 		if A==_g:return D[str(x.get(_b))]==C and isPlayAbleLang(x,B)
@@ -191,7 +191,7 @@ def applyall(plugin):kodi_rpc(_d,{_e:ADDON_ID,_f:_D});monitor.waitForAbort(1);ko
 def logout(plugin):ULogout()
 @Script.register
 def m3ugen(plugin,notify='yes'):
-	I=getCachedChannels();C=getCachedDictionary();D=C.get(_m);E=C.get(_n);F='#EXTM3U x-tvg-url="%s"'%EPG_SRC
+	I=getCachedChannels()or[];C=getCachedDictionary()or{};D=C.get(_m)or{};E=C.get(_n)or{};F='#EXTM3U x-tvg-url="%s"'%EPG_SRC
 	for(J,A)in enumerate(I):
 		if str(A.get(_R))not in E.keys():B=_a
 		else:B=E[str(A.get(_R))]
