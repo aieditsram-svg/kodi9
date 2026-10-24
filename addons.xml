@@ -117,9 +117,9 @@
 <addon id="repository.telugulive" name="Telugu Live Repository" version="1.0.1" provider-name="Telugu Live">
   <extension point="xbmc.addon.repository" name="Telugu Live Repository">
     <dir>
-      <info compressed="false">https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/aieditsram-svg/kodi5/main/zips/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/aieditsram-svg/kodi9/main/zips/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
