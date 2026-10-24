@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 22:02 UTC",
-  "fingerprint": "9d56e49cc5ef15a2587bf32d97d0279b",
+  "updated_at": "2026-10-24 22:26 UTC",
+  "fingerprint": "6eef3c9edebb341cf4f1591e03de83e5",
   "total": 1323,
   "working": 1158,
-  "in_grace_period": 10,
+  "in_grace_period": 17,
   "dead": 165,
-  "hd_channels": 612,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 529,
       "working": 435,
-      "hd": 231
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -49,13 +49,13 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Malayalam": {
       "total": 104,
       "working": 87,
-      "hd": 43
+      "hd": 44
     },
     "Marathi": {
       "total": 41,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -138,11 +138,6 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -265,11 +260,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -287,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -763,6 +753,16 @@
       "name": "Shemaroo TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "PTC Punjabi (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
