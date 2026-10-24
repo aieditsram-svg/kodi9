@@ -1,0 +1,48 @@
+name: Update TV guide (EPG)
+
+on:
+  schedule:
+    - cron: "20 0 * * *"      # every day at 00:20 UTC (05:50 IST)
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    paths:
+      - "scripts/build_epg.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-epg
+  cancel-in-progress: false
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Downloads a public guide, matches its channels to channels_pvr.m3u by name and writes
+      # epg_telugu.xml.gz and epg_pvr.xml.gz. If the source is down, the old files are kept.
+      - name: Build TV guide
+        run: python scripts/build_epg.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg_telugu.xml.gz epg_pvr.xml.gz
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update TV guide $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in 1 2 3; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push && exit 0
+              sleep 5
+            done
+            exit 1
+          fi
