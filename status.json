@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 12:30 UTC",
-  "fingerprint": "20ace92839da716800d2683d89a4f8f8",
+  "updated_at": "2026-10-24 12:32 UTC",
+  "fingerprint": "2d6998f71f38262adae6f5984d550941",
   "total": 1323,
-  "working": 1154,
-  "in_grace_period": 11,
-  "dead": 169,
+  "working": 1151,
+  "in_grace_period": 7,
+  "dead": 172,
   "hd_channels": 613,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 104,
-      "working": 80,
+      "working": 79,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
-      "hd": 231
+      "working": 434,
+      "hd": 230
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 158,
@@ -237,7 +237,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -385,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -392,6 +397,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -562,7 +572,7 @@
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -773,6 +783,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
