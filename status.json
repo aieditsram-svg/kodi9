@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-25 15:56 UTC",
-  "fingerprint": "36c4ba7a794054c442ece39bbe1f12e5",
+  "updated_at": "2026-10-25 16:19 UTC",
+  "fingerprint": "7cc51fefd42ec0b0897982e104e1ffba",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 16,
-  "dead": 164,
-  "hd_channels": 613,
+  "working": 1145,
+  "in_grace_period": 9,
+  "dead": 169,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
+      "working": 120,
       "hd": 64
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 228
+      "working": 427,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 121,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -125,6 +125,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -133,6 +138,11 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "DD National HD (576p)",
@@ -205,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -255,6 +270,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -278,6 +298,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -378,11 +403,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -532,12 +552,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -553,6 +573,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
