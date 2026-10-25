@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 20:10 UTC",
-  "fingerprint": "5f08663a3d8de1f8e21131af90863ee3",
+  "updated_at": "2026-10-25 20:35 UTC",
+  "fingerprint": "ed3213aeac2a9c2597e19e0a2d2c6ef3",
   "total": 1314,
-  "working": 1145,
-  "in_grace_period": 39,
-  "dead": 169,
-  "hd_channels": 612,
+  "working": 1146,
+  "in_grace_period": 7,
+  "dead": 168,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 230
+      "working": 429,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -405,11 +405,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -552,12 +547,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -862,37 +857,37 @@
     {
       "name": "Unite8 Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Gold HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cinema HD (1080p)",
