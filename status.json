@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 21:26 UTC",
-  "fingerprint": "554ed2365ead4f5541289e5b6cb07184",
+  "updated_at": "2026-10-25 21:52 UTC",
+  "fingerprint": "e34080f1b22983919697e71e5f797993",
   "total": 1314,
-  "working": 1145,
-  "in_grace_period": 8,
-  "dead": 169,
+  "working": 1141,
+  "in_grace_period": 6,
+  "dead": 173,
   "hd_channels": 610,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 229
+      "working": 424,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 71
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -400,9 +400,24 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -442,6 +457,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
