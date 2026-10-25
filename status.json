@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 01:51 UTC",
-  "fingerprint": "9345057004e9867d123046bda2d4323f",
+  "updated_at": "2026-10-25 02:15 UTC",
+  "fingerprint": "726ffd149d1fc652d15d400a5440485e",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 18,
-  "dead": 164,
+  "working": 1149,
+  "in_grace_period": 12,
+  "dead": 165,
   "hd_channels": 611,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 229
+      "working": 428,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 136,
-      "hd": 72
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -277,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -373,6 +373,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
