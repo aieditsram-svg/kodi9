@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 09:26 UTC",
-  "fingerprint": "51f73118345635882ee66690820a7a6e",
+  "updated_at": "2026-10-25 09:56 UTC",
+  "fingerprint": "4ab3c05beae876c28e50a113640a923b",
   "total": 1314,
-  "working": 1154,
-  "in_grace_period": 8,
-  "dead": 160,
-  "hd_channels": 614,
+  "working": 1153,
+  "in_grace_period": 13,
+  "dead": 161,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 230
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -365,6 +365,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -412,6 +417,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -517,12 +527,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -757,11 +767,6 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "PTC Punjabi (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
