@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 10:18 UTC",
-  "fingerprint": "f9f814145ca1dfa7cf9a9637370c8bd7",
+  "updated_at": "2026-10-25 10:50 UTC",
+  "fingerprint": "63fde7bb67671b45052df308b12129d8",
   "total": 1314,
-  "working": 1149,
-  "in_grace_period": 10,
-  "dead": 165,
-  "hd_channels": 613,
+  "working": 1148,
+  "in_grace_period": 7,
+  "dead": 166,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 428,
-      "hd": 229
+      "hd": 232
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 136,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -380,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -550,11 +560,6 @@
       "reason": "HTTP 429"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -563,11 +568,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -768,6 +768,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
