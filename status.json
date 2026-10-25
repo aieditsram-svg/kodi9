@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-25 06:13 UTC",
-  "fingerprint": "e9f7b138289d0331122f3af7c5c9dca8",
+  "updated_at": "2026-10-25 06:56 UTC",
+  "fingerprint": "7031bf6cf02f9cc20a231bcbcce86f33",
   "total": 1314,
-  "working": 1152,
-  "in_grace_period": 20,
-  "dead": 162,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 10,
+  "dead": 165,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
+      "working": 120,
       "hd": 64
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 229
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 500"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -125,9 +125,19 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -255,6 +265,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -283,6 +298,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -347,7 +367,7 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Shemaroo TV (576p)",
@@ -382,11 +402,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -522,12 +537,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 429"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -783,11 +803,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "M Nadu TV (576p)",
