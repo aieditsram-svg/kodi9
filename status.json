@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 15:01 UTC",
-  "fingerprint": "b106b98a5dc1696c8a8eaea50fd134b8",
+  "updated_at": "2026-10-25 15:27 UTC",
+  "fingerprint": "65d6de3eeda62a9e80d7abf57ac67ac2",
   "total": 1314,
-  "working": 1147,
-  "in_grace_period": 6,
-  "dead": 167,
+  "working": 1149,
+  "in_grace_period": 16,
+  "dead": 165,
   "hd_channels": 613,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
-      "hd": 230
+      "working": 427,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 2,
+      "hd": 2
     },
     "Malayalam": {
       "total": 100,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 135,
-      "hd": 72
+      "working": 134,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -133,11 +133,6 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -260,11 +255,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -282,7 +272,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -392,16 +382,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -552,7 +532,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
+      "reason": "HTTP 456"
+    },
+    {
+      "name": "&xplor HD (1080p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 429"
+    },
+    {
+      "name": "Mei Alai TV (576p)",
+      "url": "https://meialai.iptelevishion.com/meialai/2/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
