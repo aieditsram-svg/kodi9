@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 23:21 UTC",
-  "fingerprint": "776bd15fc154a8748f857e80dd959272",
+  "updated_at": "2026-10-26 23:51 UTC",
+  "fingerprint": "34a448ae69d94908276152229bd2f956",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 7,
-  "dead": 160,
-  "hd_channels": 608,
+  "working": 1153,
+  "in_grace_period": 11,
+  "dead": 162,
+  "hd_channels": 607,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -75,7 +75,7 @@
     "Other": {
       "total": 15,
       "working": 14,
-      "hd": 12
+      "hd": 13
     },
     "Punjabi": {
       "total": 88,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 118,
       "hd": 59
     },
     "Urdu": {
@@ -210,6 +210,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -250,6 +255,11 @@
       "reason": "HTTP 451"
     },
     {
+      "name": "NDTV Profit (1080p)",
+      "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
       "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
       "reason": "HTTP 451"
@@ -282,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
