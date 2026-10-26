@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 13:43 UTC",
-  "fingerprint": "59b1ef91f784f7a4ca28c43706b5e1d7",
+  "updated_at": "2026-10-26 15:21 UTC",
+  "fingerprint": "8733df78d268939176f9beaf807f1cd7",
   "total": 1315,
-  "working": 1161,
-  "in_grace_period": 23,
-  "dead": 154,
-  "hd_channels": 609,
+  "working": 1160,
+  "in_grace_period": 30,
+  "dead": 155,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 435,
-      "hd": 225
+      "working": 434,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -360,6 +365,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -502,12 +512,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -733,11 +743,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
