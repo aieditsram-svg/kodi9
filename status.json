@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 10:46 UTC",
-  "fingerprint": "8116b90a5e8ac6fa55b20b8539875f9d",
+  "updated_at": "2026-10-26 11:24 UTC",
+  "fingerprint": "0dcc8551f3e3f91f38c324bdb76e345c",
   "total": 1315,
   "working": 1155,
-  "in_grace_period": 7,
+  "in_grace_period": 9,
   "dead": 160,
-  "hd_channels": 613,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 432,
-      "hd": 229
+      "working": 431,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -565,6 +565,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Vistaar News (1080p)",
+      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -753,11 +758,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
