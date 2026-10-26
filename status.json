@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 03:58 UTC",
-  "fingerprint": "98cecdc6e115ec0bb1e56d5c099bc38e",
+  "updated_at": "2026-10-26 04:29 UTC",
+  "fingerprint": "38a625a2f922bdd182263ba2d82ad6ad",
   "total": 1315,
-  "working": 1150,
-  "in_grace_period": 10,
-  "dead": 165,
+  "working": 1149,
+  "in_grace_period": 12,
+  "dead": 166,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 229
+      "working": 429,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 136,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -370,14 +370,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -803,6 +803,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "M Nadu TV (576p)",
