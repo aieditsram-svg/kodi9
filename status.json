@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 07:12 UTC",
-  "fingerprint": "df2618873197426ce29c8d47458ab314",
+  "updated_at": "2026-10-26 08:00 UTC",
+  "fingerprint": "763a8d73a9f5499eb90e63051d2f3223",
   "total": 1315,
   "working": 1156,
   "in_grace_period": 13,
   "dead": 159,
-  "hd_channels": 614,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,6 +385,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -412,6 +412,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,11 +753,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
