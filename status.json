@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 23:42 UTC",
-  "fingerprint": "4a2eb9a2001d72fbbe83168f3253737c",
+  "updated_at": "2026-10-26 00:01 UTC",
+  "fingerprint": "fa97fd4b0d94f5ddf88460f0e400951c",
   "total": 1314,
-  "working": 1135,
-  "in_grace_period": 10,
-  "dead": 179,
-  "hd_channels": 599,
+  "working": 1134,
+  "in_grace_period": 5,
+  "dead": 180,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 119,
-      "hd": 61
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 424,
-      "hd": 225
+      "working": 423,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
       "working": 51,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 152,
@@ -405,6 +405,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Darshan 24 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -582,11 +587,6 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
-    },
-    {
-      "name": "&xplor HD (1080p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 429"
     },
     {
@@ -847,6 +847,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
