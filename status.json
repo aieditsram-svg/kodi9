@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 08:17 UTC",
-  "fingerprint": "f30ee2955dc7cb71fa6eaa380252deee",
+  "updated_at": "2026-10-27 09:01 UTC",
+  "fingerprint": "991ad89f4a8f26616481327e30e9feed",
   "total": 1315,
-  "working": 1160,
-  "in_grace_period": 18,
-  "dead": 155,
-  "hd_channels": 616,
+  "working": 1155,
+  "in_grace_period": 12,
+  "dead": 160,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 434,
-      "hd": 230
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 87,
-      "hd": 43
+      "working": 86,
+      "hd": 42
     },
     "Marathi": {
       "total": 37,
@@ -122,6 +122,16 @@
     {
       "name": "Aaj Tak (1080p)",
       "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aastha Bhajan (576p)",
+      "url": "http://103.175.73.12:8080/live/339/master.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aastha SD (576p)",
+      "url": "http://103.175.73.12:8080/live/338/master.m3u8",
       "reason": "URLError"
     },
     {
@@ -220,6 +230,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -232,6 +247,11 @@
     {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Mazhavil Manorama HD (576p)",
+      "url": "http://103.175.73.12:8080/live/245/master.m3u8",
       "reason": "URLError"
     },
     {
@@ -360,13 +380,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -375,14 +395,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -822,6 +842,11 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
