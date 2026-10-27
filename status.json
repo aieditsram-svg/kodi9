@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 07:33 UTC",
-  "fingerprint": "17493683c9612fc707cbd65331c036d8",
+  "updated_at": "2026-10-27 08:17 UTC",
+  "fingerprint": "f30ee2955dc7cb71fa6eaa380252deee",
   "total": 1315,
-  "working": 1162,
-  "in_grace_period": 17,
-  "dead": 153,
+  "working": 1160,
+  "in_grace_period": 18,
+  "dead": 155,
   "hd_channels": 616,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 436,
-      "hd": 231
+      "working": 434,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 100,
       "working": 87,
-      "hd": 42
+      "hd": 43
     },
     "Marathi": {
       "total": 37,
@@ -360,6 +360,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -502,17 +512,17 @@
     {
       "name": "Sun Gemini (576p)",
       "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -757,7 +767,7 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Star Movies HD (1080p)",
