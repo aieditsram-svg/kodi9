@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 03:19 UTC",
-  "fingerprint": "026469467c1495450350f70be7e3f3ff",
+  "updated_at": "2026-10-27 03:56 UTC",
+  "fingerprint": "2063f40c49e2d84577c050eabe8d3442",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 10,
-  "dead": 161,
-  "hd_channels": 611,
+  "working": 1156,
+  "in_grace_period": 21,
+  "dead": 159,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 44
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 123,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 433,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 152,
       "working": 120,
-      "hd": 59
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -360,11 +360,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -372,11 +367,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
