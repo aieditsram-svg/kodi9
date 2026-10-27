@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 11:30 UTC",
-  "fingerprint": "ebd12f893210c536062f6cca4379de74",
+  "updated_at": "2026-10-27 12:08 UTC",
+  "fingerprint": "cf33c907ed0227ee4ddc562e75f575d0",
   "total": 1315,
   "working": 1152,
-  "in_grace_period": 15,
+  "in_grace_period": 16,
   "dead": 163,
-  "hd_channels": 613,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -402,11 +402,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -782,6 +777,11 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
