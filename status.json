@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-27 23:24 UTC",
-  "fingerprint": "e5acf44c1d3992cd2700456d34ae23fc",
+  "updated_at": "2026-10-27 23:54 UTC",
+  "fingerprint": "74ee0003d1c1be3bd0db077da739d558",
   "total": 1315,
   "working": 1146,
-  "in_grace_period": 4,
+  "in_grace_period": 2,
   "dead": 169,
   "hd_channels": 609,
   "languages": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,

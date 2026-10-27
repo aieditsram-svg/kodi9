@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-10-27 23:24 UTC
+# Working channels, all languages, updated 2026-10-27 23:54 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -797,7 +797,7 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="1080",DD Sports SD (576p)
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
-#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="720",Deewana HD (540p)
+#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="540",Deewana HD (540p)
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/jSedjXf.png" tvg-language="Hindi" group-title="Hindi" height="576",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
@@ -2136,7 +2136,7 @@ https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="576",OM TV (576p)
+#EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/5PyJj2n.png" tvg-language="Tamil" group-title="Tamil" height="396",Peppers TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8

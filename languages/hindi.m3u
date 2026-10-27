@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Hindi channels, updated 2026-10-27 23:24 UTC
+# Working Hindi channels, updated 2026-10-27 23:54 UTC
 #EXTINF:-1 tvg-id="AndTV.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",&TV (720p)
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",22Scope News (1080p)
@@ -252,7 +252,7 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="1080",DD Sports SD (576p)
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
-#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="720",Deewana HD (540p)
+#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="540",Deewana HD (540p)
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/jSedjXf.png" tvg-language="Hindi" group-title="Hindi" height="576",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
