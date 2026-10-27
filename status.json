@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 21:51 UTC",
-  "fingerprint": "6a22694411dba9fb54cf4c4a3f5ff42e",
+  "updated_at": "2026-10-27 22:22 UTC",
+  "fingerprint": "1c4fec5f70e12fc41a29c630dd4fd507",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 16,
-  "dead": 161,
-  "hd_channels": 607,
+  "working": 1150,
+  "in_grace_period": 12,
+  "dead": 165,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 432,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
-      "hd": 46
+      "working": 83,
+      "hd": 44
     },
     "Santali": {
       "total": 1,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -425,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -533,6 +528,11 @@
       "name": "Sun Gemini (576p)",
       "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Fast1 (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
@@ -888,6 +888,26 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Chintpurni Live (360p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Padharo SA (720p)",
+      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi Music HD (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
