@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 22:56 UTC",
-  "fingerprint": "d9bb68ba0a9dd7372561473acfb64320",
+  "updated_at": "2026-10-27 23:24 UTC",
+  "fingerprint": "e5acf44c1d3992cd2700456d34ae23fc",
   "total": 1315,
-  "working": 1143,
-  "in_grace_period": 5,
-  "dead": 172,
-  "hd_channels": 605,
+  "working": 1146,
+  "in_grace_period": 4,
+  "dead": 169,
+  "hd_channels": 609,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 119,
-      "hd": 62
+      "working": 121,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
-      "working": 51,
-      "hd": 26
+      "working": 52,
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -142,11 +142,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Andy Haryana (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -258,11 +253,6 @@
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "India Ahead (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -400,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -428,6 +413,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -612,7 +602,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -943,11 +933,6 @@
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
