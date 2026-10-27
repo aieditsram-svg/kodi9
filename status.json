@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 15:58 UTC",
-  "fingerprint": "85b7642c6f97533b241f1b4800e6fd55",
+  "updated_at": "2026-10-27 16:42 UTC",
+  "fingerprint": "f49265c2047453ce3e36fec7e2384c2a",
   "total": 1315,
-  "working": 1146,
-  "in_grace_period": 8,
-  "dead": 169,
-  "hd_channels": 610,
+  "working": 1147,
+  "in_grace_period": 4,
+  "dead": 168,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 424,
-      "hd": 226
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 73
+      "working": 136,
+      "hd": 71
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
-      "hd": 59
+      "working": 119,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -277,7 +277,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -410,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -422,6 +417,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -590,11 +590,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BVG (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
       "reason": "TimeoutError"
@@ -612,7 +607,7 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "World Punjabi TV (576p)",
@@ -827,7 +822,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -885,6 +880,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -912,11 +912,6 @@
     {
       "name": "Sony Sports Ten 4 Kannada (576p)",
       "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Eurosport (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
