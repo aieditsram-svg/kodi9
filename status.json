@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 06:47 UTC",
-  "fingerprint": "be4100a6cfc0e3e2ca65b2fcb8cfc22e",
+  "updated_at": "2026-10-27 07:33 UTC",
+  "fingerprint": "17493683c9612fc707cbd65331c036d8",
   "total": 1315,
-  "working": 1159,
-  "in_grace_period": 9,
-  "dead": 156,
-  "hd_channels": 614,
+  "working": 1162,
+  "in_grace_period": 17,
+  "dead": 153,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 434,
-      "hd": 229
+      "working": 436,
+      "hd": 231
     },
     "Kannada": {
       "total": 65,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 100,
       "working": 87,
-      "hd": 43
+      "hd": 42
     },
     "Marathi": {
       "total": 37,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -277,7 +272,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -363,11 +358,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -743,11 +733,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
