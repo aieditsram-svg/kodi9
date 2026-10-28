@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 14:29 UTC",
-  "fingerprint": "3775a5755088b9545d4464d0456fc1f8",
+  "updated_at": "2026-10-28 15:22 UTC",
+  "fingerprint": "97d9aa422a9c90b5264cfefa2db16d68",
   "total": 1425,
-  "working": 1256,
-  "in_grace_period": 43,
-  "dead": 169,
-  "hd_channels": 618,
+  "working": 1255,
+  "in_grace_period": 14,
+  "dead": 170,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 83,
-      "hd": 46
+      "working": 82,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 128,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 473,
-      "hd": 232
+      "hd": 238
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 113,
       "working": 107,
-      "hd": 47
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 176,
       "working": 147,
-      "hd": 74
+      "hd": 75
     },
     "Telugu": {
       "total": 160,
       "working": 130,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -410,6 +410,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -552,7 +557,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -780,6 +785,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -933,11 +943,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
