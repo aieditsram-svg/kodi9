@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 03:37 UTC",
-  "fingerprint": "70e636a92a594af93d87e739d12f32ff",
+  "updated_at": "2026-10-28 04:20 UTC",
+  "fingerprint": "3699be39a7c3a8022b97512e6c0d2d57",
   "total": 1425,
-  "working": 1253,
-  "in_grace_period": 12,
-  "dead": 172,
-  "hd_channels": 628,
+  "working": 1256,
+  "in_grace_period": 24,
+  "dead": 169,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 474,
-      "hd": 240
+      "working": 477,
+      "hd": 239
     },
     "Kannada": {
       "total": 65,
@@ -390,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -432,11 +427,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,11 +765,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -807,7 +792,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p)",
