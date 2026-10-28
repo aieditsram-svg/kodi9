@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 11:58 UTC",
-  "fingerprint": "b28968cba82bc7e4e2b8e59bf077ca11",
+  "updated_at": "2026-10-28 12:40 UTC",
+  "fingerprint": "52b0e8b717f2740ce7042f5692db96f7",
   "total": 1425,
-  "working": 1259,
-  "in_grace_period": 19,
-  "dead": 166,
-  "hd_channels": 629,
+  "working": 1257,
+  "in_grace_period": 20,
+  "dead": 168,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 83,
-      "hd": 45
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 474,
-      "hd": 237
+      "working": 472,
+      "hd": 238
     },
     "Kannada": {
       "total": 65,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -395,8 +400,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -407,11 +412,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,6 +775,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -915,9 +920,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News Hour (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Sadhna Plus News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Ind 24 (576p)",
