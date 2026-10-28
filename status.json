@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 21:17 UTC",
-  "fingerprint": "f999028c8b8767af9d2b7aad1076c1f6",
+  "updated_at": "2026-10-28 21:57 UTC",
+  "fingerprint": "3a33847f0cda9d7318cea5fe4de7c3b1",
   "total": 1425,
-  "working": 1225,
-  "in_grace_period": 9,
-  "dead": 200,
-  "hd_channels": 621,
+  "working": 1226,
+  "in_grace_period": 13,
+  "dead": 199,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 462,
-      "hd": 236
+      "hd": 235
     },
     "Kannada": {
       "total": 65,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 160,
-      "working": 124,
+      "working": 125,
       "hd": 58
     },
     "Urdu": {
@@ -213,11 +213,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -410,13 +405,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -792,7 +787,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
