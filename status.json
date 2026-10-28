@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 22:30 UTC",
-  "fingerprint": "6109aa38b7b3a3eb8f6687462376b7f1",
+  "updated_at": "2026-10-28 23:10 UTC",
+  "fingerprint": "a7d6ec768dce3e16cdfe7b1e5d7802f3",
   "total": 1423,
-  "working": 1221,
-  "in_grace_period": 5,
-  "dead": 202,
-  "hd_channels": 619,
+  "working": 1220,
+  "in_grace_period": 8,
+  "dead": 203,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 460,
-      "hd": 235
+      "working": 459,
+      "hd": 234
     },
     "Kannada": {
       "total": 65,
@@ -405,6 +405,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
       "reason": "TimeoutError"
@@ -430,11 +435,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -453,6 +453,11 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Soham TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "6 TV Telugu (360p)",
@@ -802,7 +807,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
