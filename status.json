@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28 02:15 UTC",
-  "fingerprint": "6b8048932349693effec4332865c5a20",
+  "updated_at": "2026-10-28 02:58 UTC",
+  "fingerprint": "7bf7e73945109413dcfb0e26aee4830c",
   "total": 1425,
-  "working": 1256,
-  "in_grace_period": 13,
-  "dead": 169,
+  "working": 1253,
+  "in_grace_period": 9,
+  "dead": 172,
   "hd_channels": 627,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 478,
+      "working": 475,
       "hd": 239
     },
     "Kannada": {
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,8 +395,18 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
