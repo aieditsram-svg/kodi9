@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-28 17:43 UTC",
-  "fingerprint": "85f05dca12f875594b577f0cbf1e2856",
+  "updated_at": "2026-10-28 18:22 UTC",
+  "fingerprint": "c09a3c8643d98445c3b5d678ade40d08",
   "total": 1425,
-  "working": 1259,
-  "in_grace_period": 17,
-  "dead": 166,
-  "hd_channels": 634,
+  "working": 1261,
+  "in_grace_period": 16,
+  "dead": 164,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
-      "working": 27,
+      "working": 28,
       "hd": 12
     },
     "Bengali": {
       "total": 103,
-      "working": 83,
+      "working": 84,
       "hd": 47
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 128,
-      "hd": 65
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 476,
-      "hd": 241
+      "working": 475,
+      "hd": 240
     },
     "Kannada": {
       "total": 65,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 146,
-      "hd": 74
+      "working": 145,
+      "hd": 73
     },
     "Telugu": {
       "total": 160,
-      "working": 129,
-      "hd": 59
+      "working": 128,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -125,19 +125,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -240,6 +230,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Hare Krsna TV (1080p)",
+      "url": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
+      "reason": "URLError"
+    },
+    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -270,11 +265,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -302,17 +292,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -390,6 +375,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -412,6 +402,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,11 +770,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -850,13 +840,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sony Entertainment Television (576p)",
-      "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
+      "name": "Sony Entertainment Television (576p)",
+      "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
