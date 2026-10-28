@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 19:16 UTC",
-  "fingerprint": "5bab23550c96b7f334d65b5b65a33a9d",
+  "updated_at": "2026-10-28 20:00 UTC",
+  "fingerprint": "145eb5cd600233150ee4b6ac8586e62d",
   "total": 1425,
-  "working": 1259,
-  "in_grace_period": 49,
-  "dead": 166,
-  "hd_channels": 633,
+  "working": 1261,
+  "in_grace_period": 45,
+  "dead": 164,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 84,
-      "hd": 47
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 475,
+      "working": 476,
       "hd": 240
     },
     "Kannada": {
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 105,
       "working": 92,
-      "hd": 43
+      "hd": 42
     },
     "Marathi": {
       "total": 39,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 144,
+      "working": 145,
       "hd": 73
     },
     "Telugu": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -230,11 +235,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Hare Krsna TV (1080p)",
-      "url": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
-      "reason": "URLError"
-    },
-    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -292,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -390,18 +390,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -898,11 +893,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
