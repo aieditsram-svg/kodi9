@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 05:05 UTC",
-  "fingerprint": "aa8aeff809ff4ce1562871f2c0096e90",
+  "updated_at": "2026-10-28 05:44 UTC",
+  "fingerprint": "30210357117c5bcdd22992e661aa2e2f",
   "total": 1425,
-  "working": 1256,
-  "in_grace_period": 12,
-  "dead": 169,
-  "hd_channels": 628,
+  "working": 1254,
+  "in_grace_period": 14,
+  "dead": 171,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 84,
-      "hd": 46
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 476,
+      "working": 474,
       "hd": 239
     },
     "Kannada": {
@@ -405,6 +405,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -537,12 +542,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
