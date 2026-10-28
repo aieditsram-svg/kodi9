@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 07:26 UTC",
-  "fingerprint": "4c8c530e4a690905e8e1d67c7bc13e33",
+  "updated_at": "2026-10-28 08:17 UTC",
+  "fingerprint": "b468dd6c5e4bff6db053251d81ac3715",
   "total": 1425,
-  "working": 1266,
-  "in_grace_period": 10,
-  "dead": 159,
-  "hd_channels": 635,
+  "working": 1263,
+  "in_grace_period": 14,
+  "dead": 162,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 84,
-      "hd": 47
+      "working": 83,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 129,
-      "hd": 65
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 477,
-      "hd": 241
+      "working": 478,
+      "hd": 239
     },
     "Kannada": {
       "total": 65,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 148,
-      "hd": 75
+      "working": 146,
+      "hd": 74
     },
     "Telugu": {
       "total": 160,
-      "working": 130,
+      "working": 129,
       "hd": 59
     },
     "Urdu": {
@@ -215,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -258,6 +263,16 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Sana Plus (1080p) [Not 24/7]",
+      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sana Plus (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -530,11 +545,6 @@
       "reason": "HTTP 458"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -748,6 +758,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
