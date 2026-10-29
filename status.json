@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 21:04 UTC",
-  "fingerprint": "d7416d5d8ceb3fa18240fcd212a5827f",
+  "updated_at": "2026-10-29 21:42 UTC",
+  "fingerprint": "a114a6c282d72ac1ed545305718b0a10",
   "total": 1657,
-  "working": 1409,
-  "in_grace_period": 5,
-  "dead": 248,
-  "hd_channels": 631,
+  "working": 1412,
+  "in_grace_period": 4,
+  "dead": 245,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 78,
+      "working": 79,
       "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
-      "working": 27,
+      "working": 28,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 125,
-      "hd": 61
+      "working": 124,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 573,
-      "hd": 240
+      "working": 574,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 127,
+      "working": 126,
       "hd": 58
     },
     "Urdu": {
@@ -223,6 +223,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -402,11 +407,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -765,6 +765,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
@@ -1070,11 +1075,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Manoranjan Movies (576p)",
-      "url": "https://fta.ektv.in/live/47/47_0.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Unique TV (576p)",
       "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
@@ -1122,11 +1122,6 @@
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/332/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan Prime (576p)",
-      "url": "https://fta.ektv.in/live/345/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1235,11 +1230,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Raftaar Media (576p)",
-      "url": "https://fta.ektv.in/live/306/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Samachar Plus 24x7 (576p)",
       "url": "https://fta.ektv.in/live/589/master.m3u8",
       "reason": "HTTP 404"
@@ -1262,11 +1252,6 @@
     {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "R Plus (576p)",
-      "url": "https://fta.ektv.in/live/662/master.m3u8",
       "reason": "HTTP 404"
     },
     {
