@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 12:59 UTC",
-  "fingerprint": "636152b1a89024f481674110ebc5199c",
+  "updated_at": "2026-10-29 13:55 UTC",
+  "fingerprint": "be767bef71bb9b1c101c3e6d4cebdfbb",
   "total": 1657,
-  "working": 1447,
-  "in_grace_period": 34,
-  "dead": 210,
-  "hd_channels": 626,
+  "working": 1439,
+  "in_grace_period": 22,
+  "dead": 218,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 580,
-      "hd": 236
+      "working": 576,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
-      "working": 57,
+      "working": 56,
       "hd": 27
     },
     "Konkani": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 98,
+      "working": 97,
       "hd": 42
     },
     "Marathi": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 50
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 148,
-      "hd": 72
+      "working": 146,
+      "hd": 71
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -137,6 +137,11 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Ayush TV (360p) [Not 24/7]",
+      "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -225,11 +230,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -282,6 +282,16 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sana Plus (1080p) [Not 24/7]",
+      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sana Plus (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -345,6 +355,11 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -375,6 +390,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -400,14 +420,29 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -748,6 +783,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
