@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 01:15 UTC",
-  "fingerprint": "807ec4afacaa55d3d645a26e15600c80",
+  "updated_at": "2026-10-29 02:07 UTC",
+  "fingerprint": "7ace7a9e25ff17fb3936a2b13fb13988",
   "total": 1657,
-  "working": 1442,
-  "in_grace_period": 14,
-  "dead": 215,
+  "working": 1440,
+  "in_grace_period": 17,
+  "dead": 217,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 576,
+      "working": 573,
       "hd": 235
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 95,
+      "working": 96,
       "hd": 40
     },
     "Marathi": {
@@ -250,11 +250,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Life TV (720p)",
       "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
       "reason": "HTTP 404"
@@ -398,6 +393,16 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -767,12 +772,17 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
