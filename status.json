@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 10:48 UTC",
-  "fingerprint": "885f018673001fc3f910200a2e294068",
+  "updated_at": "2026-10-29 11:25 UTC",
+  "fingerprint": "98e55131421c7ea5112a37236a52f31f",
   "total": 1657,
   "working": 1454,
   "in_grace_period": 14,
   "dead": 203,
-  "hd_channels": 631,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 583,
-      "hd": 241
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
