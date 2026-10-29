@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-28 23:43 UTC",
-  "fingerprint": "d4446c358870922a4c26e807924e6f6d",
-  "total": 1423,
-  "working": 1224,
-  "in_grace_period": 10,
-  "dead": 199,
-  "hd_channels": 616,
+  "updated_at": "2026-10-29 00:15 UTC",
+  "fingerprint": "0b0e644795e1b83c414beb4f51101cc4",
+  "total": 1439,
+  "working": 1239,
+  "in_grace_period": 9,
+  "dead": 200,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
-      "total": 32,
+      "total": 31,
       "working": 28,
       "hd": 12
     },
     "Bengali": {
-      "total": 103,
-      "working": 72,
+      "total": 102,
+      "working": 71,
       "hd": 43
     },
     "Bhojpuri": {
@@ -28,24 +28,24 @@
       "hd": 0
     },
     "English": {
-      "total": 149,
+      "total": 148,
       "working": 114,
-      "hd": 58
+      "hd": 60
     },
     "Gujarati": {
-      "total": 27,
+      "total": 26,
       "working": 26,
       "hd": 17
     },
     "Hindi": {
-      "total": 564,
-      "working": 460,
-      "hd": 234
+      "total": 579,
+      "working": 476,
+      "hd": 233
     },
     "Kannada": {
-      "total": 65,
+      "total": 64,
       "working": 51,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -53,12 +53,12 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 105,
+      "total": 104,
       "working": 86,
       "hd": 40
     },
     "Marathi": {
-      "total": 39,
+      "total": 38,
       "working": 31,
       "hd": 20
     },
@@ -68,7 +68,7 @@
       "hd": 2
     },
     "Odia": {
-      "total": 27,
+      "total": 26,
       "working": 19,
       "hd": 9
     },
@@ -88,12 +88,12 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 174,
+      "total": 173,
       "working": 137,
       "hd": 70
     },
     "Telugu": {
-      "total": 160,
+      "total": 159,
       "working": 125,
       "hd": 58
     },
@@ -142,6 +142,11 @@
     {
       "name": "CCV (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Chardikla Time TV (1080p)",
+      "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -275,6 +280,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "R Plus (768p)",
+      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -355,6 +365,11 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "VTU (1080p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -405,11 +420,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -448,11 +458,6 @@
       "name": "Zee TV HD (720p) [Geo-blocked]",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Bal Bharat (576p)",
-      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
