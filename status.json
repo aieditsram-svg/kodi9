@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 05:04 UTC",
-  "fingerprint": "5289c26df80eebf1cb439da1757dedc5",
+  "updated_at": "2026-10-29 05:45 UTC",
+  "fingerprint": "9c10133d94e99bce64515a41cf8f9edf",
   "total": 1657,
-  "working": 1438,
-  "in_grace_period": 16,
-  "dead": 219,
-  "hd_channels": 618,
+  "working": 1439,
+  "in_grace_period": 8,
+  "dead": 218,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 81,
-      "hd": 42
+      "working": 83,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 60
+      "working": 129,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 573,
-      "hd": 232
+      "hd": 235
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 126,
+      "working": 125,
       "hd": 50
     },
     "Santali": {
@@ -380,8 +380,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,8 +390,23 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -413,11 +428,6 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Soham TV (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "6 TV Telugu (360p)",
@@ -755,11 +765,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -772,11 +777,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1058,11 +1058,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Dukhniwaran (576p)",
