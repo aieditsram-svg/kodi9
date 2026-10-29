@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 21:42 UTC",
-  "fingerprint": "a114a6c282d72ac1ed545305718b0a10",
+  "updated_at": "2026-10-29 22:19 UTC",
+  "fingerprint": "4576c27f005c7ab551d101565502070a",
   "total": 1657,
-  "working": 1412,
-  "in_grace_period": 4,
-  "dead": 245,
+  "working": 1411,
+  "in_grace_period": 8,
+  "dead": 246,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
+      "working": 573,
       "hd": 239
     },
     "Kannada": {
@@ -407,6 +407,11 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
