@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 18:06 UTC",
-  "fingerprint": "8f67f4717bca6a0c973d7ed65b8f4759",
+  "updated_at": "2026-10-29 18:52 UTC",
+  "fingerprint": "fcd74a817e9527537b3750b757774b8c",
   "total": 1657,
-  "working": 1416,
+  "working": 1418,
   "in_grace_period": 16,
-  "dead": 241,
-  "hd_channels": 628,
+  "dead": 239,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 79,
-      "hd": 41
+      "working": 82,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
+      "working": 573,
       "hd": 240
     },
     "Kannada": {
@@ -335,11 +335,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -385,13 +380,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -405,8 +410,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -527,12 +532,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -740,19 +740,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1033,11 +1028,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
