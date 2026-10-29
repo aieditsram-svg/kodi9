@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 11:25 UTC",
-  "fingerprint": "98e55131421c7ea5112a37236a52f31f",
+  "updated_at": "2026-10-29 12:08 UTC",
+  "fingerprint": "13effc9cb938e37957baacbca9e9db45",
   "total": 1657,
-  "working": 1454,
-  "in_grace_period": 14,
-  "dead": 203,
+  "working": 1451,
+  "in_grace_period": 21,
+  "dead": 206,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 583,
+      "working": 580,
       "hd": 240
     },
     "Kannada": {
@@ -363,6 +363,21 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
