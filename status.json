@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 15:35 UTC",
-  "fingerprint": "18fc9832979e8687a171e3fbe7393166",
+  "updated_at": "2026-10-29 16:28 UTC",
+  "fingerprint": "ec847596046d1a7276bb9d96a09257f7",
   "total": 1657,
-  "working": 1440,
-  "in_grace_period": 42,
-  "dead": 217,
-  "hd_channels": 626,
+  "working": 1445,
+  "in_grace_period": 36,
+  "dead": 212,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 80,
+      "working": 81,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 577,
-      "hd": 239
+      "working": 581,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -395,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -407,21 +402,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,11 +728,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
