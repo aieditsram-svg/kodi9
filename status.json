@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 06:23 UTC",
-  "fingerprint": "df7d0491cc344e96907fd8426058a7aa",
+  "updated_at": "2026-10-29 07:30 UTC",
+  "fingerprint": "c35e612c46f2cb547b7e61f4fbd6f64c",
   "total": 1657,
-  "working": 1439,
-  "in_grace_period": 8,
-  "dead": 218,
-  "hd_channels": 622,
+  "working": 1444,
+  "in_grace_period": 29,
+  "dead": 213,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -30,17 +30,17 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 686,
-      "working": 572,
-      "hd": 234
+      "working": 574,
+      "hd": 235
     },
     "Kannada": {
       "total": 70,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 95,
-      "hd": 40
+      "working": 97,
+      "hd": 42
     },
     "Marathi": {
       "total": 46,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 171,
@@ -130,19 +130,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -323,11 +313,6 @@
       "name": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "VIP News (360p)",
@@ -575,16 +560,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Swastik TV (720p)",
-      "url": "https://server.playontv.in/swastiktv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
@@ -758,11 +733,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1047,12 +1017,12 @@
     {
       "name": "Asianet Movies (396p)",
       "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
@@ -1078,6 +1048,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
