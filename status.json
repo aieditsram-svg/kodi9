@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 20:09 UTC",
-  "fingerprint": "45104ef21f619451a01c031f18ecebc9",
+  "updated_at": "2026-10-30 20:47 UTC",
+  "fingerprint": "423d7a10c809cb76ffd55365d1bb9153",
   "total": 1655,
-  "working": 1438,
-  "in_grace_period": 13,
-  "dead": 217,
+  "working": 1435,
+  "in_grace_period": 12,
+  "dead": 220,
   "hd_channels": 628,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
+      "working": 572,
       "hd": 240
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 126,
       "hd": 51
     },
     "Santali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -400,8 +405,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -427,6 +432,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1058,6 +1068,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
