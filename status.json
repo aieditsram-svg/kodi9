@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 23:31 UTC",
-  "fingerprint": "7dd1622302e3c9a863aa9a8b3cfa3a5e",
+  "updated_at": "2026-10-30 00:05 UTC",
+  "fingerprint": "b6b39230724f09aea7f927e649783bfb",
   "total": 1657,
-  "working": 1418,
-  "in_grace_period": 18,
-  "dead": 239,
+  "working": 1417,
+  "in_grace_period": 9,
+  "dead": 240,
   "hd_channels": 632,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 576,
+      "working": 575,
       "hd": 239
     },
     "Kannada": {
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
