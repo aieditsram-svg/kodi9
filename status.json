@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 18:44 UTC",
-  "fingerprint": "7a017e861c061c7545ac83c601f764da",
+  "updated_at": "2026-10-30 19:28 UTC",
+  "fingerprint": "05f10344eae8b171dd451a797cc66e91",
   "total": 1655,
-  "working": 1437,
-  "in_grace_period": 14,
-  "dead": 218,
+  "working": 1433,
+  "in_grace_period": 10,
+  "dead": 222,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 81,
-      "hd": 41
+      "working": 82,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 574,
-      "hd": 241
+      "working": 570,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 46,
-      "working": 38,
+      "working": 37,
       "hd": 20
     },
     "Nepali": {
@@ -370,11 +370,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -420,8 +415,28 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1083,6 +1098,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Jhakaas (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
