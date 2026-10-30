@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-10-30 08:02 UTC
+# Working HD channels (720p+), all languages, updated 2026-10-30 08:53 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="1080",News Live (576p)
@@ -318,10 +318,10 @@ https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@HD" x-category="news" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-language="Hindi" group-title="Hindi" height="1080",Aaj Tak HD (1080p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@HD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Aastha (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Aastha Bhajan (576p)
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@HD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Aastha HD (720p)
-https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/LyWSMJS.png" tvg-language="Hindi" group-title="Hindi" height="720",Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Aastha SD (576p)
