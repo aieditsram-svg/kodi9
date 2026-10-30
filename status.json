@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 23:06 UTC",
-  "fingerprint": "08c86f67ad7f30e0892a90976851a61c",
+  "updated_at": "2026-10-30 23:39 UTC",
+  "fingerprint": "40d85f5b3b988541e8e0306e0724239e",
   "total": 1655,
-  "working": 1432,
-  "in_grace_period": 3,
-  "dead": 223,
+  "working": 1434,
+  "in_grace_period": 1,
+  "dead": 221,
   "hd_channels": 626,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 573,
+      "working": 575,
       "hd": 238
     },
     "Kannada": {
@@ -127,7 +127,7 @@
     {
       "name": "Aamar Bangla (720p)",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-      "reason": "HTTP 500"
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -413,11 +413,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -773,11 +768,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
