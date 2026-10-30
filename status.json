@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 05:28 UTC",
-  "fingerprint": "070a7c6b2841006b7ab538dae5afd67c",
+  "updated_at": "2026-10-30 06:11 UTC",
+  "fingerprint": "1deee0a1952326d065e43582d4a0a0f7",
   "total": 1655,
-  "working": 1442,
-  "in_grace_period": 19,
-  "dead": 213,
-  "hd_channels": 634,
+  "working": 1446,
+  "in_grace_period": 9,
+  "dead": 209,
+  "hd_channels": 635,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 62
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 576,
+      "working": 578,
       "hd": 241
     },
     "Kannada": {
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 46,
-      "working": 37,
+      "working": 38,
       "hd": 20
     },
     "Nepali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -218,11 +218,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -403,16 +398,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1058,11 +1043,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Jhakaas (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
