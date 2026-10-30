@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 15:13 UTC",
-  "fingerprint": "565f80d0cfb8539d7a64793108574d22",
+  "updated_at": "2026-10-30 16:00 UTC",
+  "fingerprint": "efde4c4ce509c032e54af9094e4162a9",
   "total": 1655,
-  "working": 1438,
-  "in_grace_period": 11,
-  "dead": 217,
-  "hd_channels": 629,
+  "working": 1439,
+  "in_grace_period": 16,
+  "dead": 216,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 575,
-      "hd": 240
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
@@ -410,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -452,6 +447,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -572,11 +572,6 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1055,11 +1050,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -1142,6 +1132,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
