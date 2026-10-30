@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 07:05 UTC",
-  "fingerprint": "46e4f710b2fae32079c3a0059e7b7d8b",
+  "updated_at": "2026-10-30 08:02 UTC",
+  "fingerprint": "361d550bea90f46414d8615c9c58491a",
   "total": 1655,
-  "working": 1443,
+  "working": 1444,
   "in_grace_period": 13,
-  "dead": 212,
-  "hd_channels": 635,
+  "dead": 211,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
-      "hd": 242
+      "working": 576,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -743,11 +743,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
