@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 18:02 UTC",
-  "fingerprint": "421ffede7b4d2e9641093b194ef545f9",
+  "updated_at": "2026-10-30 18:44 UTC",
+  "fingerprint": "7a017e861c061c7545ac83c601f764da",
   "total": 1655,
-  "working": 1435,
+  "working": 1437,
   "in_grace_period": 14,
-  "dead": 220,
-  "hd_channels": 629,
+  "dead": 218,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 80,
+      "working": 81,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 573,
-      "hd": 240
+      "working": 574,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -282,7 +277,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -332,7 +327,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -768,11 +763,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Q TV (576p) [Geo-blocked]",
