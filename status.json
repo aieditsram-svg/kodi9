@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 09:36 UTC",
-  "fingerprint": "ea66a484671ea672a5817ce6e7525ece",
+  "updated_at": "2026-10-30 10:25 UTC",
+  "fingerprint": "a0f0ef5117f9cf2b04a1b0c1532416ab",
   "total": 1655,
   "working": 1444,
-  "in_grace_period": 72,
+  "in_grace_period": 85,
   "dead": 211,
-  "hd_channels": 600,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 8
+      "hd": 9
     },
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 12
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 576,
-      "hd": 225
+      "hd": 235
     },
     "Kannada": {
       "total": 70,
@@ -55,22 +55,22 @@
     "Malayalam": {
       "total": 113,
       "working": 98,
-      "hd": 42
+      "hd": 38
     },
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 1
+      "hd": 2
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 9
+      "hd": 10
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 126,
-      "hd": 50
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -95,12 +95,12 @@
     "Telugu": {
       "total": 171,
       "working": 138,
-      "hd": 58
+      "hd": 55
     },
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 5
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -130,11 +130,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Ayush TV (360p) [Not 24/7]",
       "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
@@ -152,7 +147,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -532,7 +527,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -743,6 +738,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
