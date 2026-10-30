@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 03:18 UTC",
-  "fingerprint": "c0a08b01dccfdc86ce33112524e45bb8",
+  "updated_at": "2026-10-30 04:07 UTC",
+  "fingerprint": "288ff792063131240fe5f9fcac927032",
   "total": 1655,
-  "working": 1414,
-  "in_grace_period": 13,
-  "dead": 241,
-  "hd_channels": 630,
+  "working": 1415,
+  "in_grace_period": 8,
+  "dead": 240,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 80,
-      "hd": 41
+      "working": 81,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 124,
-      "hd": 60
+      "working": 125,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 572,
-      "hd": 238
+      "working": 573,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 147,
+      "working": 146,
       "hd": 72
     },
     "Telugu": {
@@ -405,24 +405,24 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -533,11 +533,6 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -767,11 +762,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1058,6 +1048,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
