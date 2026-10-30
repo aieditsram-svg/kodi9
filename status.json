@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-30 10:25 UTC",
-  "fingerprint": "a0f0ef5117f9cf2b04a1b0c1532416ab",
+  "updated_at": "2026-10-30 11:07 UTC",
+  "fingerprint": "d6dafd3a629384eb2cb3cf8180ffd2f9",
   "total": 1655,
-  "working": 1444,
-  "in_grace_period": 85,
-  "dead": 211,
-  "hd_channels": 605,
+  "working": 1443,
+  "in_grace_period": 100,
+  "dead": 212,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 9
+      "hd": 8
     },
     "Bengali": {
       "total": 113,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 59
+      "hd": 58
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 576,
-      "hd": 235
+      "hd": 234
     },
     "Kannada": {
       "total": 70,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 55
     },
     "Urdu": {
@@ -142,7 +142,7 @@
     {
       "name": "Chardikla Time TV (1080p)",
       "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "DD National HD (576p)",
@@ -213,6 +213,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -432,6 +437,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -738,11 +748,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
