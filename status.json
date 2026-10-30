@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 00:05 UTC",
-  "fingerprint": "b6b39230724f09aea7f927e649783bfb",
-  "total": 1657,
-  "working": 1417,
-  "in_grace_period": 9,
-  "dead": 240,
-  "hd_channels": 632,
+  "updated_at": "2026-10-30 00:57 UTC",
+  "fingerprint": "0eb9cc89f924911db3cbb41d61608398",
+  "total": 1655,
+  "working": 1419,
+  "in_grace_period": 42,
+  "dead": 236,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -38,9 +38,9 @@
       "hd": 18
     },
     "Hindi": {
-      "total": 686,
-      "working": 575,
-      "hd": 239
+      "total": 684,
+      "working": 576,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 128,
+      "working": 129,
       "hd": 58
     },
     "Urdu": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -213,11 +208,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1085,18 +1075,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Anmol Cinema 2 (576p)",
-      "url": "https://fta.ektv.in/live/257/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Action (576p)",
       "url": "https://fta.ektv.in/live/270/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Anmol Cinema (576p)",
-      "url": "https://fta.ektv.in/live/271/master.m3u8",
       "reason": "HTTP 404"
     },
     {
