@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 00:13 UTC",
-  "fingerprint": "6018437a20d71fc0f45f11b5ab1c0a5a",
+  "updated_at": "2026-10-31 01:10 UTC",
+  "fingerprint": "c343bef2d10fab5c7c46d993b5e522c3",
   "total": 1677,
   "working": 1456,
-  "in_grace_period": 9,
+  "in_grace_period": 27,
   "dead": 221,
-  "hd_channels": 627,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -30,7 +30,7 @@
     "English": {
       "total": 166,
       "working": 129,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 182,
       "working": 147,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 173,
