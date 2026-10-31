@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 15:09 UTC",
-  "fingerprint": "8e9b98287b898bb3a9e5367f51a9909b",
+  "updated_at": "2026-10-31 15:40 UTC",
+  "fingerprint": "87620985092bb40e0f1375bbb6334f98",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 11,
-  "dead": 223,
+  "working": 1455,
+  "in_grace_period": 8,
+  "dead": 222,
   "hd_channels": 633,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 80,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
+      "working": 590,
       "hd": 241
     },
     "Kannada": {
@@ -425,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -765,14 +760,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
