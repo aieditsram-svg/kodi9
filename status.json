@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 20:12 UTC",
-  "fingerprint": "7e7943688b9df51d974c99da9532be2c",
+  "updated_at": "2026-10-31 20:44 UTC",
+  "fingerprint": "071fbd7aca86c0d548fc2b183e1458ee",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 7,
-  "dead": 225,
-  "hd_channels": 628,
+  "working": 1454,
+  "in_grace_period": 8,
+  "dead": 223,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
-      "hd": 238
+      "working": 589,
+      "hd": 237
     },
     "Kannada": {
       "total": 70,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 97,
+      "working": 98,
       "hd": 41
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -235,6 +235,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -258,11 +263,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "KCL TV (720p)",
@@ -415,11 +415,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -432,11 +427,6 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
