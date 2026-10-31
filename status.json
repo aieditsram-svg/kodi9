@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 21:51 UTC",
-  "fingerprint": "4c9c5add00018c9cc1d606a070b4b2ee",
+  "updated_at": "2026-10-31 22:20 UTC",
+  "fingerprint": "e9be0def6ca7ec06e6880c419ef19c62",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 8,
-  "dead": 224,
+  "working": 1451,
+  "in_grace_period": 5,
+  "dead": 226,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
+      "working": 586,
       "hd": 238
     },
     "Kannada": {
@@ -410,8 +410,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -765,11 +765,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1088,6 +1083,21 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
