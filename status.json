@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 04:52 UTC",
-  "fingerprint": "f85c999f581b87f53d96f3ec4522e5e3",
+  "updated_at": "2026-10-31 05:25 UTC",
+  "fingerprint": "1578a1b314b83a9785b33139fdba29b1",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 18,
-  "dead": 221,
-  "hd_channels": 630,
+  "working": 1452,
+  "in_grace_period": 8,
+  "dead": 225,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
-      "hd": 238
+      "working": 585,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -64,7 +64,7 @@
     },
     "Nepali": {
       "total": 5,
-      "working": 5,
+      "working": 2,
       "hd": 1
     },
     "Odia": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -248,6 +253,11 @@
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
+    },
+    {
+      "name": "Nepal 1 (396p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
@@ -380,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nepal 1 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -388,11 +403,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines (576p)",
@@ -407,6 +417,11 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -567,7 +582,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1152,6 +1167,11 @@
     {
       "name": "DD Kashir (576p)",
       "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Nepal 1 (576p)",
+      "url": "https://fta.ektv.in/live/380/master.m3u8",
       "reason": "HTTP 404"
     },
     {
