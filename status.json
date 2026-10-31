@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 02:44 UTC",
-  "fingerprint": "d7b45bd0a79a9750eba9c86257d26b28",
+  "updated_at": "2026-10-31 03:26 UTC",
+  "fingerprint": "29807bc527ad81c1d9be687495d686a1",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 15,
-  "dead": 224,
-  "hd_channels": 627,
+  "working": 1451,
+  "in_grace_period": 13,
+  "dead": 226,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 585,
-      "hd": 236
+      "working": 583,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 98,
-      "hd": 41
+      "working": 99,
+      "hd": 42
     },
     "Marathi": {
       "total": 46,
-      "working": 37,
+      "working": 36,
       "hd": 20
     },
     "Nepali": {
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -245,9 +240,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest TV Keralam (720p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Hare Krsna TV (720p)",
+      "url": "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -303,6 +298,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (720p)",
+      "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo Umang (720p)",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -405,8 +410,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -558,11 +568,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -755,6 +760,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -773,6 +783,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo Marathi Bana (720p)",
+      "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1068,11 +1083,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "9X Jalwa (576p)",
