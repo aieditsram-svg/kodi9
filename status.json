@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-31 09:05 UTC",
-  "fingerprint": "c6b72bee365befb3e0ed87ebf165a642",
+  "updated_at": "2026-10-31 09:41 UTC",
+  "fingerprint": "016d9497db3f374bf1a1f48d006824ae",
   "total": 1677,
-  "working": 1455,
-  "in_grace_period": 18,
-  "dead": 222,
-  "hd_channels": 631,
+  "working": 1456,
+  "in_grace_period": 17,
+  "dead": 221,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 30,
-      "hd": 11
+      "hd": 12
     },
     "Bengali": {
       "total": 114,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 166,
-      "working": 128,
+      "working": 129,
       "hd": 61
     },
     "Gujarati": {
@@ -260,11 +260,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -420,18 +415,18 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
