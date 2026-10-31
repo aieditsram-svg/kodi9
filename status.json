@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 06:04 UTC",
-  "fingerprint": "32b365e794550e9e5a7eea212c6fecff",
+  "updated_at": "2026-10-31 06:50 UTC",
+  "fingerprint": "4f9281d9fd98fff5796950679742622d",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 14,
-  "dead": 224,
-  "hd_channels": 631,
+  "working": 1455,
+  "in_grace_period": 15,
+  "dead": 222,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 585,
-      "hd": 239
+      "working": 587,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -380,6 +380,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Manoranjan Grand (576p)",
+      "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -417,11 +422,6 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -770,11 +770,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1048,11 +1043,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat AtoZ (720p)",
-      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
