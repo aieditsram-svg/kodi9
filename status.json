@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 17:17 UTC",
-  "fingerprint": "75adb59c344e75d71cde06be758396c1",
+  "updated_at": "2026-10-31 17:50 UTC",
+  "fingerprint": "66f3cf0e373477e0578aae759be3d099",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 8,
-  "dead": 224,
+  "working": 1452,
+  "in_grace_period": 9,
+  "dead": 225,
   "hd_channels": 631,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
+      "working": 587,
       "hd": 239
     },
     "Kannada": {
@@ -415,18 +415,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
