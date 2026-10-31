@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30 23:39 UTC",
-  "fingerprint": "40d85f5b3b988541e8e0306e0724239e",
-  "total": 1655,
-  "working": 1434,
-  "in_grace_period": 1,
+  "updated_at": "2026-10-31 00:13 UTC",
+  "fingerprint": "6018437a20d71fc0f45f11b5ab1c0a5a",
+  "total": 1677,
+  "working": 1456,
+  "in_grace_period": 9,
   "dead": 221,
-  "hd_channels": 626,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
-      "total": 39,
-      "working": 32,
+      "total": 38,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
-      "total": 113,
-      "working": 79,
-      "hd": 40
+      "total": 114,
+      "working": 81,
+      "hd": 41
     },
     "Bhojpuri": {
-      "total": 31,
-      "working": 29,
+      "total": 32,
+      "working": 30,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 165,
-      "working": 127,
-      "hd": 60
+      "total": 166,
+      "working": 129,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -38,8 +38,8 @@
       "hd": 18
     },
     "Hindi": {
-      "total": 684,
-      "working": 575,
+      "total": 699,
+      "working": 591,
       "hd": 238
     },
     "Kannada": {
@@ -53,8 +53,8 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 113,
-      "working": 96,
+      "total": 114,
+      "working": 97,
       "hd": 40
     },
     "Marathi": {
@@ -88,18 +88,18 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 181,
+      "total": 182,
       "working": 147,
       "hd": 72
     },
     "Telugu": {
-      "total": 171,
-      "working": 137,
+      "total": 173,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
-      "total": 16,
-      "working": 15,
+      "total": 17,
+      "working": 16,
       "hd": 6
     }
   },
@@ -225,6 +225,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -263,11 +268,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 429"
     },
     {
       "name": "KCL TV (720p)",
@@ -415,19 +415,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1197,6 +1187,16 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Prarthana Bhawan TV (576p)",
+      "url": "https://fta.ektv.in/live/623/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dhool TV (576p)",
+      "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
     },
     {
