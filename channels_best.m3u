@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-10-31 10:52 UTC
+# Working channels, one best link per channel, updated 2026-10-31 11:19 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Jonack (576p)
@@ -799,6 +799,8 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/hfk5jKE.png" tvg-language="Hindi" group-title="Hindi" height="1080",Shubhsandesh TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/627/master.m3u8
+#EXTINF:-1 tvg-id="SindhTV.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Sindth_TV.png" tvg-language="Hindi" group-title="Hindi" height="720",Sindh TV (720p)
+https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SohamTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/cpedJ0L.png" tvg-language="Hindi" group-title="Hindi" height="720",Soham TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Songdew TV (396p)
@@ -1351,6 +1353,8 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="396",Kalaignar TV (396p)
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in@SD" x-category="religious" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" tvg-language="Tamil" group-title="Tamil" height="720",Life TV (720p)
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="MNaduTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png" tvg-language="Tamil" group-title="Tamil" height="720",M Nadu TV (576p)
 https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Madha TV (576p)

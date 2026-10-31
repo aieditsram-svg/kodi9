@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 10:52 UTC",
-  "fingerprint": "2efea3ab7608060e322eeefde1f4a659",
+  "updated_at": "2026-10-31 11:19 UTC",
+  "fingerprint": "9c8131a9d42513076652a9d2af48121e",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 3,
-  "dead": 225,
-  "hd_channels": 630,
+  "working": 1454,
+  "in_grace_period": 20,
+  "dead": 223,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
-      "hd": 239
+      "working": 587,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 173,
@@ -260,11 +260,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Life TV (720p)",
-      "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -415,13 +410,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1053,11 +1048,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sindh TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
