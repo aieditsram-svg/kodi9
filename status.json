@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31 19:41 UTC",
-  "fingerprint": "d7e7dc0ff083209796afff98c06a815e",
+  "updated_at": "2026-10-31 20:12 UTC",
+  "fingerprint": "7e7943688b9df51d974c99da9532be2c",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 16,
-  "dead": 223,
-  "hd_channels": 629,
+  "working": 1452,
+  "in_grace_period": 7,
+  "dead": 225,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 31,
+      "working": 30,
       "hd": 12
     },
     "Bengali": {
       "total": 114,
-      "working": 82,
-      "hd": 43
+      "working": 81,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
+      "working": 587,
       "hd": 238
     },
     "Kannada": {
@@ -125,13 +125,23 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -275,6 +285,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -415,24 +430,19 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -582,7 +592,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -768,11 +778,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1092,6 +1097,11 @@
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Captain (576p)",
+      "url": "https://fta.ektv.in/live/173/master.m3u8",
       "reason": "HTTP 404"
     },
     {
