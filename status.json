@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 22:20 UTC",
-  "fingerprint": "e9be0def6ca7ec06e6880c419ef19c62",
+  "updated_at": "2026-10-31 22:54 UTC",
+  "fingerprint": "5ff6a39aced48870cf010b4095ccc0d7",
   "total": 1677,
-  "working": 1451,
-  "in_grace_period": 5,
-  "dead": 226,
+  "working": 1453,
+  "in_grace_period": 1,
+  "dead": 224,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
+      "working": 588,
       "hd": 238
     },
     "Kannada": {
@@ -322,7 +322,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -410,19 +410,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
