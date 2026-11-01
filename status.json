@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 17:52 UTC",
-  "fingerprint": "6d73537a1f15cfba38e99cbcf4e8471a",
+  "updated_at": "2026-11-01 18:20 UTC",
+  "fingerprint": "4abfa33558be2d759131f80194905d69",
   "total": 1672,
-  "working": 1461,
-  "in_grace_period": 10,
-  "dead": 211,
-  "hd_channels": 629,
+  "working": 1459,
+  "in_grace_period": 14,
+  "dead": 213,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 84,
+      "working": 83,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 239
+      "working": 589,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -385,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -507,7 +512,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -718,6 +723,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
