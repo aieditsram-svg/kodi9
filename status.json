@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:28 UTC",
-  "fingerprint": "e81e4cbe371cb5eaf87e04b865e29194",
+  "updated_at": "2026-11-01 10:11 UTC",
+  "fingerprint": "31760a9da74e979fdccb232d5a1ffce4",
   "total": 1672,
-  "working": 1456,
-  "in_grace_period": 7,
-  "dead": 216,
-  "hd_channels": 628,
+  "working": 1455,
+  "in_grace_period": 8,
+  "dead": 217,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 696,
       "working": 589,
-      "hd": 239
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
+      "working": 146,
       "hd": 71
     },
     "Telugu": {
@@ -405,11 +405,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -435,13 +430,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "name": "StarPlus HD (1080p) [Geo-blocked]",
+      "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "StarPlus HD (1080p) [Geo-blocked]",
-      "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -517,7 +512,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -738,6 +733,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1028,6 +1028,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
