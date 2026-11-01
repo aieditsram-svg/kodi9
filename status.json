@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 07:13 UTC",
-  "fingerprint": "78f0d102cfb465110b86e8af0440315c",
+  "updated_at": "2026-11-01 08:07 UTC",
+  "fingerprint": "cbd0ee97a8a84ab0e75eea06a26fa63a",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 15,
-  "dead": 215,
-  "hd_channels": 628,
+  "working": 1459,
+  "in_grace_period": 13,
+  "dead": 213,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
+      "working": 592,
       "hd": 239
     },
     "Kannada": {
@@ -400,8 +400,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -545,11 +545,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -557,11 +552,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
