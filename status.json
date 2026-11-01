@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 05:29 UTC",
-  "fingerprint": "ff349c5c152a60f15b7e9c42d70183b8",
+  "updated_at": "2026-11-01 06:13 UTC",
+  "fingerprint": "7242b28454e2ee22156274add421b5bb",
   "total": 1672,
   "working": 1453,
-  "in_grace_period": 14,
+  "in_grace_period": 4,
   "dead": 219,
-  "hd_channels": 629,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 130,
-      "hd": 61
+      "working": 129,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 588,
-      "hd": 238
+      "working": 590,
+      "hd": 240
     },
     "Kannada": {
       "total": 69,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 1,
+      "hd": 0
     },
     "Malayalam": {
       "total": 113,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 123,
+      "working": 124,
       "hd": 51
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -215,6 +210,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -273,6 +273,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prudent Media (1080p)",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -390,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -418,6 +418,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -550,6 +555,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "KBP Times (1080p)",
       "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
       "reason": "HTTP 404"
@@ -558,11 +568,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -752,11 +757,6 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
