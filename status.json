@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 19:43 UTC",
-  "fingerprint": "4849e512c02d81d0985545e4a94005bb",
+  "updated_at": "2026-11-01 20:14 UTC",
+  "fingerprint": "382063e6eae914a1abf579e9e27e02ab",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 8,
-  "dead": 215,
-  "hd_channels": 627,
+  "working": 1459,
+  "in_grace_period": 9,
+  "dead": 213,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
-      "hd": 238
+      "working": 591,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -278,6 +273,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raj Musix Tamil (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj TV (1080p)",
@@ -445,11 +445,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -527,7 +522,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 458"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -1058,11 +1053,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Raj TV (1080p)",
-      "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "FashionTV (576p)",
