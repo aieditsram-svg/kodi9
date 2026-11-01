@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 23:00 UTC",
-  "fingerprint": "785519fc6d5dac033313e5dc09f6d4b8",
+  "updated_at": "2026-11-01 23:32 UTC",
+  "fingerprint": "0ee9de735c157b5900319a5c04ef5ca9",
   "total": 1672,
-  "working": 1454,
-  "in_grace_period": 4,
-  "dead": 218,
-  "hd_channels": 625,
+  "working": 1456,
+  "in_grace_period": 37,
+  "dead": 216,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 83,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 60
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 587,
-      "hd": 238
+      "working": 589,
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 45,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 50
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 179,
       "working": 145,
-      "hd": 70
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 139,
-      "hd": 58
+      "hd": 57
     },
     "Urdu": {
       "total": 17,
@@ -780,11 +780,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1037,7 +1032,7 @@
     {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -1073,11 +1068,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
