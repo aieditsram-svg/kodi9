@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 21:56 UTC",
-  "fingerprint": "821999a2d6eb07932966b0a4e195b3f2",
+  "updated_at": "2026-11-01 22:26 UTC",
+  "fingerprint": "ba5c1aacc82a3bfe8fa5e1eef4b2119c",
   "total": 1672,
   "working": 1457,
-  "in_grace_period": 8,
+  "in_grace_period": 10,
   "dead": 215,
-  "hd_channels": 624,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 19,
-      "working": 15,
-      "hd": 11
+      "working": 16,
+      "hd": 12
     },
     "Punjabi": {
       "total": 132,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -220,6 +220,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -272,11 +277,6 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Peques TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -522,7 +522,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -743,11 +743,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1063,6 +1058,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
