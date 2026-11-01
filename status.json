@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 21:21 UTC",
-  "fingerprint": "a72c67516d57cdb9a0b289dfcb136ac2",
+  "updated_at": "2026-11-01 21:56 UTC",
+  "fingerprint": "821999a2d6eb07932966b0a4e195b3f2",
   "total": 1672,
-  "working": 1455,
-  "in_grace_period": 6,
-  "dead": 217,
-  "hd_channels": 625,
+  "working": 1457,
+  "in_grace_period": 8,
+  "dead": 215,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 83,
+      "working": 84,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
-      "hd": 239
+      "working": 590,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -420,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -528,11 +523,6 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
