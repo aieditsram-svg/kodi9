@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-02 06:34 UTC",
-  "fingerprint": "3ab015fad1ca7281c447c12b2df80444",
+  "updated_at": "2026-11-02 07:57 UTC",
+  "fingerprint": "6e49ffed66a943da80cc67ac203d3895",
   "total": 1675,
-  "working": 1466,
-  "in_grace_period": 13,
-  "dead": 209,
-  "hd_channels": 630,
+  "working": 1465,
+  "in_grace_period": 134,
+  "dead": 210,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 31,
-      "hd": 12
+      "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 83,
-      "hd": 43
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
       "working": 29,
-      "hd": 13
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,22 +30,22 @@
     "English": {
       "total": 165,
       "working": 130,
-      "hd": 61
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
       "working": 34,
-      "hd": 17
+      "hd": 14
     },
     "Hindi": {
       "total": 697,
-      "working": 592,
-      "hd": 239
+      "working": 590,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
       "working": 57,
-      "hd": 27
+      "hd": 24
     },
     "Konkani": {
       "total": 3,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 114,
       "working": 99,
-      "hd": 42
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 30,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 133,
       "working": 127,
-      "hd": 51
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 179,
       "working": 148,
-      "hd": 72
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 140,
-      "hd": 58
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
@@ -397,6 +397,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -715,11 +720,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -737,7 +737,7 @@
     {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -1000,11 +1000,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "India Talkies (360p)",
-      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1033,6 +1028,16 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
