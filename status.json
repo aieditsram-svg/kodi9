@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 11:31 UTC",
-  "fingerprint": "2366368e723ef3984712ac8a914af5e8",
+  "updated_at": "2026-11-02 12:26 UTC",
+  "fingerprint": "faa8de2331097558cdb1de5730ad0560",
   "total": 1675,
   "working": 1354,
-  "in_grace_period": 20,
+  "in_grace_period": 12,
   "dead": 321,
-  "hd_channels": 577,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
+      "working": 29,
       "hd": 13
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 221
+      "working": 555,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -258,6 +253,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -545,11 +545,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
@@ -745,6 +740,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TV13 Gujarati (480p)",
+      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -908,11 +908,6 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Only Bharat (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Live Times (576p)",
@@ -1193,6 +1188,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
