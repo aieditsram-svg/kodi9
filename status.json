@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 15:33 UTC",
-  "fingerprint": "41cd886acc0cb0182fa0807ae6721135",
+  "updated_at": "2026-11-02 16:35 UTC",
+  "fingerprint": "3f8909e080b654c19b361460c3a0ea06",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 14,
-  "dead": 324,
-  "hd_channels": 576,
+  "working": 1352,
+  "in_grace_period": 18,
+  "dead": 323,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
-      "hd": 221
+      "working": 555,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 115,
+      "working": 116,
       "hd": 49
     },
     "Santali": {
@@ -99,7 +99,7 @@
     },
     "Urdu": {
       "total": 17,
-      "working": 16,
+      "working": 14,
       "hd": 5
     }
   },
@@ -160,11 +160,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -173,11 +168,6 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "Chardikla Time TV (1080p)",
-      "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "DD National HD (576p)",
@@ -752,12 +742,7 @@
     {
       "name": "TV13 Gujarati (480p)",
       "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "empty HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
@@ -940,6 +925,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Munsif TV (576p)",
+      "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Goldmines Action (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
       "reason": "HTTP 403"
@@ -1008,6 +998,11 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Munsif TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
