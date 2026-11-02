@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 01:58 UTC",
-  "fingerprint": "7f0222369ac91e606be9b7148ecf5e46",
+  "updated_at": "2026-11-02 02:45 UTC",
+  "fingerprint": "faa38a80ae2512c821f987df0ffc09eb",
   "total": 1675,
-  "working": 1433,
-  "in_grace_period": 14,
-  "dead": 242,
+  "working": 1434,
+  "in_grace_period": 12,
+  "dead": 241,
   "hd_channels": 604,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 581,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 69,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 179,
       "working": 144,
-      "hd": 69
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -208,11 +208,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -722,7 +717,7 @@
     {
       "name": "Balle Balle (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
