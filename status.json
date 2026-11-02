@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 22:49 UTC",
-  "fingerprint": "7de08a3467c78ee38fd0abf68c0bec80",
+  "updated_at": "2026-11-02 23:25 UTC",
+  "fingerprint": "fd1068ac3b6ea6e9ff4297626e10b5d4",
   "total": 1675,
-  "working": 1349,
-  "in_grace_period": 4,
-  "dead": 326,
-  "hd_channels": 573,
+  "working": 1350,
+  "in_grace_period": 7,
+  "dead": 325,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 552,
-      "hd": 220
+      "working": 554,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 128,
       "hd": 55
     },
     "Urdu": {
@@ -243,6 +243,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -635,11 +640,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -740,11 +740,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -827,7 +822,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sandesh News (576p)",
@@ -942,7 +937,7 @@
     {
       "name": "News Capital Gujarat (1080p)",
       "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 502"
     },
     {
       "name": "News Nation 81 (1080p)",
