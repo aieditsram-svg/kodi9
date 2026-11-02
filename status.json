@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 01:00 UTC",
-  "fingerprint": "5bd6341ba3b0954c67b92293deac2132",
+  "updated_at": "2026-11-02 01:58 UTC",
+  "fingerprint": "7f0222369ac91e606be9b7148ecf5e46",
   "total": 1675,
-  "working": 1432,
-  "in_grace_period": 4,
-  "dead": 243,
-  "hd_channels": 605,
+  "working": 1433,
+  "in_grace_period": 14,
+  "dead": 242,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 580,
-      "hd": 230
+      "working": 581,
+      "hd": 229
     },
     "Kannada": {
       "total": 69,
@@ -262,12 +262,12 @@
     {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -297,7 +297,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -388,11 +388,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
