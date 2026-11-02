@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 09:45 UTC",
-  "fingerprint": "31d6a1ae0be78a1c1afc1df7f59bf20e",
+  "updated_at": "2026-11-02 10:40 UTC",
+  "fingerprint": "cfdddecd6e4867d280e8780f5fc4052f",
   "total": 1675,
-  "working": 1353,
-  "in_grace_period": 10,
-  "dead": 322,
-  "hd_channels": 576,
+  "working": 1354,
+  "in_grace_period": 14,
+  "dead": 321,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
-      "hd": 220
+      "working": 554,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -742,11 +742,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
