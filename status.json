@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 01:46 UTC",
-  "fingerprint": "9a5c431ed815b898352441f2abf41078",
+  "updated_at": "2026-11-03 02:32 UTC",
+  "fingerprint": "98f1c950608c7eb23996c80e90e85721",
   "total": 1676,
-  "working": 1352,
-  "in_grace_period": 17,
-  "dead": 324,
-  "hd_channels": 569,
+  "working": 1351,
+  "in_grace_period": 16,
+  "dead": 325,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 218
+      "working": 553,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -158,6 +158,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -827,7 +832,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sandesh News (576p)",
