@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 03:24 UTC",
-  "fingerprint": "40511cd5bca7c37b7171e8f88133965f",
+  "updated_at": "2026-11-03 04:19 UTC",
+  "fingerprint": "0dad277a43eda0e4a1da71efb58f4e94",
   "total": 1676,
-  "working": 1346,
-  "in_grace_period": 8,
-  "dead": 330,
-  "hd_channels": 570,
+  "working": 1348,
+  "in_grace_period": 10,
+  "dead": 328,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -89,18 +89,18 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 139,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 128,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
       "total": 17,
-      "working": 14,
-      "hd": 5
+      "working": 16,
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -258,11 +258,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -650,6 +645,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -752,11 +752,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -945,11 +940,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Munsif TV (576p)",
-      "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Goldmines Action (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
       "reason": "HTTP 403"
@@ -1028,11 +1018,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Munsif TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
@@ -1513,6 +1498,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "News Live (576p)",
