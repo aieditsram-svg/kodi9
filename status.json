@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 00:46 UTC",
-  "fingerprint": "c8b0e99cfc3347eec1353edc6836e98d",
+  "updated_at": "2026-11-03 01:46 UTC",
+  "fingerprint": "9a5c431ed815b898352441f2abf41078",
   "total": 1676,
-  "working": 1353,
-  "in_grace_period": 9,
-  "dead": 323,
-  "hd_channels": 572,
+  "working": 1352,
+  "in_grace_period": 17,
+  "dead": 324,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 555,
-      "hd": 220
+      "working": 554,
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -640,6 +640,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -822,7 +827,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sandesh News (576p)",
