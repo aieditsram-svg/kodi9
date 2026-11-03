@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 21:14 UTC",
-  "fingerprint": "835c76f0de529d72329148280ff619d6",
+  "updated_at": "2026-11-03 21:57 UTC",
+  "fingerprint": "f85d4f72b5053bd26f98504711dd2dd1",
   "total": 1676,
-  "working": 1354,
-  "in_grace_period": 8,
-  "dead": 322,
-  "hd_channels": 575,
+  "working": 1353,
+  "in_grace_period": 7,
+  "dead": 323,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 550,
-      "hd": 220
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -645,8 +645,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -838,6 +838,11 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Sandesh News (576p)",
