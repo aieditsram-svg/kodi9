@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 12:37 UTC",
-  "fingerprint": "ea28fef669f3a792c79251e459e36a24",
+  "updated_at": "2026-11-03 13:47 UTC",
+  "fingerprint": "7bc61714a4fe0a37582b6791fa2a5e3c",
   "total": 1676,
-  "working": 1361,
-  "in_grace_period": 19,
-  "dead": 315,
-  "hd_channels": 580,
+  "working": 1358,
+  "in_grace_period": 16,
+  "dead": 318,
+  "hd_channels": 579,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 78,
-      "hd": 42
+      "working": 77,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 555,
+      "working": 553,
       "hd": 221
     },
     "Kannada": {
@@ -460,6 +460,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -642,6 +647,11 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1173,6 +1183,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
