@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 10:08 UTC",
-  "fingerprint": "5cf9074b6bd6920f75f6d2d519556fda",
+  "updated_at": "2026-11-03 10:58 UTC",
+  "fingerprint": "7a9233750049a7c26debcdefe2a2c857",
   "total": 1676,
   "working": 1356,
   "in_grace_period": 12,
   "dead": 320,
-  "hd_channels": 578,
+  "hd_channels": 579,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 554,
-      "hd": 221
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
+      "working": 87,
       "hd": 34
     },
     "Marathi": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -315,11 +315,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
@@ -347,12 +342,12 @@
     {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
@@ -397,7 +392,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -635,9 +630,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1178,11 +1183,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
