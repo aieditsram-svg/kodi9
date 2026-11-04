@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04 20:38 UTC",
-  "fingerprint": "84cd1dc71975c692a754ec8b1275c547",
+  "updated_at": "2026-11-04 21:27 UTC",
+  "fingerprint": "6b6fa15d5df0a1b423ff10d2d5e4820c",
   "total": 1675,
   "working": 1325,
-  "in_grace_period": 13,
+  "in_grace_period": 6,
   "dead": 350,
   "hd_channels": 568,
   "languages": {
@@ -163,6 +163,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -663,11 +668,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
