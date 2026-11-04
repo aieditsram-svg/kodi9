@@ -1,106 +1,21 @@
 {
-  "updated_at": "2026-11-04 22:14 UTC",
-  "fingerprint": "adaee3932d301399cc38a510448b1be7",
+  "updated_at": "2026-11-04 23:00 UTC",
+  "fingerprint": "323460b6b9e747ddaf6cda2b5ff43ee7",
   "total": 1675,
-  "working": 1327,
-  "in_grace_period": 3,
-  "dead": 348,
+  "working": 1328,
+  "in_grace_period": 7,
+  "dead": 347,
   "hd_channels": 569,
   "languages": {
-    "Assamese": {
-      "total": 38,
-      "working": 27,
-      "hd": 10
-    },
-    "Bengali": {
-      "total": 111,
-      "working": 75,
-      "hd": 40
-    },
-    "Bhojpuri": {
-      "total": 32,
-      "working": 26,
-      "hd": 10
-    },
-    "Chhattisgarhi": {
-      "total": 3,
-      "working": 3,
-      "hd": 0
-    },
-    "English": {
-      "total": 164,
-      "working": 117,
-      "hd": 53
-    },
-    "Gujarati": {
-      "total": 34,
-      "working": 29,
-      "hd": 12
-    },
-    "Hindi": {
-      "total": 695,
-      "working": 546,
-      "hd": 216
-    },
-    "Kannada": {
-      "total": 69,
-      "working": 52,
-      "hd": 24
-    },
-    "Konkani": {
-      "total": 3,
-      "working": 2,
-      "hd": 1
-    },
-    "Malayalam": {
-      "total": 114,
-      "working": 84,
-      "hd": 35
-    },
-    "Marathi": {
-      "total": 45,
-      "working": 39,
-      "hd": 20
-    },
-    "Nepali": {
-      "total": 6,
-      "working": 6,
-      "hd": 3
-    },
-    "Odia": {
-      "total": 30,
-      "working": 20,
-      "hd": 9
-    },
     "Other": {
-      "total": 21,
-      "working": 18,
-      "hd": 12
-    },
-    "Punjabi": {
-      "total": 133,
-      "working": 117,
-      "hd": 49
-    },
-    "Santali": {
-      "total": 1,
-      "working": 1,
-      "hd": 1
-    },
-    "Tamil": {
-      "total": 178,
-      "working": 140,
-      "hd": 70
+      "total": 1590,
+      "working": 1266,
+      "hd": 526
     },
     "Telugu": {
-      "total": 170,
-      "working": 122,
-      "hd": 55
-    },
-    "Urdu": {
-      "total": 17,
-      "working": 16,
-      "hd": 6
+      "total": 85,
+      "working": 62,
+      "hd": 43
     }
   },
   "dead_channels": [
@@ -1538,11 +1453,6 @@
       "name": "Sai TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Shaheedan Shahib (576p)",
