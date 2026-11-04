@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 04:17 UTC",
-  "fingerprint": "810768a6c1d198c0eba340b60e760f61",
+  "updated_at": "2026-11-04 05:17 UTC",
+  "fingerprint": "ccad5325192a08d8a20abb93172d4ad2",
   "total": 1675,
-  "working": 1357,
-  "in_grace_period": 18,
-  "dead": 318,
-  "hd_channels": 572,
+  "working": 1359,
+  "in_grace_period": 20,
+  "dead": 316,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 40
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
-      "hd": 218
+      "working": 554,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -392,7 +392,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -617,11 +617,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1420,11 +1415,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Aagaaz Times (1080p)",
-      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -1457,7 +1447,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
+      "reason": "HTTP 403"
     },
     {
       "name": "News Live (576p)",
