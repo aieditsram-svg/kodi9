@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 05:17 UTC",
-  "fingerprint": "ccad5325192a08d8a20abb93172d4ad2",
+  "updated_at": "2026-11-04 06:17 UTC",
+  "fingerprint": "76e90375ae6aa2af5a0e5e8ac910fc27",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 20,
-  "dead": 316,
-  "hd_channels": 576,
+  "working": 1356,
+  "in_grace_period": 14,
+  "dead": 319,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
-      "hd": 220
+      "working": 550,
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
@@ -158,6 +158,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -623,6 +628,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -1415,6 +1425,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bhakti Dhara (720p)",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -1430,6 +1445,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1442,11 +1462,6 @@
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
