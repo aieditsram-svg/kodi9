@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04 06:17 UTC",
-  "fingerprint": "76e90375ae6aa2af5a0e5e8ac910fc27",
+  "updated_at": "2026-11-04 07:39 UTC",
+  "fingerprint": "7b2f7f9d35670d90eb27e2d01da25526",
   "total": 1675,
   "working": 1356,
-  "in_grace_period": 14,
+  "in_grace_period": 13,
   "dead": 319,
   "hd_channels": 574,
   "languages": {
@@ -635,14 +635,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
