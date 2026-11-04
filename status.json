@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 07:39 UTC",
-  "fingerprint": "7b2f7f9d35670d90eb27e2d01da25526",
+  "updated_at": "2026-11-04 08:37 UTC",
+  "fingerprint": "1c56bc419cf572ba4eeb82560904169a",
   "total": 1675,
   "working": 1356,
-  "in_grace_period": 13,
+  "in_grace_period": 43,
   "dead": 319,
-  "hd_channels": 574,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 550,
-      "hd": 218
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -630,8 +630,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
