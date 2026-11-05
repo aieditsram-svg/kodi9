@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 19:20 UTC",
-  "fingerprint": "8a7b9f9ae9bb8c1fa19365c3f881d0c6",
+  "updated_at": "2026-11-05 20:11 UTC",
+  "fingerprint": "2b7c7d55db4c317556923961b680f324",
   "total": 1675,
-  "working": 1365,
-  "in_grace_period": 10,
-  "dead": 310,
-  "hd_channels": 578,
+  "working": 1364,
+  "in_grace_period": 16,
+  "dead": 311,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 42
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 56
+      "working": 123,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
-      "hd": 222
+      "working": 554,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
-      "hd": 34
+      "working": 87,
+      "hd": 33
     },
     "Marathi": {
       "total": 45,
@@ -765,6 +765,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -810,6 +815,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -843,11 +853,6 @@
       "name": "MH One Shraddha (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Movie Punjab (720p)",
@@ -1362,7 +1367,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
