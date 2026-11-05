@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 23:11 UTC",
-  "fingerprint": "45b70d325b15fe97d77b31b7969377c6",
+  "updated_at": "2026-11-05 23:51 UTC",
+  "fingerprint": "399175f0fdb0f09c48ec32096d7bd74a",
   "total": 1675,
-  "working": 1363,
-  "in_grace_period": 6,
-  "dead": 312,
-  "hd_channels": 572,
+  "working": 1362,
+  "in_grace_period": 11,
+  "dead": 313,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 123,
-      "hd": 56
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
+      "working": 554,
       "hd": 219
     },
     "Kannada": {
@@ -965,6 +965,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1372,7 +1377,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
