@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 16:41 UTC",
-  "fingerprint": "13e17faaf78dd4b918f0e678d68507d0",
+  "updated_at": "2026-11-05 17:39 UTC",
+  "fingerprint": "08d04835f2bed3787a5acaaa7090d51a",
   "total": 1675,
-  "working": 1366,
-  "in_grace_period": 13,
-  "dead": 309,
-  "hd_channels": 579,
+  "working": 1367,
+  "in_grace_period": 19,
+  "dead": 308,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
-      "hd": 222
+      "working": 555,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -168,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -805,11 +810,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1193,11 +1193,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
