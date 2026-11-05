@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-05 04:21 UTC",
-  "fingerprint": "5e18cefa955b6930e6dae9401a7f7167",
+  "updated_at": "2026-11-05 05:23 UTC",
+  "fingerprint": "04e5f9aad7e7251075424a004c353c8e",
   "total": 1675,
-  "working": 1339,
+  "working": 1349,
   "in_grace_period": 11,
-  "dead": 336,
-  "hd_channels": 569,
+  "dead": 326,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 28,
+      "working": 29,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
-      "hd": 41
+      "working": 76,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
-      "working": 26,
-      "hd": 10
+      "working": 27,
+      "hd": 9
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -29,17 +29,17 @@
     },
     "English": {
       "total": 164,
-      "working": 121,
+      "working": 123,
       "hd": 56
     },
     "Gujarati": {
       "total": 34,
-      "working": 29,
-      "hd": 12
+      "working": 30,
+      "hd": 13
     },
     "Hindi": {
       "total": 695,
-      "working": 543,
+      "working": 544,
       "hd": 216
     },
     "Kannada": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 125,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -175,11 +175,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -220,6 +215,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -242,6 +242,11 @@
     {
       "name": "B4U Kadak (576p)",
       "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -278,16 +283,6 @@
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat24 (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Bharat24 (576p)",
-      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -351,18 +346,8 @@
     },
     {
       "name": "CVR English (576p)",
-      "url": "https://fta.ektv.in/live/701/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "CVR OM Spiritual (576p)",
-      "url": "https://fta.ektv.in/live/705/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "CVR OM Spiritual (576p)",
@@ -540,6 +525,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -620,6 +610,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -638,11 +633,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -698,11 +688,6 @@
       "name": "Hope Channel India (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Hornbill TV (576p)",
-      "url": "https://fta.ektv.in/live/710/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hornbill TV (576p)",
@@ -841,18 +826,8 @@
     },
     {
       "name": "Madhimugam TV (576p)",
-      "url": "https://fta.ektv.in/live/711/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mahaa Bhakti (576p)",
-      "url": "https://fta.ektv.in/live/707/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Bhakti (576p)",
@@ -861,18 +836,8 @@
     },
     {
       "name": "Mahaa Max (576p)",
-      "url": "https://fta.ektv.in/live/684/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mahaa Max (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mahaa News (576p)",
-      "url": "https://fta.ektv.in/live/689/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -968,6 +933,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1090,11 +1060,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Nireekshana TV (576p)",
-      "url": "https://fta.ektv.in/live/706/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1111,11 +1076,6 @@
     },
     {
       "name": "Pasand TV (576p)",
-      "url": "https://fta.ektv.in/live/708/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pasand TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1126,11 +1086,6 @@
     },
     {
       "name": "Pear TV (576p)",
-      "url": "https://fta.ektv.in/live/695/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1138,11 +1093,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1465,6 +1415,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1627,11 +1582,6 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Unique TV (576p)",
-      "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
     },
     {
