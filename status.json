@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-05 07:45 UTC",
-  "fingerprint": "5e266987d43b9f88775a642e915eb308",
+  "updated_at": "2026-11-05 08:42 UTC",
+  "fingerprint": "e9be7dbcba4cb7f9e5a5a5e59a512ec6",
   "total": 1675,
-  "working": 1356,
-  "in_grace_period": 15,
-  "dead": 319,
-  "hd_channels": 574,
+  "working": 1354,
+  "in_grace_period": 14,
+  "dead": 321,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 29,
+      "working": 27,
       "hd": 10
     },
     "Bengali": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
+      "working": 547,
       "hd": 218
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 139,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 131,
-      "hd": 55
+      "hd": 54
     },
     "Urdu": {
       "total": 17,
@@ -350,11 +350,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -423,6 +418,11 @@
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "DY 365 (360p)",
+      "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "E-Vidya 4 (576p)",
@@ -740,6 +740,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Jonack TV (360p) [Not 24/7]",
+      "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
@@ -828,6 +833,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1585,6 +1595,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Velicham TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -1683,11 +1698,6 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
