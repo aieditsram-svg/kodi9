@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-04 23:38 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-05 00:20 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese",Asom Live 24
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
@@ -93,7 +93,7 @@ https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143607_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",News18 Bangla
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Bengali" group-title="Bengali",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NKTVBangla.in@SD" x-category="news" tvg-logo="https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg" tvg-language="Bengali" group-title="Bengali",NK TV Bangla
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus
@@ -680,7 +680,7 @@ https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HindiHits.in@SD" x-category="music" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" tvg-language="Hindi" group-title="Hindi" height="720",Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="HindiKhabar.in@SD" x-category="news" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-language="Hindi" group-title="Hindi",Hindi Khabar
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD" x-category="news" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-language="Hindi" group-title="Hindi" height="1080",Hindi Khabar
 https://stream.ottlive.co.in/hindikhabar/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",History TV18 HD
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
@@ -857,7 +857,7 @@ https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="NickJr.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-language="Hindi" group-title="Hindi",Nick Jr.
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Hindi" group-title="Hindi",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Northeast Live
 #EXTVLCOPT:http-referrer=https://server.thelegitpro.in/northeastlive/northeastlive/embed.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
@@ -1138,7 +1138,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Kannada" group-title="Kannada",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in@SD" x-category="general" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada" group-title="Kannada" height="1080",NKR TV Kannada
 https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada",Pogo
@@ -1259,7 +1259,7 @@ https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143613_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Malayalam" group-title="Malayalam",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="PowervisionTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="1080",Powervision TV
@@ -1334,7 +1334,7 @@ https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="News18Marathi.in@SD" x-category="news" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/marathi/NEWS_18_Marathi_Logo.svg" tvg-language="Marathi" group-title="Marathi" height="1080",News18 Marathi
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Marathi" group-title="Marathi",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-id="PudhariNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="720",Pudhari News
@@ -1438,7 +1438,7 @@ https://live.castmaxcloud.com/live/sdsangam2.m3u8
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@Czechia" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Other" group-title="Other",Travelxp Czechia
 http://88.212.7.14/live/travel_xp/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@Russia" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Other" group-title="Other" height="1080",Travelxp Russia
+#EXTINF:-1 tvg-id="Travelxp.in@Russia" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Other" group-title="Other",Travelxp Russia
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -1665,13 +1665,13 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 #EXTINF:-1 tvg-id="NHTamilGold.in@HD" x-category="movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" tvg-language="Tamil" group-title="Tamil" height="1080",NH Tamil Gold
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Tamil" group-title="Tamil",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NTCTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-language="Tamil" group-title="Tamil" height="720",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV
-https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/5PyJj2n.png" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil",Pogo
@@ -1866,7 +1866,7 @@ https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 #EXTINF:-1 tvg-name="News18 Telugu" tvg-logo="https://i.imgur.com/NsieorM.jpeg" tvg-id="News18.com" tvg-chno="26" tvg-country="IN" tvg-language="Telugu" group-title="Telugu",News18 Telugu Ⓨ
 https://www.youtube.com/@News18Telugu/live
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-language="Telugu" group-title="Telugu",Nickelodeon
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/nGJv6QR.png" tvg-language="Telugu" group-title="Telugu",Nireekshana TV
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/706/master.m3u8
