@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 10:40 UTC",
-  "fingerprint": "3f093f7e58e63c79553a71ad4ae76d62",
+  "updated_at": "2026-11-05 11:34 UTC",
+  "fingerprint": "ae5dbf364cc7d0624559afc75d017447",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 226,
-  "dead": 316,
+  "working": 1360,
+  "in_grace_period": 10,
+  "dead": 315,
   "hd_channels": 574,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 550,
+      "working": 551,
       "hd": 219
     },
     "Kannada": {
@@ -833,11 +833,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
