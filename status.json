@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 06:23 UTC",
-  "fingerprint": "518a756150e7399d6ad51743a9274433",
+  "updated_at": "2026-11-05 07:45 UTC",
+  "fingerprint": "5e266987d43b9f88775a642e915eb308",
   "total": 1675,
-  "working": 1352,
+  "working": 1356,
   "in_grace_period": 15,
-  "dead": 323,
-  "hd_channels": 571,
+  "dead": 319,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 77,
       "hd": 42
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 546,
-      "hd": 217
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
-      "hd": 33
+      "working": 88,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
-      "hd": 54
+      "working": 131,
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
@@ -350,6 +350,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -533,11 +538,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -770,11 +770,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kalinga TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
       "reason": "HTTP 403"
@@ -918,11 +913,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1093,11 +1083,6 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pravasi Channel (1080p)",
-      "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Prime9 News (576p)",
@@ -1398,11 +1383,6 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
