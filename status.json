@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 18:21 UTC",
-  "fingerprint": "652311a8e7c0398ec5ad271b4f9cc1d0",
+  "updated_at": "2026-11-05 19:20 UTC",
+  "fingerprint": "8a7b9f9ae9bb8c1fa19365c3f881d0c6",
   "total": 1675,
-  "working": 1364,
-  "in_grace_period": 5,
-  "dead": 311,
-  "hd_channels": 576,
+  "working": 1365,
+  "in_grace_period": 10,
+  "dead": 310,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
+      "working": 122,
       "hd": 56
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
-      "hd": 220
+      "working": 555,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -207,6 +202,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -600,11 +600,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -850,6 +845,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mirror Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Movie Punjab (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
       "reason": "HTTP 403"
@@ -898,11 +898,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
