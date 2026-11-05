@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 05:23 UTC",
-  "fingerprint": "04e5f9aad7e7251075424a004c353c8e",
+  "updated_at": "2026-11-05 06:23 UTC",
+  "fingerprint": "518a756150e7399d6ad51743a9274433",
   "total": 1675,
-  "working": 1349,
-  "in_grace_period": 11,
-  "dead": 326,
-  "hd_channels": 570,
+  "working": 1352,
+  "in_grace_period": 15,
+  "dead": 323,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -20,7 +20,7 @@
     "Bhojpuri": {
       "total": 32,
       "working": 27,
-      "hd": 9
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
-      "hd": 216
+      "working": 546,
+      "hd": 217
     },
     "Kannada": {
       "total": 69,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
-      "hd": 55
+      "working": 130,
+      "hd": 54
     },
     "Urdu": {
       "total": 17,
@@ -233,16 +233,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Kadak (576p)",
@@ -523,11 +513,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -987,7 +972,7 @@
     {
       "name": "News Capital Market (1080p)",
       "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
-      "reason": "HTTP 502"
+      "reason": "TimeoutError"
     },
     {
       "name": "News Daily 24 (576p)",
