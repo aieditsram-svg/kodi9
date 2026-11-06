@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 18:28 UTC",
-  "fingerprint": "05fb455ca8570e956ca52ace52c0d4c4",
+  "updated_at": "2026-11-06 19:26 UTC",
+  "fingerprint": "7634d117bff40b975dad66e71a839f88",
   "total": 1675,
-  "working": 1347,
-  "in_grace_period": 7,
-  "dead": 328,
-  "hd_channels": 567,
+  "working": 1348,
+  "in_grace_period": 13,
+  "dead": 327,
+  "hd_channels": 566,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 548,
-      "hd": 216
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 137,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
@@ -243,11 +243,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -853,6 +848,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1488,11 +1488,6 @@
       "name": "Superhitz (576p)",
       "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
