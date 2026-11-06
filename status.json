@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-06 01:44 UTC",
-  "fingerprint": "42af996acc56e9b07b00e7935a37d7b8",
+  "updated_at": "2026-11-06 02:37 UTC",
+  "fingerprint": "7f36b93d51204dda2fa6aabd18237ec8",
   "total": 1675,
-  "working": 1360,
-  "in_grace_period": 19,
-  "dead": 315,
-  "hd_channels": 571,
+  "working": 1358,
+  "in_grace_period": 21,
+  "dead": 317,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 29,
-      "hd": 10
+      "hd": 9
     },
     "Bengali": {
       "total": 111,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 554,
-      "hd": 220
+      "working": 552,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -263,6 +263,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -1103,6 +1108,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
