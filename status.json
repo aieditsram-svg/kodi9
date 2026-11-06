@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 06:27 UTC",
-  "fingerprint": "db3a71ec788b812b387de75cdf9187c5",
+  "updated_at": "2026-11-06 07:45 UTC",
+  "fingerprint": "9412fcd366c9a07c1a38c5b3cfc4914e",
   "total": 1675,
-  "working": 1353,
-  "in_grace_period": 7,
-  "dead": 322,
-  "hd_channels": 571,
+  "working": 1355,
+  "in_grace_period": 14,
+  "dead": 320,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
-      "hd": 33
+      "working": 87,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
-      "hd": 54
+      "working": 130,
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
@@ -333,11 +333,6 @@
       "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "CVR OM Spiritual (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "CVR OM Spiritual (576p)",
@@ -788,11 +783,6 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
