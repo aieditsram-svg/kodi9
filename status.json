@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06 22:54 UTC",
-  "fingerprint": "1756203851cc7134a20efc0013f37a3a",
+  "updated_at": "2026-11-06 23:26 UTC",
+  "fingerprint": "5a080f3d620511dba5144584d767b9ca",
   "total": 1675,
   "working": 1353,
-  "in_grace_period": 10,
+  "in_grace_period": 8,
   "dead": 322,
   "hd_channels": 566,
   "languages": {
@@ -177,11 +177,6 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -618,6 +613,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1597,7 +1597,7 @@
     {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
-      "reason": "HTTP 502"
+      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
