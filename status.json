@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06 00:27 UTC",
-  "fingerprint": "34c47e3fcb149899dbbb40dafa4cf8a1",
+  "updated_at": "2026-11-06 01:44 UTC",
+  "fingerprint": "42af996acc56e9b07b00e7935a37d7b8",
   "total": 1675,
-  "working": 1362,
-  "in_grace_period": 5,
-  "dead": 313,
+  "working": 1360,
+  "in_grace_period": 19,
+  "dead": 315,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
+      "working": 122,
       "hd": 55
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 554,
-      "hd": 219
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 86,
       "hd": 33
     },
     "Marathi": {
@@ -630,6 +630,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -748,6 +753,11 @@
       "name": "Kairali We (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kalinga TV (576p)",
@@ -1372,7 +1382,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
