@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06 03:29 UTC",
-  "fingerprint": "601f0c560de7b339feb5e443cb972408",
+  "updated_at": "2026-11-06 04:28 UTC",
+  "fingerprint": "4c56244bd6b9dd0b3ea32b054e06902e",
   "total": 1675,
   "working": 1353,
-  "in_grace_period": 9,
+  "in_grace_period": 17,
   "dead": 322,
   "hd_channels": 570,
   "languages": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 121,
-      "hd": 54
+      "working": 122,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -65,7 +65,7 @@
     "Nepali": {
       "total": 6,
       "working": 6,
-      "hd": 3
+      "hd": 2
     },
     "Odia": {
       "total": 30,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 54
     },
     "Urdu": {
@@ -520,6 +520,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -647,11 +652,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
