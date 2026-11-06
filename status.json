@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 13:31 UTC",
-  "fingerprint": "56bc83a87c035281ee0976b269cba042",
+  "updated_at": "2026-11-06 14:31 UTC",
+  "fingerprint": "c6b489a947a0079e8c34a78c98859a29",
   "total": 1675,
   "working": 1358,
-  "in_grace_period": 9,
+  "in_grace_period": 23,
   "dead": 317,
-  "hd_channels": 576,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 75,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -257,7 +257,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
