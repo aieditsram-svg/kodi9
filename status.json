@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 19:26 UTC",
-  "fingerprint": "7634d117bff40b975dad66e71a839f88",
+  "updated_at": "2026-11-06 20:13 UTC",
+  "fingerprint": "71035681900ec9092b64ca78c52a3bd6",
   "total": 1675,
-  "working": 1348,
-  "in_grace_period": 13,
-  "dead": 327,
-  "hd_channels": 566,
+  "working": 1347,
+  "in_grace_period": 7,
+  "dead": 328,
+  "hd_channels": 565,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 548,
-      "hd": 215
+      "working": 546,
+      "hd": 214
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 55
     },
     "Urdu": {
@@ -222,6 +222,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -550,11 +555,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -803,6 +803,11 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
