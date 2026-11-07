@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 10:00 UTC",
-  "fingerprint": "0f74bb73254fbaa668afb539d32913fc",
+  "updated_at": "2026-11-07 10:38 UTC",
+  "fingerprint": "2825035daa6e3cac2ba2c68a4a0867b4",
   "total": 1806,
   "working": 1501,
-  "in_grace_period": 10,
+  "in_grace_period": 7,
   "dead": 305,
-  "hd_channels": 603,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 635,
-      "hd": 234
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 150,
+      "working": 151,
       "hd": 75
     },
     "Telugu": {
       "total": 178,
-      "working": 140,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -177,11 +177,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -535,6 +530,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -603,11 +603,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -822,7 +817,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Makkal TV (576p)",
@@ -913,6 +908,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
