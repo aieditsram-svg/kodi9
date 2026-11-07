@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 05:00 UTC",
-  "fingerprint": "c215358d2dde50fb535a567d8e67c259",
+  "updated_at": "2026-11-07 05:44 UTC",
+  "fingerprint": "9525f1d704dc005b4a09a8fb88039b97",
   "total": 1806,
-  "working": 1496,
-  "in_grace_period": 12,
-  "dead": 310,
-  "hd_channels": 597,
+  "working": 1501,
+  "in_grace_period": 15,
+  "dead": 305,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 95,
-      "hd": 43
+      "working": 97,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 631,
-      "hd": 231
+      "working": 635,
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -167,11 +167,16 @@
     {
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Amrit Gurbani (720p)",
+      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -207,11 +212,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -585,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Friends TV (1080p)",
-      "url": "https://server.playontv.in/friendstv/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -895,11 +890,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Nation News (720p)",
-      "url": "https://server.playontv.in/nationnews/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -918,6 +908,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1110,11 +1105,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Raatdin Bangla (720p)",
-      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Raj Musix Kannada (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
       "reason": "HTTP 403"
@@ -1228,16 +1218,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1423,11 +1403,6 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Swastik TV (720p)",
-      "url": "https://server.playontv.in/swastiktv/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "T News (576p)",
