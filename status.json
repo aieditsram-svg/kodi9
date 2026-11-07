@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 03:20 UTC",
-  "fingerprint": "dec8d26e621698946acd5fb5ec01859b",
+  "updated_at": "2026-11-07 04:13 UTC",
+  "fingerprint": "3891f6b0cad2a1d99e0a36e8b72f0457",
   "total": 1806,
-  "working": 1485,
-  "in_grace_period": 10,
-  "dead": 321,
-  "hd_channels": 591,
+  "working": 1491,
+  "in_grace_period": 12,
+  "dead": 315,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 30,
+      "working": 31,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
       "working": 94,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 132,
-      "hd": 60
+      "working": 133,
+      "hd": 61
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 623,
-      "hd": 229
+      "working": 627,
+      "hd": 230
     },
     "Kannada": {
       "total": 76,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 96,
-      "hd": 37
+      "hd": 39
     },
     "Marathi": {
       "total": 55,
@@ -156,11 +156,6 @@
     },
     {
       "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -173,16 +168,6 @@
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -238,11 +223,6 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -955,11 +935,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -988,11 +963,6 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1067,7 +1037,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1225,6 +1195,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1276,7 +1251,12 @@
     },
     {
       "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1403,11 +1383,6 @@
       "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1687,11 +1662,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
