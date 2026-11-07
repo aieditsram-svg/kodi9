@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 15:24 UTC",
-  "fingerprint": "fd58508335a13f2708ae76ebf746cbe7",
+  "updated_at": "2026-11-07 16:00 UTC",
+  "fingerprint": "9618ad274880c1875b6584d93be27a41",
   "total": 1806,
-  "working": 1497,
+  "working": 1496,
   "in_grace_period": 38,
-  "dead": 309,
+  "dead": 310,
   "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 31,
+      "working": 30,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
       "working": 97,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
-      "hd": 232
+      "working": 633,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
-      "hd": 52
+      "working": 127,
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 138,
-      "hd": 56
+      "working": 139,
+      "hd": 57
     },
     "Urdu": {
       "total": 18,
@@ -220,6 +220,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
@@ -268,11 +273,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "BRK News (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -408,6 +408,11 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dukhnivaran Patiala Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1055,6 +1060,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1103,11 +1113,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
