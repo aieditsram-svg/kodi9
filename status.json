@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07 10:38 UTC",
-  "fingerprint": "2825035daa6e3cac2ba2c68a4a0867b4",
+  "updated_at": "2026-11-07 11:16 UTC",
+  "fingerprint": "3f85ca93c772db02bf77ac91f8a94265",
   "total": 1806,
   "working": 1501,
-  "in_grace_period": 7,
+  "in_grace_period": 19,
   "dead": 305,
   "hd_channels": 602,
   "languages": {
@@ -817,7 +817,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Makkal TV (576p)",
