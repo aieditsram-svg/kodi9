@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 20:56 UTC",
-  "fingerprint": "ebfcdd97ff44e6ea60dcc43adb92d45a",
+  "updated_at": "2026-11-07 21:26 UTC",
+  "fingerprint": "c9a0d96871e310aea49777bd792e85e3",
   "total": 1806,
-  "working": 1476,
-  "in_grace_period": 5,
-  "dead": 330,
-  "hd_channels": 599,
+  "working": 1475,
+  "in_grace_period": 10,
+  "dead": 331,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 635,
-      "hd": 233
+      "working": 634,
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 91,
-      "hd": 38
+      "working": 90,
+      "hd": 37
     },
     "Marathi": {
       "total": 55,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -438,11 +438,6 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -830,6 +825,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1048,6 +1048,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
