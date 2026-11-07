@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 22:02 UTC",
-  "fingerprint": "a3191dca764adcc27708239d2bb5d59f",
+  "updated_at": "2026-11-07 22:37 UTC",
+  "fingerprint": "5730d47a14c2d199c3d5582aa428c6f6",
   "total": 1806,
-  "working": 1474,
-  "in_grace_period": 8,
-  "dead": 332,
-  "hd_channels": 599,
+  "working": 1471,
+  "in_grace_period": 17,
+  "dead": 335,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
-      "hd": 233
+      "working": 631,
+      "hd": 232
     },
     "Kannada": {
       "total": 76,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 178,
       "working": 130,
-      "hd": 57
+      "hd": 56
     },
     "Urdu": {
       "total": 18,
@@ -625,6 +625,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -643,6 +648,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1748,6 +1758,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
