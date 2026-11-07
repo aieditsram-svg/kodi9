@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 14:13 UTC",
-  "fingerprint": "e6b6bcca1dfb879ebc60d0504d9e176a",
+  "updated_at": "2026-11-07 14:52 UTC",
+  "fingerprint": "526f7e66b922ab9a493d08058fe35136",
   "total": 1806,
-  "working": 1500,
-  "in_grace_period": 13,
-  "dead": 306,
-  "hd_channels": 600,
+  "working": 1502,
+  "in_grace_period": 16,
+  "dead": 304,
+  "hd_channels": 601,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 635,
+      "working": 636,
       "hd": 233
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 128,
-      "hd": 51
+      "working": 129,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -278,11 +278,6 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -598,11 +593,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -962,7 +952,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
