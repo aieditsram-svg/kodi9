@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08 16:29 UTC",
-  "fingerprint": "2d275e95a5ba8dd09bae2148edb8a46b",
+  "updated_at": "2026-11-08 17:08 UTC",
+  "fingerprint": "a02c1326f6a2121a9e74f20a336de794",
   "total": 1776,
   "working": 1437,
-  "in_grace_period": 8,
+  "in_grace_period": 28,
   "dead": 339,
   "hd_channels": 587,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 155,
-      "working": 122,
+      "working": 121,
       "hd": 55
     },
     "Gujarati": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 124,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -388,6 +383,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -790,6 +790,11 @@
       "reason": "URLError"
     },
     {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
@@ -988,11 +993,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
