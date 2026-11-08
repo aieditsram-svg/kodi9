@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-08 08:26 UTC
+# Working channels, one best link per channel, updated 2026-11-08 09:15 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="360",DY 365 (360p)
@@ -15,7 +15,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/out
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xMJ2bv9.png" tvg-language="Assamese" group-title="Assamese" height="720",NK TV 24x7 (576p)
 https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Prag News (576p)
-https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+https://hls.pragnews.com/master.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" x-category="news" tvg-logo="https://i.imgur.com/HNsg5Px.png" tvg-language="Assamese" group-title="Assamese" height="1080",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Pratidin Time (576p)
@@ -747,8 +747,6 @@ https://stream.ottlive.co.in/newsindia/index.m3u8
 https://stream.ottlive.co.in/newsleader/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",News Nation (1080p)
 https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation81.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" tvg-language="Hindi" group-title="Hindi" height="1080",News Nation 81 (1080p)
-https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 tvg-id="NewsStateMPCHG.in@SD" x-category="news" tvg-logo="https://i.imgur.com/KS5xcx2.png" tvg-language="Hindi" group-title="Hindi" height="1080",News State MP & CHG (1080p)
 https://jmp2.uk/stvp-IN4000012ML
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in@SD" x-category="news" tvg-language="Hindi" group-title="Hindi" height="1080",News State Punjab Haryana Himachal (1080p)
@@ -818,7 +816,7 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m
 https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
 #EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/h4UehKC.png" tvg-language="Hindi" group-title="Hindi" height="720",Sadhna Plus News (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SadhnaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Sadhna TV (576p)
+#EXTINF:-1 tvg-id="SadhnaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Sadhna TV (576p)
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in@SD" x-category="news" tvg-logo="https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg" tvg-language="Hindi" group-title="Hindi" height="720",Samachar Plus 24x7 (576p)
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
@@ -933,6 +931,8 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Hindi" group-title="Hindi" height="1080",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="TTN24.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png" tvg-language="Hindi" group-title="Hindi" height="720",TTN24 (720p)
+https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TV100.in@SD" tvg-logo="https://i.imgur.com/EFpH8Ae.png" tvg-language="Hindi" group-title="Hindi" height="576",TV 100 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/310/master.m3u8
@@ -1174,8 +1174,6 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/KbU36xI.png" tvg-language="Malayalam" group-title="Malayalam" height="720",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="Vision.in@SD" x-category="general" tvg-logo="https://i.imgur.com/YozqNL3.jpg" tvg-language="Malayalam" group-title="Malayalam" height="576",Vision (576p)
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",9X Jhakaas (1080p)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-language="Marathi" group-title="Marathi" height="1080",ABP Majha (576p)

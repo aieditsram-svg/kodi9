@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 08:26 UTC",
-  "fingerprint": "8dfd7e1faabf2ed9b1536c5849cdd73b",
+  "updated_at": "2026-11-08 09:15 UTC",
+  "fingerprint": "6f69dc88b162521a1b7877159c66483a",
   "total": 1776,
-  "working": 1475,
-  "in_grace_period": 13,
-  "dead": 301,
-  "hd_channels": 600,
+  "working": 1473,
+  "in_grace_period": 32,
+  "dead": 303,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 233
+      "working": 631,
+      "hd": 232
     },
     "Kannada": {
       "total": 75,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 93,
+      "working": 92,
       "hd": 40
     },
     "Marathi": {
@@ -308,6 +308,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -1015,6 +1020,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1455,11 +1465,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "TTN24 (720p)",
-      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
-      "reason": "empty HLS manifest"
-    },
-    {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
@@ -1503,6 +1508,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
