@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 21:58 UTC",
-  "fingerprint": "488b563c668bea5e585749f96de82bf5",
+  "updated_at": "2026-11-08 22:30 UTC",
+  "fingerprint": "6c3799e4238478003ea4991db13634f1",
   "total": 1776,
-  "working": 1435,
-  "in_grace_period": 4,
-  "dead": 341,
+  "working": 1434,
+  "in_grace_period": 11,
+  "dead": 342,
   "hd_channels": 584,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
+      "working": 86,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 611,
+      "working": 608,
       "hd": 225
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 125,
+      "working": 126,
       "hd": 56
     },
     "Urdu": {
@@ -425,6 +425,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Deewana HD (540p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Dhamaal (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
       "reason": "TimeoutError"
@@ -558,11 +563,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -903,6 +903,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1405,11 +1410,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1578,6 +1578,11 @@
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "VTU (1080p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Win TV (576p)",
