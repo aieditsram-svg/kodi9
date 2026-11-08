@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 14:12 UTC",
-  "fingerprint": "55b013bda954a6132a0816bc9070d34e",
+  "updated_at": "2026-11-08 14:49 UTC",
+  "fingerprint": "141eb1d4c96e72dbafc410dac203b273",
   "total": 1776,
-  "working": 1450,
+  "working": 1448,
   "in_grace_period": 19,
-  "dead": 326,
-  "hd_channels": 595,
+  "dead": 328,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 88,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 622,
-      "hd": 231
+      "working": 620,
+      "hd": 230
     },
     "Kannada": {
       "total": 75,
-      "working": 59,
+      "working": 58,
       "hd": 28
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 93,
+      "working": 92,
       "hd": 39
     },
     "Marathi": {
       "total": 54,
-      "working": 49,
+      "working": 48,
       "hd": 22
     },
     "Nepali": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 34,
-      "working": 25,
+      "working": 24,
       "hd": 10
     },
     "Other": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 148,
+      "working": 147,
       "hd": 74
     },
     "Telugu": {
       "total": 174,
-      "working": 133,
+      "working": 132,
       "hd": 58
     },
     "Urdu": {
@@ -208,6 +208,11 @@
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Anmol TV (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -610,11 +615,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -828,11 +828,6 @@
       "name": "Khushboo Bangla (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -1195,6 +1190,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1273,6 +1273,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1678,6 +1683,11 @@
       "name": "Zee Cinema HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sony Yay! (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Aath (576p)",
