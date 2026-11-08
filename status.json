@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 04:11 UTC",
-  "fingerprint": "237e8e8a826e2eb5502c0ece53d2cb2b",
+  "updated_at": "2026-11-08 04:59 UTC",
+  "fingerprint": "c2ea54ed2b3e31af16c8a81ff98ccea6",
   "total": 1776,
-  "working": 1474,
-  "in_grace_period": 13,
-  "dead": 302,
-  "hd_channels": 596,
+  "working": 1477,
+  "in_grace_period": 14,
+  "dead": 299,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 98,
-      "hd": 44
+      "working": 99,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 633,
+      "working": 634,
       "hd": 233
     },
     "Kannada": {
       "total": 75,
-      "working": 59,
-      "hd": 28
+      "working": 60,
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 92,
-      "hd": 38
+      "working": 94,
+      "hd": 40
     },
     "Marathi": {
       "total": 54,
-      "working": 48,
-      "hd": 22
+      "working": 49,
+      "hd": 23
     },
     "Nepali": {
       "total": 6,
@@ -69,8 +69,8 @@
     },
     "Odia": {
       "total": 34,
-      "working": 22,
-      "hd": 10
+      "working": 23,
+      "hd": 11
     },
     "Other": {
       "total": 23,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 149,
-      "hd": 75
+      "working": 150,
+      "hd": 76
     },
     "Telugu": {
       "total": 174,
-      "working": 132,
-      "hd": 57
+      "working": 133,
+      "hd": 59
     },
     "Urdu": {
       "total": 18,
@@ -795,11 +795,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1108,11 +1103,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1593,11 +1583,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Taaza TV (576p)",
