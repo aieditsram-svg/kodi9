@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 18:58 UTC",
-  "fingerprint": "d6d7e7c0bda09432e4c6a8c69e93e78c",
+  "updated_at": "2026-11-08 19:37 UTC",
+  "fingerprint": "a04b150ed93a1965d476057d19f68cfe",
   "total": 1776,
-  "working": 1439,
-  "in_grace_period": 19,
-  "dead": 337,
-  "hd_channels": 586,
+  "working": 1435,
+  "in_grace_period": 20,
+  "dead": 341,
+  "hd_channels": 584,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
-      "hd": 43
+      "working": 86,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 612,
-      "hd": 226
+      "working": 610,
+      "hd": 225
     },
     "Kannada": {
       "total": 75,
@@ -84,12 +84,12 @@
     },
     "Santali": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Tamil": {
       "total": 184,
-      "working": 141,
+      "working": 140,
       "hd": 71
     },
     "Telugu": {
@@ -185,6 +185,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Amrita TV (576p)",
       "url": "https://fta.ektv.in/live/698/master.m3u8",
       "reason": "HTTP 404"
@@ -260,11 +265,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -313,6 +313,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -615,6 +620,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Gangaur TV (1080p)",
+      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -825,6 +835,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -838,6 +853,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Live Times (576p)",
