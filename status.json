@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 04:59 UTC",
-  "fingerprint": "c2ea54ed2b3e31af16c8a81ff98ccea6",
+  "updated_at": "2026-11-08 05:44 UTC",
+  "fingerprint": "83e533477d6a4d5f239f90e7bdf78520",
   "total": 1776,
-  "working": 1477,
-  "in_grace_period": 14,
-  "dead": 299,
-  "hd_channels": 600,
+  "working": 1476,
+  "in_grace_period": 18,
+  "dead": 300,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 99,
-      "hd": 47
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 634,
+      "working": 635,
       "hd": 233
     },
     "Kannada": {
       "total": 75,
-      "working": 60,
+      "working": 59,
       "hd": 29
     },
     "Konkani": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 94,
+      "working": 93,
       "hd": 40
     },
     "Marathi": {
@@ -175,11 +175,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -243,6 +238,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Asianet News (576p)",
+      "url": "https://fta.ektv.in/live/699/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Suvarna News (576p)",
@@ -1103,6 +1103,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
