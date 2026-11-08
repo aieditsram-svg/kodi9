@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 18:14 UTC",
-  "fingerprint": "4223a54d4bbb04117f6b7c744f82e835",
+  "updated_at": "2026-11-08 18:58 UTC",
+  "fingerprint": "d6d7e7c0bda09432e4c6a8c69e93e78c",
   "total": 1776,
-  "working": 1440,
-  "in_grace_period": 11,
-  "dead": 336,
-  "hd_channels": 588,
+  "working": 1439,
+  "in_grace_period": 19,
+  "dead": 337,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 612,
-      "hd": 227
+      "hd": 226
     },
     "Kannada": {
       "total": 75,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 37
+      "working": 86,
+      "hd": 36
     },
     "Marathi": {
       "total": 54,
@@ -1542,6 +1542,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
