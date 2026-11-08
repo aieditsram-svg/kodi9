@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 05:44 UTC",
-  "fingerprint": "83e533477d6a4d5f239f90e7bdf78520",
+  "updated_at": "2026-11-08 06:31 UTC",
+  "fingerprint": "73910b6b933fdcc0827e63ae882dfc0a",
   "total": 1776,
-  "working": 1476,
-  "in_grace_period": 18,
-  "dead": 300,
-  "hd_channels": 599,
+  "working": 1475,
+  "in_grace_period": 20,
+  "dead": 301,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 99,
-      "hd": 46
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 133,
+      "working": 132,
       "hd": 59
     },
     "Urdu": {
@@ -515,6 +515,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -860,6 +865,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1003,11 +1013,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
