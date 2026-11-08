@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 10:00 UTC",
-  "fingerprint": "0af08294a19cad73e4b3a67db6324411",
+  "updated_at": "2026-11-08 10:39 UTC",
+  "fingerprint": "0c2114b09901bec62f8e481c0e108ba3",
   "total": 1776,
-  "working": 1471,
-  "in_grace_period": 20,
-  "dead": 305,
-  "hd_channels": 599,
+  "working": 1468,
+  "in_grace_period": 32,
+  "dead": 308,
+  "hd_channels": 598,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 99,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 631,
-      "hd": 233
+      "working": 628,
+      "hd": 232
     },
     "Kannada": {
       "total": 75,
       "working": 59,
-      "hd": 29
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 119,
       "working": 93,
-      "hd": 40
+      "hd": 39
     },
     "Marathi": {
       "total": 54,
       "working": 49,
-      "hd": 23
+      "hd": 22
     },
     "Nepali": {
       "total": 6,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 25,
-      "hd": 11
+      "hd": 10
     },
     "Other": {
       "total": 23,
@@ -90,16 +90,16 @@
     "Tamil": {
       "total": 184,
       "working": 149,
-      "hd": 76
+      "hd": 75
     },
     "Telugu": {
       "total": 174,
-      "working": 132,
-      "hd": 59
+      "working": 133,
+      "hd": 58
     },
     "Urdu": {
       "total": 18,
-      "working": 17,
+      "working": 16,
       "hd": 6
     }
   },
@@ -550,11 +550,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -623,6 +618,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1310,6 +1310,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1615,9 +1620,19 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Channel WIN (720p)",
+      "url": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
