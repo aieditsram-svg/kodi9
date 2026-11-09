@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 22:38 UTC",
-  "fingerprint": "af6da945b7c60184355afc5206315d1d",
+  "updated_at": "2026-11-09 23:21 UTC",
+  "fingerprint": "eb04b0fd158489371fc9265cd1e8096a",
   "total": 1768,
-  "working": 1445,
+  "working": 1447,
   "in_grace_period": 7,
-  "dead": 323,
-  "hd_channels": 572,
+  "dead": 321,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 595,
-      "hd": 213
+      "working": 597,
+      "hd": 212
     },
     "Kannada": {
       "total": 75,
@@ -608,11 +608,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1693,11 +1688,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
