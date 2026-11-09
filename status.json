@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 04:19 UTC",
-  "fingerprint": "109aea7787bffe58e0ab1bfb92479f96",
+  "updated_at": "2026-11-09 05:28 UTC",
+  "fingerprint": "184bee39e938af0c239cac07986c8a09",
   "total": 1768,
-  "working": 1433,
-  "in_grace_period": 13,
-  "dead": 335,
+  "working": 1434,
+  "in_grace_period": 8,
+  "dead": 334,
   "hd_channels": 584,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 88,
       "hd": 44
     },
     "Bhojpuri": {
@@ -375,11 +375,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -628,6 +623,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1273,11 +1273,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
