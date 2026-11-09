@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 17:39 UTC",
-  "fingerprint": "6076ff4ba2b2a8173e8d079f91aaf0a1",
+  "updated_at": "2026-11-09 18:27 UTC",
+  "fingerprint": "2eeab2d4a5d2015233033acfe691736e",
   "total": 1768,
-  "working": 1441,
-  "in_grace_period": 12,
-  "dead": 327,
-  "hd_channels": 572,
+  "working": 1442,
+  "in_grace_period": 16,
+  "dead": 326,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 592,
-      "hd": 212
+      "working": 593,
+      "hd": 213
     },
     "Kannada": {
       "total": 75,
@@ -177,7 +177,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -222,11 +222,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
