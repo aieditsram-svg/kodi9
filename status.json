@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 13:48 UTC",
-  "fingerprint": "90c8a8fac56547add211836351ae01ce",
+  "updated_at": "2026-11-09 14:41 UTC",
+  "fingerprint": "643d8b8e98fd060d9ae2abcf9298d43b",
   "total": 1768,
-  "working": 1443,
+  "working": 1442,
   "in_grace_period": 12,
-  "dead": 325,
-  "hd_channels": 571,
+  "dead": 326,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 152,
-      "working": 112,
+      "working": 111,
       "hd": 46
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 593,
+      "working": 594,
       "hd": 212
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 32
+      "working": 88,
+      "hd": 33
     },
     "Marathi": {
       "total": 54,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
+      "working": 132,
       "hd": 64
     },
     "Telugu": {
       "total": 173,
-      "working": 128,
+      "working": 127,
       "hd": 51
     },
     "Urdu": {
@@ -170,8 +170,18 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -373,6 +383,11 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -618,11 +633,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -893,6 +903,11 @@
       "name": "MH One Shraddha (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mirror Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Movie Punjab (720p)",
@@ -1385,11 +1400,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
       "reason": "HTTP 404"
@@ -1472,11 +1482,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
