@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 21:13 UTC",
-  "fingerprint": "9740928e7befba1b930985bb8faf8356",
+  "updated_at": "2026-11-09 21:57 UTC",
+  "fingerprint": "0b82183bfab3edab59275b21f0605c69",
   "total": 1768,
-  "working": 1446,
-  "in_grace_period": 7,
-  "dead": 322,
-  "hd_channels": 570,
+  "working": 1447,
+  "in_grace_period": 17,
+  "dead": 321,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 746,
       "working": 597,
-      "hd": 212
+      "hd": 213
     },
     "Kannada": {
       "total": 75,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Malayalam": {
       "total": 119,
@@ -142,7 +142,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTP 403"
     },
     {
       "name": "Aadinath TV (576p)",
@@ -268,11 +268,6 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -1170,11 +1165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1563,6 +1553,11 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hungama TV (576p)",
