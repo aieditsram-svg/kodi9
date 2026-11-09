@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 14:41 UTC",
-  "fingerprint": "643d8b8e98fd060d9ae2abcf9298d43b",
+  "updated_at": "2026-11-09 15:38 UTC",
+  "fingerprint": "ea392a2b216e4e3464aee37e0bbf2dbc",
   "total": 1768,
-  "working": 1442,
-  "in_grace_period": 12,
-  "dead": 326,
-  "hd_channels": 572,
+  "working": 1443,
+  "in_grace_period": 19,
+  "dead": 325,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 152,
-      "working": 111,
+      "working": 112,
       "hd": 46
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 746,
       "working": 594,
-      "hd": 212
+      "hd": 213
     },
     "Kannada": {
       "total": 75,
@@ -182,7 +182,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 503"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -903,11 +903,6 @@
       "name": "MH One Shraddha (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Movie Punjab (720p)",
