@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 08:22 UTC",
-  "fingerprint": "265c180bcbe349e1185506a4f2bfca76",
+  "updated_at": "2026-11-10 09:13 UTC",
+  "fingerprint": "52df16b2e76b02ba73f39927517d03c1",
   "total": 1752,
-  "working": 1421,
+  "working": 1423,
   "in_grace_period": 214,
-  "dead": 331,
-  "hd_channels": 568,
+  "dead": 329,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 79,
+      "working": 80,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 580,
-      "hd": 210
+      "working": 581,
+      "hd": 212
     },
     "Kannada": {
       "total": 75,
@@ -372,6 +372,11 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Himachal Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/575/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -935,11 +940,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1097,11 +1097,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1298,11 +1293,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
