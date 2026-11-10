@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 14:34 UTC",
-  "fingerprint": "a7884af6a6231bab8edc29e1412393fe",
+  "updated_at": "2026-11-10 15:19 UTC",
+  "fingerprint": "cb06795c886696bd35ef037b5a7f5446",
   "total": 1752,
-  "working": 1478,
-  "in_grace_period": 11,
-  "dead": 274,
-  "hd_channels": 595,
+  "working": 1479,
+  "in_grace_period": 7,
+  "dead": 273,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 594,
-      "hd": 219
+      "working": 595,
+      "hd": 218
     },
     "Kannada": {
       "total": 75,
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -217,7 +217,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -820,11 +820,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -852,7 +847,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1087,7 +1082,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
