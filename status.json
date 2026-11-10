@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 19:26 UTC",
-  "fingerprint": "928f71d26aba85a04ce2a13e2eb5d3ed",
+  "updated_at": "2026-11-10 20:16 UTC",
+  "fingerprint": "aa73abf1d31ae6ba5295c114afd9752f",
   "total": 1752,
   "working": 1476,
   "in_grace_period": 7,
   "dead": 276,
-  "hd_channels": 592,
+  "hd_channels": 593,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 88,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 593,
-      "hd": 217
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -760,6 +760,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1458,11 +1463,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
