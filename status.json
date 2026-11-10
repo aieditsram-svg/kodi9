@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 06:06 UTC",
-  "fingerprint": "c04928b4c897ceaa722d69b01452b454",
+  "updated_at": "2026-11-10 07:10 UTC",
+  "fingerprint": "fdab8226de6448a9669f93241cd7f837",
   "total": 1752,
-  "working": 1425,
-  "in_grace_period": 16,
-  "dead": 327,
-  "hd_channels": 567,
+  "working": 1424,
+  "in_grace_period": 12,
+  "dead": 328,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,17 +29,17 @@
     },
     "English": {
       "total": 152,
-      "working": 110,
+      "working": 111,
       "hd": 45
     },
     "Gujarati": {
       "total": 36,
-      "working": 32,
-      "hd": 14
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 730,
-      "working": 584,
+      "working": 582,
       "hd": 209
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 128,
+      "working": 127,
       "hd": 51
     },
     "Urdu": {
@@ -168,11 +168,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -350,6 +345,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "CVR News (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "CVR OM Spiritual (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8",
       "reason": "HTTP 403"
@@ -358,6 +358,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "DD Assam (576p)",
@@ -593,6 +598,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Good News Today (720p)",
@@ -855,11 +865,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Movie Punjab (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
       "reason": "HTTP 403"
@@ -1050,11 +1055,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1098,11 +1098,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1223,6 +1218,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1348,6 +1348,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Tabbar Hits (576p)",
