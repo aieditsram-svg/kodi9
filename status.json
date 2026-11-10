@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10 12:35 UTC",
-  "fingerprint": "41f275265f57e6bdbdc4f2cb4df3c928",
+  "updated_at": "2026-11-10 13:43 UTC",
+  "fingerprint": "09721023c846867443ddc88401482bd3",
   "total": 1752,
   "working": 1480,
-  "in_grace_period": 17,
+  "in_grace_period": 10,
   "dead": 272,
   "hd_channels": 597,
   "languages": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 595,
-      "hd": 220
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 138,
-      "hd": 67
+      "working": 139,
+      "hd": 68
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 132,
       "hd": 54
     },
     "Urdu": {
@@ -147,7 +147,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -217,7 +217,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -473,6 +473,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -842,7 +847,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -933,11 +938,6 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Raj Musix Tamil (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1082,7 +1082,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
