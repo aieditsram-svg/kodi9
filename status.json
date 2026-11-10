@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 21:39 UTC",
-  "fingerprint": "b87d8ef7e229d0ec0547806495202b72",
+  "updated_at": "2026-11-10 22:20 UTC",
+  "fingerprint": "49c9d7cae16171cee39323334a864e7a",
   "total": 1752,
-  "working": 1476,
+  "working": 1475,
   "in_grace_period": 6,
-  "dead": 276,
-  "hd_channels": 590,
+  "dead": 277,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 594,
-      "hd": 218
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 134,
+      "working": 133,
       "hd": 54
     },
     "Urdu": {
@@ -473,6 +473,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
