@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 23:00 UTC",
-  "fingerprint": "f74412f4ef6c18b1619fbb1abc3d6cf5",
+  "updated_at": "2026-11-10 23:33 UTC",
+  "fingerprint": "f7136508896c5b1970886d65e865ee78",
   "total": 1752,
-  "working": 1473,
-  "in_grace_period": 4,
-  "dead": 279,
+  "working": 1475,
+  "in_grace_period": 30,
+  "dead": 277,
   "hd_channels": 590,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
-      "hd": 218
+      "working": 594,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 26,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 23,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 132,
+      "working": 133,
       "hd": 52
     },
     "Santali": {
@@ -760,11 +760,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -807,11 +802,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Namdhari (404p) [Not 24/7]",
-      "url": "https://namdhari.tv/live/sbs1.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -998,6 +988,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1473,11 +1468,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
