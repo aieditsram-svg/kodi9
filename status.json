@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 10:55 UTC",
-  "fingerprint": "846558bf971e9af4d62c6b759492ab86",
+  "updated_at": "2026-11-10 11:42 UTC",
+  "fingerprint": "26ac886287ccb9d7d13845887c8d1c7c",
   "total": 1752,
-  "working": 1265,
-  "in_grace_period": 11,
-  "dead": 487,
-  "hd_channels": 593,
+  "working": 1262,
+  "in_grace_period": 4,
+  "dead": 490,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 71,
+      "working": 70,
       "hd": 42
     },
     "Bhojpuri": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 84,
-      "hd": 33
+      "working": 82,
+      "hd": 32
     },
     "Marathi": {
       "total": 54,
@@ -1305,6 +1305,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manorama News (576p)",
       "url": "https://fta.ektv.in/live/55/55_0.m3u8",
       "reason": "HTTP 404"
@@ -2030,6 +2035,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -2208,6 +2218,16 @@
       "name": "Unique TV (576p)",
       "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "UTV Palakkad (1080p)",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "UTV Palakkad (1080p)",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
@@ -2513,11 +2533,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
