@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 11:34 UTC",
-  "fingerprint": "e928ec6c525b25a43a6e460fafbfd45a",
+  "updated_at": "2026-11-11 12:31 UTC",
+  "fingerprint": "3b60200c1fd1a47271daae839bd505d8",
   "total": 1736,
-  "working": 1481,
-  "in_grace_period": 9,
-  "dead": 255,
+  "working": 1480,
+  "in_grace_period": 13,
+  "dead": 256,
   "hd_channels": 597,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 89,
+      "working": 88,
       "hd": 43
     },
     "Bhojpuri": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "English": {
@@ -605,6 +605,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "INH 24x7 (360p)",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
@@ -678,11 +683,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1003,6 +1003,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
