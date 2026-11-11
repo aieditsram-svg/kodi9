@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-10 23:33 UTC",
-  "fingerprint": "f7136508896c5b1970886d65e865ee78",
+  "updated_at": "2026-11-11 00:08 UTC",
+  "fingerprint": "df9b8adb40298059afea0cb442e4c444",
   "total": 1752,
-  "working": 1475,
-  "in_grace_period": 30,
-  "dead": 277,
-  "hd_channels": 590,
+  "working": 1476,
+  "in_grace_period": 36,
+  "dead": 276,
+  "hd_channels": 588,
   "languages": {
     "Assamese": {
       "total": 40,
       "working": 34,
-      "hd": 12
+      "hd": 10
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 89,
       "hd": 42
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 117,
-      "hd": 49
+      "working": 116,
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -202,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -655,6 +650,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -988,11 +988,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
