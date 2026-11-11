@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 07:49 UTC",
-  "fingerprint": "3deba0bd289e87c09975a54622bc4310",
+  "updated_at": "2026-11-11 08:42 UTC",
+  "fingerprint": "4c9f28b389bc5555879632ea9c395079",
   "total": 1736,
-  "working": 1481,
-  "in_grace_period": 8,
-  "dead": 255,
-  "hd_channels": 596,
+  "working": 1476,
+  "in_grace_period": 19,
+  "dead": 260,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 89,
-      "hd": 43
+      "working": 88,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
-      "hd": 219
+      "working": 591,
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 138,
+      "working": 137,
       "hd": 68
     },
     "Telugu": {
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -645,6 +650,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -738,6 +748,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -903,6 +918,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1073,6 +1093,11 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
