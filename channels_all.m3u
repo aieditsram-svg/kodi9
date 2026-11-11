@@ -1,5 +1,5 @@
 #EXTM3U
-# All channels found (links not verified from this server included), updated 2026-11-11 10:39 UTC
+# All channels found (links not verified from this server included), updated 2026-11-11 11:34 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese" height="576",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -2971,7 +2971,7 @@ https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia" height="576",Prameya News7 (576p)
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
-#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia" height="1080",Prameya News7 (720p)
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" tvg-language="Odia" group-title="Odia" height="720",Prameya News7 (720p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaLife.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png" tvg-language="Odia" group-title="Odia" height="576",Prarthana Life (576p)
 https://cdn.pishow.tv/ott/live/1500/master.m3u8
@@ -3741,7 +3741,7 @@ https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898
 https://cdn.pishow.tv/ott/live/397/master.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-language="Telugu" group-title="Telugu" height="1080",BIG TV (1080p)
 https://stream.ottlive.co.in/bigtv/index.m3u8
-#EXTINF:-1 tvg-id="BIGTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-language="Telugu" group-title="Telugu" height="1080",BIG TV (576p)
+#EXTINF:-1 tvg-id="BIGTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-language="Telugu" group-title="Telugu" height="576",BIG TV (576p)
 https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-language="Telugu" group-title="Telugu" height="720",BIG TV (576p)
 https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
