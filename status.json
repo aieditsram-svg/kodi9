@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 03:40 UTC",
-  "fingerprint": "e405f1f453eb544504cf3e5422bdf052",
+  "updated_at": "2026-11-11 04:37 UTC",
+  "fingerprint": "57ee38e3ed7673bb4a871d6737115954",
   "total": 1736,
-  "working": 1395,
+  "working": 1424,
   "in_grace_period": 13,
-  "dead": 341,
-  "hd_channels": 571,
+  "dead": 312,
+  "hd_channels": 589,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 141,
-      "working": 110,
+      "working": 111,
       "hd": 48
     },
     "Gujarati": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 569,
-      "hd": 212
+      "working": 580,
+      "hd": 219
     },
     "Kannada": {
       "total": 71,
-      "working": 51,
-      "hd": 24
+      "working": 52,
+      "hd": 23
     },
     "Konkani": {
       "total": 3,
@@ -59,8 +59,8 @@
     },
     "Marathi": {
       "total": 51,
-      "working": 38,
-      "hd": 17
+      "working": 39,
+      "hd": 18
     },
     "Nepali": {
       "total": 6,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 117,
-      "hd": 44
+      "working": 129,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 133,
-      "hd": 66
+      "working": 136,
+      "hd": 67
     },
     "Telugu": {
       "total": 168,
       "working": 123,
-      "hd": 53
+      "hd": 54
     },
     "Urdu": {
       "total": 18,
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -170,11 +170,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -183,11 +178,6 @@
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Amrit Gurbani (720p)",
-      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Amrita TV (576p)",
@@ -237,7 +227,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -300,11 +290,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "BSTV (720p)",
-      "url": "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Captain (576p)",
       "url": "https://fta.ektv.in/live/173/master.m3u8",
       "reason": "HTTP 404"
@@ -323,16 +308,6 @@
       "name": "Chardikla Time TV (576p)",
       "url": "https://fta.ektv.in/live/645/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Chhaya Chitram Telugu (360p)",
-      "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -525,16 +500,6 @@
       "reason": "URLError"
     },
     {
-      "name": "DNN (576p)",
-      "url": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -600,6 +565,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -638,16 +608,6 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Fast1 (576p)",
-      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "FGN Channel (360p)",
-      "url": "https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "First India News (576p)",
@@ -705,11 +665,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -748,11 +703,6 @@
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Hindi Hits (720p)",
-      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Hindi Khabar (576p) [Geo-blocked]",
@@ -830,11 +780,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "India Talkies (360p)",
-      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -890,11 +835,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -913,11 +853,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khabar Fast (576p)",
-      "url": "https://samitaorigin.tangotv.in/KHABARFAST/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -980,24 +915,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "MH One (360p)",
-      "url": "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Moon TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movie Punjab (720p)",
-      "url": "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "MTV (576p)",
@@ -1018,11 +938,6 @@
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Nanaksar Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Naxatra News (576p)",
@@ -1072,12 +987,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "News India 24x7 (576p)",
-      "url": "https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1145,21 +1055,6 @@
       "reason": "URLError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Padharo SA (720p)",
-      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Pankh (360p)",
-      "url": "https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Pasand TV (576p)",
       "url": "https://fta.ektv.in/live/708/master.m3u8",
       "reason": "HTTP 404"
@@ -1197,7 +1092,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Public Music (576p)",
@@ -1210,26 +1105,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Punjabi Music HD (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Punjabi TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Puthiya Thalaimurai Express (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Q TV (576p)",
-      "url": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1237,7 +1112,7 @@
     {
       "name": "Ragni (360p)",
       "url": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1253,11 +1128,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Saang (720p)",
-      "url": "https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1335,11 +1205,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Shree Hazur Sahibji (720p)",
-      "url": "https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1355,11 +1220,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sindh TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Siri Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1368,16 +1228,6 @@
       "name": "Soham TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sonar Bangla (360p)",
-      "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Soneri Cinema (360p)",
-      "url": "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Sonic (576p)",
@@ -1407,7 +1257,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1588,6 +1438,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1790,14 +1645,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Raj Musix Kannada (576p)",
-      "url": "https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
