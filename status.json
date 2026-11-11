@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 15:25 UTC",
-  "fingerprint": "8e10a802d039837b8ab367de318524bb",
+  "updated_at": "2026-11-11 16:20 UTC",
+  "fingerprint": "a2abe67d27dd45560d8fc55584afd6e9",
   "total": 1736,
   "working": 1475,
-  "in_grace_period": 12,
+  "in_grace_period": 11,
   "dead": 261,
-  "hd_channels": 593,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 84,
+      "working": 85,
       "hd": 41
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 141,
-      "working": 117,
-      "hd": 49
+      "working": 116,
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -160,6 +160,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -187,11 +192,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -605,6 +605,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Indywood TV (720p)",
+      "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -673,11 +678,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -788,11 +788,6 @@
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1393,6 +1388,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
