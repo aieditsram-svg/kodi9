@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 06:32 UTC",
-  "fingerprint": "eaac0c36c4d2b56b3d3ee458704e024f",
+  "updated_at": "2026-11-11 07:49 UTC",
+  "fingerprint": "3deba0bd289e87c09975a54622bc4310",
   "total": 1736,
-  "working": 1467,
-  "in_grace_period": 9,
-  "dead": 269,
-  "hd_channels": 594,
+  "working": 1481,
+  "in_grace_period": 8,
+  "dead": 255,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 88,
+      "working": 89,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 141,
-      "working": 115,
+      "working": 117,
       "hd": 49
     },
     "Gujarati": {
       "total": 36,
-      "working": 33,
+      "working": 34,
       "hd": 16
     },
     "Hindi": {
       "total": 717,
-      "working": 587,
-      "hd": 218
+      "working": 594,
+      "hd": 219
     },
     "Kannada": {
       "total": 71,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 29
+      "working": 88,
+      "hd": 30
     },
     "Marathi": {
       "total": 51,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 132,
+      "working": 134,
       "hd": 53
     },
     "Santali": {
@@ -330,11 +330,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Manipur (576p)",
       "url": "https://fta.ektv.in/live/671/master.m3u8",
       "reason": "HTTP 404"
@@ -555,18 +550,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Gulistan News (576p)",
-      "url": "https://fta.ektv.in/live/427/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest TV Keralam (720p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -606,47 +591,12 @@
     },
     {
       "name": "India News (576p)",
-      "url": "https://fta.ektv.in/live/297/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
     },
     {
-      "name": "India News Gujarati (576p)",
-      "url": "https://fta.ektv.in/live/653/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Haryana (576p)",
-      "url": "https://fta.ektv.in/live/590/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://fta.ektv.in/live/600/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Punjab/Himachal (576p)",
-      "url": "https://fta.ektv.in/live/642/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Rajasthan (576p)",
-      "url": "https://fta.ektv.in/live/601/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "India News Uttar Pradesh (576p)",
-      "url": "https://fta.ektv.in/live/304/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -668,11 +618,6 @@
       "name": "Janam TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Janta TV (576p)",
-      "url": "https://fta.ektv.in/live/106/106_0.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jaya Plus (576p)",
@@ -795,11 +740,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -838,16 +778,6 @@
       "name": "NewsX (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "NewsX (576p)",
-      "url": "https://fta.ektv.in/live/603/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "NewsX World (576p)",
-      "url": "https://fta.ektv.in/live/610/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NewsX World (576p)",
@@ -922,6 +852,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1058,11 +993,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
