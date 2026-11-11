@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 21:31 UTC",
-  "fingerprint": "197234fafc0038d0e4d2876aeb21ec6c",
+  "updated_at": "2026-11-11 22:29 UTC",
+  "fingerprint": "bc334f9f64d19f5264c1d82415f47a80",
   "total": 1736,
-  "working": 1479,
-  "in_grace_period": 4,
-  "dead": 257,
-  "hd_channels": 594,
+  "working": 1478,
+  "in_grace_period": 9,
+  "dead": 258,
+  "hd_channels": 593,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -20,7 +20,7 @@
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 90,
+      "working": 89,
       "hd": 32
     },
     "Marathi": {
@@ -1153,6 +1153,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
