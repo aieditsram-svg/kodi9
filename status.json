@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11 22:29 UTC",
-  "fingerprint": "bc334f9f64d19f5264c1d82415f47a80",
+  "updated_at": "2026-11-11 23:20 UTC",
+  "fingerprint": "00cae31098e63040c467a8bf54a3dfc4",
   "total": 1736,
   "working": 1478,
-  "in_grace_period": 9,
+  "in_grace_period": 5,
   "dead": 258,
   "hd_channels": 593,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 2,
+      "working": 3,
       "hd": 0
     },
     "English": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 592,
+      "working": 593,
       "hd": 217
     },
     "Kannada": {
@@ -615,11 +615,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "INH 24x7 (360p)",
-      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
@@ -678,6 +673,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
