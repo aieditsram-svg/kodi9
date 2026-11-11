@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 19:06 UTC",
-  "fingerprint": "01e4cb504ebb38af1543c36999629f42",
+  "updated_at": "2026-11-11 20:00 UTC",
+  "fingerprint": "6b9d9f5d6df1ee26a9a857fbd0949f42",
   "total": 1736,
-  "working": 1477,
-  "in_grace_period": 9,
-  "dead": 259,
+  "working": 1478,
+  "in_grace_period": 4,
+  "dead": 258,
   "hd_channels": 594,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 591,
-      "hd": 218
+      "working": 592,
+      "hd": 217
     },
     "Kannada": {
       "total": 71,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 168,
       "working": 133,
-      "hd": 54
+      "hd": 55
     },
     "Urdu": {
       "total": 18,
@@ -162,11 +162,6 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -460,6 +455,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -583,11 +583,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hindu Dharmam (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
