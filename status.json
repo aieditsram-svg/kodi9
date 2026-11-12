@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 23:15 UTC",
-  "fingerprint": "b90c23c8b5823651e86ab5952fffa5d8",
+  "updated_at": "2026-11-12 23:56 UTC",
+  "fingerprint": "703ff2a64441e46ec71189406f4901c5",
   "total": 1838,
-  "working": 1562,
-  "in_grace_period": 21,
-  "dead": 276,
-  "hd_channels": 622,
+  "working": 1561,
+  "in_grace_period": 24,
+  "dead": 277,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 629,
-      "hd": 227
+      "hd": 225
     },
     "Kannada": {
       "total": 76,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 132,
+      "working": 131,
       "hd": 56
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -227,7 +227,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -493,6 +493,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -867,7 +872,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -1147,7 +1152,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1172,7 +1177,7 @@
     {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1257,7 +1262,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "V6 News (576p)",
