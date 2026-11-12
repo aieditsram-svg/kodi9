@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 23:20 UTC",
-  "fingerprint": "00cae31098e63040c467a8bf54a3dfc4",
+  "updated_at": "2026-11-12 00:05 UTC",
+  "fingerprint": "6b0cc28a239b17daffc9cb856b0060e7",
   "total": 1736,
-  "working": 1478,
-  "in_grace_period": 5,
-  "dead": 258,
-  "hd_channels": 593,
+  "working": 1477,
+  "in_grace_period": 8,
+  "dead": 259,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -19,7 +19,7 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 31,
+      "working": 30,
       "hd": 12
     },
     "Chhattisgarhi": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 141,
       "working": 117,
-      "hd": 49
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -928,6 +928,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bhojpuri (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
