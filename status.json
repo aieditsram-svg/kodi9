@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 13:55 UTC",
-  "fingerprint": "a1db963c76a8496c2e768679a4555c97",
+  "updated_at": "2026-11-12 14:46 UTC",
+  "fingerprint": "03e2fea8de487aa8868f266b894563ac",
   "total": 1838,
-  "working": 1589,
-  "in_grace_period": 8,
-  "dead": 249,
-  "hd_channels": 626,
+  "working": 1590,
+  "in_grace_period": 13,
+  "dead": 248,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 629,
-      "hd": 229
+      "working": 631,
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 165,
       "working": 154,
-      "hd": 57
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 141,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -440,6 +440,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -735,11 +740,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -772,11 +772,6 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -817,7 +812,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
