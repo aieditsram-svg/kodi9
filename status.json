@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 09:54 UTC",
-  "fingerprint": "f3a2fea49a241a7d91f35993bca4971f",
+  "updated_at": "2026-11-12 10:50 UTC",
+  "fingerprint": "a0d228b578bf16db3f84cf89ebacfbfa",
   "total": 1838,
-  "working": 1588,
-  "in_grace_period": 9,
-  "dead": 250,
-  "hd_channels": 623,
+  "working": 1586,
+  "in_grace_period": 8,
+  "dead": 252,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 227
+      "working": 630,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 139,
       "hd": 56
     },
     "Urdu": {
@@ -438,6 +438,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1228,6 +1233,11 @@
       "name": "Zee Horror Nights (1080p)",
       "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee News (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee South Flix (1080p)",
