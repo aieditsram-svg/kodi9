@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 03:10 UTC",
-  "fingerprint": "8eba0cefc3cce718da12a9e4def64380",
+  "updated_at": "2026-11-12 04:00 UTC",
+  "fingerprint": "6aa43df80684583094a3f67d6554e0b2",
   "total": 1838,
-  "working": 1584,
-  "in_grace_period": 9,
-  "dead": 254,
-  "hd_channels": 621,
+  "working": 1588,
+  "in_grace_period": 6,
+  "dead": 250,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 747,
-      "working": 630,
-      "hd": 227
+      "working": 631,
+      "hd": 228
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 152,
+      "working": 154,
       "hd": 57
     },
     "Santali": {
@@ -125,11 +125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -163,11 +158,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -362,11 +352,6 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -845,11 +830,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -872,6 +852,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1038,11 +1023,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
