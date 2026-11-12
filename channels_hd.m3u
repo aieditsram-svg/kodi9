@@ -1,5 +1,5 @@
 #EXTM3U
-# Working HD channels (720p+), all languages, updated 2026-11-12 06:49 UTC
+# Working HD channels (720p+), all languages, updated 2026-11-12 08:03 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Jonack (576p)
@@ -73,8 +73,8 @@ https://stream.ottlive.co.in/newslivebangla/index.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="OnkarNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png" tvg-language="Bengali" group-title="Bengali" height="1080",Onkar News (1080p)
 https://stream.ottlive.co.in/onkarnews/index.m3u8
-#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus (1080p)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus (768p)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in@SD" tvg-logo="https://i.imgur.com/dpI7XPC.png" tvg-language="Bengali" group-title="Bengali" height="1080",R Plus Gold (576p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Raatdin Bangla (720p)
@@ -93,8 +93,8 @@ http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Sony Aath (1080p)
 http://27.124.71.27/Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha (1080p) [Geo-blocked]
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Star Jalsha HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" x-category="travel" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-language="Bengali" group-title="Bengali" height="1080",Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",TV9 Bangla (1080p)
@@ -1122,8 +1122,6 @@ https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/wZjEssv.png" tvg-language="Tamil" group-title="Tamil" height="720",MK Six (576p)
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/cFNw4Af.png" tvg-language="Tamil" group-title="Tamil" height="1080",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-language="Tamil" group-title="Tamil" height="720",Moon TV (576p)
 https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" x-category="lifestyle" tvg-logo="https://i.imgur.com/7cruYvo.png" tvg-language="Tamil" group-title="Tamil" height="1080",NDTV Good Times (1080p)
