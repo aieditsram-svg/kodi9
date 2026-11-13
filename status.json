@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 17:08 UTC",
-  "fingerprint": "4fb72d19bc54afab3367e9b59fff8963",
+  "updated_at": "2026-11-13 17:55 UTC",
+  "fingerprint": "5d4e0fdc1e8e0e2889f602851df62332",
   "total": 1850,
-  "working": 1603,
-  "in_grace_period": 8,
-  "dead": 247,
-  "hd_channels": 627,
+  "working": 1602,
+  "in_grace_period": 7,
+  "dead": 248,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 95,
+      "working": 94,
       "hd": 44
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 639,
-      "hd": 230
+      "hd": 231
     },
     "Kannada": {
       "total": 77,
@@ -1013,6 +1013,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
