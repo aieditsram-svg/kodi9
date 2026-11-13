@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-13 07:46 UTC",
-  "fingerprint": "e29a98dcec9f3486355430ce371ed843",
+  "updated_at": "2026-11-13 08:41 UTC",
+  "fingerprint": "dfcdbb8fc72f0345c43ac41b558b041e",
   "total": 1850,
-  "working": 1570,
-  "in_grace_period": 31,
-  "dead": 280,
-  "hd_channels": 623,
+  "working": 1572,
+  "in_grace_period": 20,
+  "dead": 278,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
       "working": 35,
-      "hd": 12
+      "hd": 13
     },
     "Bengali": {
       "total": 126,
-      "working": 93,
+      "working": 94,
       "hd": 44
     },
     "Bhojpuri": {
@@ -30,16 +30,16 @@
     "English": {
       "total": 145,
       "working": 123,
-      "hd": 50
+      "hd": 51
     },
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
+      "working": 633,
       "hd": 228
     },
     "Kannada": {
@@ -840,11 +840,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1158,11 +1153,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
