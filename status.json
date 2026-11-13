@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-13 06:25 UTC",
-  "fingerprint": "514fca242f4039d443fe7a7b9809fee4",
+  "updated_at": "2026-11-13 07:46 UTC",
+  "fingerprint": "e29a98dcec9f3486355430ce371ed843",
   "total": 1850,
-  "working": 1571,
-  "in_grace_period": 7,
-  "dead": 279,
-  "hd_channels": 625,
+  "working": 1570,
+  "in_grace_period": 31,
+  "dead": 280,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
       "working": 35,
-      "hd": 13
+      "hd": 12
     },
     "Bengali": {
       "total": 126,
-      "working": 94,
+      "working": 93,
       "hd": 44
     },
     "Bhojpuri": {
@@ -30,17 +30,17 @@
     "English": {
       "total": 145,
       "working": 123,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Hindi": {
       "total": 754,
-      "working": 633,
-      "hd": 227
+      "working": 632,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 153,
+      "working": 154,
       "hd": 57
     },
     "Santali": {
@@ -840,6 +840,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -945,11 +950,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -987,6 +987,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1155,6 +1160,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1268,11 +1278,6 @@
       "name": "Unique TV (576p)",
       "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "UP NOW (720p)",
-      "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
@@ -1472,7 +1477,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
