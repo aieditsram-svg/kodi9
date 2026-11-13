@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 03:26 UTC",
-  "fingerprint": "197c9f8dd9402208f4de7d3eb9f4c235",
+  "updated_at": "2026-11-13 04:26 UTC",
+  "fingerprint": "f0b1a11cf0a3b6d67599b40f13492833",
   "total": 1850,
-  "working": 1567,
-  "in_grace_period": 2,
-  "dead": 283,
-  "hd_channels": 625,
+  "working": 1569,
+  "in_grace_period": 10,
+  "dead": 281,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 631,
-      "hd": 229
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 152,
-      "hd": 56
+      "working": 154,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -123,11 +123,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -173,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -545,11 +545,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Fast1 (576p)",
-      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "First India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -860,11 +855,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -900,6 +890,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NewsX (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8",
       "reason": "TimeoutError"
@@ -932,7 +927,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nireekshana TV (576p)",
@@ -1002,11 +997,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
