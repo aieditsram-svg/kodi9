@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 09:21 UTC",
-  "fingerprint": "e4028e54e58341815cd480f6e4a32e89",
+  "updated_at": "2026-11-14 10:08 UTC",
+  "fingerprint": "2e76f80841b5a1b255bb9c49af858394",
   "total": 1844,
   "working": 1596,
-  "in_grace_period": 6,
+  "in_grace_period": 12,
   "dead": 248,
-  "hd_channels": 628,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
       "working": 635,
-      "hd": 230
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -687,7 +687,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Manoranjan TV (576p)",
