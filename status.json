@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 18:00 UTC",
-  "fingerprint": "16412c85c8ffe7325ba619dc49a3839a",
+  "updated_at": "2026-11-14 18:40 UTC",
+  "fingerprint": "cf58cafb38953a220dc0df549ff41733",
   "total": 1844,
-  "working": 1593,
-  "in_grace_period": 6,
-  "dead": 251,
-  "hd_channels": 622,
+  "working": 1596,
+  "in_grace_period": 12,
+  "dead": 248,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 91,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 226
+      "working": 636,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -187,11 +187,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -750,11 +745,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -948,11 +938,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
