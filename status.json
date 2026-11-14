@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 10:08 UTC",
-  "fingerprint": "2e76f80841b5a1b255bb9c49af858394",
+  "updated_at": "2026-11-14 10:48 UTC",
+  "fingerprint": "7082161f4f2ecd5f362f6e4bc0869bac",
   "total": 1844,
-  "working": 1596,
-  "in_grace_period": 12,
-  "dead": 248,
-  "hd_channels": 626,
+  "working": 1599,
+  "in_grace_period": 13,
+  "dead": 245,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 635,
-      "hd": 229
+      "working": 636,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -183,11 +183,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anjan TV (720p)",
-      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -670,11 +665,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1038,11 +1028,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "StarPlus HD (1080p)",
