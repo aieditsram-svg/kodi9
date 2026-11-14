@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 10:48 UTC",
-  "fingerprint": "7082161f4f2ecd5f362f6e4bc0869bac",
+  "updated_at": "2026-11-14 11:22 UTC",
+  "fingerprint": "8666ff92f197ed133ab4bebc07cbdb23",
   "total": 1844,
-  "working": 1599,
-  "in_grace_period": 13,
-  "dead": 245,
+  "working": 1597,
+  "in_grace_period": 9,
+  "dead": 247,
   "hd_channels": 625,
   "languages": {
     "Assamese": {
@@ -30,16 +30,16 @@
     "English": {
       "total": 144,
       "working": 127,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 21
     },
     "Hindi": {
       "total": 751,
-      "working": 636,
+      "working": 635,
       "hd": 228
     },
     "Kannada": {
@@ -160,11 +160,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -192,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -680,11 +680,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -862,6 +857,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1130,6 +1130,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "TV13 Gujarati (480p)",
+      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "Valam TV Dayro (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
       "reason": "HTTP 403"
@@ -1308,6 +1313,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
