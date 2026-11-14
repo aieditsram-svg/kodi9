@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 20:02 UTC",
-  "fingerprint": "4f49123168f2c85499e698f370c9be5e",
+  "updated_at": "2026-11-14 20:37 UTC",
+  "fingerprint": "414853396567b84d71e616f8b912ed35",
   "total": 1844,
-  "working": 1594,
+  "working": 1595,
   "in_grace_period": 6,
-  "dead": 250,
-  "hd_channels": 621,
+  "dead": 249,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 225
+      "working": 635,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -760,11 +760,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1072,7 +1067,7 @@
     {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 400"
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
