@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 12:40 UTC",
-  "fingerprint": "b9ba1a9b0708f04f7ec7263a1d1863cf",
+  "updated_at": "2026-11-14 13:34 UTC",
+  "fingerprint": "5fbcb0e7b4cc2b42bd39d2f07d5653f1",
   "total": 1844,
-  "working": 1592,
-  "in_grace_period": 15,
-  "dead": 252,
-  "hd_channels": 625,
+  "working": 1594,
+  "in_grace_period": 25,
+  "dead": 250,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
-      "hd": 21
+      "working": 45,
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
-      "hd": 229
+      "working": 634,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 154,
-      "hd": 57
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -755,11 +755,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1153,11 +1148,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV13 Gujarati (480p)",
-      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Valam TV Dayro (576p)",
