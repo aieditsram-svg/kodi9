@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 05:13 UTC",
-  "fingerprint": "d7a910133795b8a49687650df3d35f67",
+  "updated_at": "2026-11-14 05:59 UTC",
+  "fingerprint": "83201b97ab7ba2e04b5690bea379e3f5",
   "total": 1844,
-  "working": 1595,
-  "in_grace_period": 6,
-  "dead": 249,
-  "hd_channels": 626,
+  "working": 1597,
+  "in_grace_period": 8,
+  "dead": 247,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 93,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
-      "hd": 227
+      "working": 634,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -1245,11 +1245,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
@@ -1318,11 +1313,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Jalsha Movies (1080p)",
-      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shemaroo TV (576p)",
