@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 01:49 UTC",
-  "fingerprint": "8fa7b0a8ffa1e0896be309e02ac7a20b",
+  "updated_at": "2026-11-14 02:34 UTC",
+  "fingerprint": "394630cefeebb37c667323fbdfb0a3d5",
   "total": 1844,
   "working": 1599,
-  "in_grace_period": 14,
+  "in_grace_period": 11,
   "dead": 245,
-  "hd_channels": 626,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 638,
-      "hd": 230
+      "working": 636,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1230,6 +1230,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
@@ -1300,6 +1305,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1308,16 +1318,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
