@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 12:39 UTC",
-  "fingerprint": "8300c541f261be0d3814b8c9be942455",
+  "updated_at": "2026-11-15 13:34 UTC",
+  "fingerprint": "f9fa9efd1df611f9ab078a0815e04482",
   "total": 1840,
-  "working": 1579,
-  "in_grace_period": 9,
-  "dead": 261,
-  "hd_channels": 619,
+  "working": 1584,
+  "in_grace_period": 10,
+  "dead": 256,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 42,
-      "hd": 20
+      "working": 44,
+      "hd": 21
     },
     "Hindi": {
       "total": 750,
-      "working": 633,
-      "hd": 226
+      "working": 635,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 138,
+      "working": 139,
       "hd": 56
     },
     "Urdu": {
@@ -190,6 +190,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -198,11 +203,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -262,7 +262,7 @@
     {
       "name": "Channel Divya (1080p)",
       "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Channel Divya (720p)",
@@ -293,11 +293,6 @@
       "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "CVR News (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Dangal 2 (576p)",
@@ -552,7 +547,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -877,11 +872,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1365,11 +1355,6 @@
       "reason": "HTTP 504"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1382,16 +1367,6 @@
     {
       "name": "Prime9 News (1080p)",
       "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
