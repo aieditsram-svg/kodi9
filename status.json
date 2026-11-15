@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 11:57 UTC",
-  "fingerprint": "bad31c40342e42199bb64fd843f41355",
+  "updated_at": "2026-11-15 12:39 UTC",
+  "fingerprint": "8300c541f261be0d3814b8c9be942455",
   "total": 1840,
-  "working": 1583,
-  "in_grace_period": 17,
-  "dead": 257,
-  "hd_channels": 620,
+  "working": 1579,
+  "in_grace_period": 9,
+  "dead": 261,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 632,
+      "working": 633,
       "hd": 226
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 152,
-      "hd": 57
+      "working": 149,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 138,
       "hd": 56
     },
     "Urdu": {
@@ -163,11 +163,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -363,6 +358,11 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Divya Bhajan (1080p)",
+      "url": "https://jmp2.uk/stvp-IN1600002IQ",
+      "reason": "HTTP 504"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -828,6 +828,16 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pitaara (1080p)",
+      "url": "https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Pitaara (1080p)",
+      "url": "https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Pitaara (720p)",
@@ -1370,6 +1380,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Prime9 News (1080p)",
+      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shri Shyam TV (1080p)",
       "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
       "reason": "HTTP 404"
@@ -1378,6 +1393,11 @@
       "name": "Shri Shyam TV (1080p)",
       "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
