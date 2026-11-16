@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 02:25 UTC",
-  "fingerprint": "4a99aba87c41034d42cdefcc93c64d12",
+  "updated_at": "2026-11-16 03:32 UTC",
+  "fingerprint": "c0171f2ed62a982925ea621c3239bd45",
   "total": 1840,
-  "working": 1589,
-  "in_grace_period": 16,
-  "dead": 251,
-  "hd_channels": 616,
+  "working": 1591,
+  "in_grace_period": 15,
+  "dead": 249,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 640,
-      "hd": 224
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -195,11 +195,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -293,6 +288,16 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -905,6 +910,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -988,11 +998,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
@@ -1113,11 +1118,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1338,16 +1338,6 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
