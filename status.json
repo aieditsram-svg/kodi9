@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-16 20:11 UTC",
-  "fingerprint": "3f977b0e8c342af16801001b1b9bb305",
+  "updated_at": "2026-11-16 20:57 UTC",
+  "fingerprint": "18a60cd162d9e5177c49c76f5d267215",
   "total": 1840,
-  "working": 1592,
+  "working": 1591,
   "in_grace_period": 10,
-  "dead": 248,
+  "dead": 249,
   "hd_channels": 618,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 640,
+      "working": 639,
       "hd": 225
     },
     "Kannada": {
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
