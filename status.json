@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 01:56 UTC",
-  "fingerprint": "9d0ca0525fb7a35bb984255174ea6a14",
+  "updated_at": "2026-11-17 02:46 UTC",
+  "fingerprint": "3e3bcfce3510ec1c152360bb6fcedf63",
   "total": 1835,
   "working": 1589,
-  "in_grace_period": 10,
+  "in_grace_period": 16,
   "dead": 246,
-  "hd_channels": 617,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
+      "working": 84,
       "hd": 40
     },
     "Bhojpuri": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 637,
-      "hd": 225
+      "working": 638,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 26
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -620,11 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -663,6 +658,11 @@
       "name": "MBC TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mercy TV (1080p)",
+      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Mercy TV (576p)",
@@ -900,6 +900,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1108,11 +1113,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
