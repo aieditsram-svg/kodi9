@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 07:57 UTC",
-  "fingerprint": "62ec0c529ccb5a8806c42a0ef01e280f",
+  "updated_at": "2026-11-17 08:51 UTC",
+  "fingerprint": "2d1c9db5c481eba8baffca4ba304f83c",
   "total": 1827,
-  "working": 1590,
-  "in_grace_period": 22,
-  "dead": 237,
+  "working": 1586,
+  "in_grace_period": 16,
+  "dead": 241,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 639,
+      "working": 635,
       "hd": 228
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 97,
+      "working": 96,
       "hd": 35
     },
     "Marathi": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 138,
+      "working": 139,
       "hd": 67
     },
     "Telugu": {
@@ -178,6 +178,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -455,6 +460,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -502,7 +512,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -568,6 +578,11 @@
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kanak News (576p)",
@@ -665,6 +680,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -738,11 +758,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1258,6 +1273,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News India 24x7 (1080p)",
+      "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines (576p)",
