@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 10:45 UTC",
-  "fingerprint": "0ba8f20f61524ff23436acbe55539f76",
+  "updated_at": "2026-11-17 11:33 UTC",
+  "fingerprint": "b9c5142fba51239fd15394519c097525",
   "total": 1827,
-  "working": 1585,
-  "in_grace_period": 15,
-  "dead": 242,
-  "hd_channels": 623,
+  "working": 1590,
+  "in_grace_period": 12,
+  "dead": 237,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 635,
-      "hd": 227
+      "working": 639,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Malayalam": {
       "total": 117,
@@ -210,11 +210,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -273,16 +268,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -515,11 +500,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "HNN 24x7 (576p)",
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -620,9 +600,9 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -818,11 +798,6 @@
       "name": "Raj TV (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Rupasi Bangla (576p)",
