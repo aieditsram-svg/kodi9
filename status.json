@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 22:14 UTC",
-  "fingerprint": "6ec415ce93052e440d32e19d250c67ee",
+  "updated_at": "2026-11-17 23:06 UTC",
+  "fingerprint": "d1dee6a65d6fc08cffd299f1019d66fd",
   "total": 1827,
   "working": 1590,
-  "in_grace_period": 11,
+  "in_grace_period": 8,
   "dead": 237,
-  "hd_channels": 622,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 741,
       "working": 636,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -597,7 +597,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
