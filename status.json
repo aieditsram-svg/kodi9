@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 20:26 UTC",
-  "fingerprint": "15983c4a2f8b3f4606fc8f1dd1aef57b",
+  "updated_at": "2026-11-18 21:20 UTC",
+  "fingerprint": "688d9240698395a84eccb53d3186d881",
   "total": 1827,
-  "working": 1575,
-  "in_grace_period": 6,
-  "dead": 252,
-  "hd_channels": 620,
+  "working": 1573,
+  "in_grace_period": 13,
+  "dead": 254,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 627,
-      "hd": 228
+      "working": 625,
+      "hd": 227
     },
     "Kannada": {
       "total": 78,
@@ -330,6 +330,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Kisan (576p)",
       "url": "https://fta.ektv.in/live/148/148_0.m3u8",
       "reason": "HTTP 404"
@@ -548,6 +553,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
