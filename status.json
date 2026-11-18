@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 16:42 UTC",
-  "fingerprint": "fb586f3a35a636c8dfa33aeec86a3f94",
+  "updated_at": "2026-11-18 17:38 UTC",
+  "fingerprint": "a293938a4b657da0ae392fdd7222190f",
   "total": 1827,
-  "working": 1593,
-  "in_grace_period": 31,
-  "dead": 234,
-  "hd_channels": 624,
+  "working": 1589,
+  "in_grace_period": 29,
+  "dead": 238,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 640,
-      "hd": 229
+      "working": 636,
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
-      "working": 62,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 98,
-      "hd": 36
+      "working": 96,
+      "hd": 35
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
-      "hd": 19
+      "working": 44,
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 142,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
@@ -218,11 +218,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -413,11 +408,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -790,6 +780,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -955,6 +950,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1070,6 +1075,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1088,6 +1098,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1262,6 +1277,11 @@
     {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "URLError"
     },
     {
