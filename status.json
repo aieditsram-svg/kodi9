@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 18:28 UTC",
-  "fingerprint": "f75efb047c59d834ee3b8bd072b03da7",
+  "updated_at": "2026-11-18 19:29 UTC",
+  "fingerprint": "74d84e1871d03621b9d49800f01fd756",
   "total": 1827,
-  "working": 1578,
-  "in_grace_period": 12,
-  "dead": 249,
-  "hd_channels": 623,
+  "working": 1576,
+  "in_grace_period": 13,
+  "dead": 251,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 628,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
-      "hd": 57
+      "working": 153,
+      "hd": 55
     },
     "Santali": {
       "total": 2,
@@ -890,6 +890,21 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Punjabi Music HD (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1093,11 +1108,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
