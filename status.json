@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 07:58 UTC",
-  "fingerprint": "f535925ab5e9cd7d06af18f66beaf30b",
+  "updated_at": "2026-11-18 08:56 UTC",
+  "fingerprint": "a20afd842d7003e83aa570a86a9a6ca3",
   "total": 1827,
-  "working": 1590,
+  "working": 1591,
   "in_grace_period": 16,
-  "dead": 237,
-  "hd_channels": 625,
+  "dead": 236,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 637,
-      "hd": 230
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -262,7 +262,7 @@
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla HD (1080p)",
@@ -277,7 +277,7 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors HD (1080p)",
@@ -287,7 +287,7 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -382,7 +382,7 @@
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Epic Music (576p)",
@@ -408,11 +408,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -467,7 +462,7 @@
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "FashionTV (576p)",
@@ -592,7 +587,7 @@
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Jan TV (576p)",
@@ -1022,7 +1017,7 @@
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Pal (576p)",
@@ -1037,7 +1032,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Spondon (1080p)",
@@ -1057,7 +1052,7 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Starnet (480p)",
@@ -1082,7 +1077,7 @@
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "STV Haryana News (576p)",
