@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 19:29 UTC",
-  "fingerprint": "74d84e1871d03621b9d49800f01fd756",
+  "updated_at": "2026-11-18 20:26 UTC",
+  "fingerprint": "15983c4a2f8b3f4606fc8f1dd1aef57b",
   "total": 1827,
-  "working": 1576,
-  "in_grace_period": 13,
-  "dead": 251,
-  "hd_channels": 621,
+  "working": 1575,
+  "in_grace_period": 6,
+  "dead": 252,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 124,
       "working": 85,
-      "hd": 43
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 628,
+      "working": 627,
       "hd": 228
     },
     "Kannada": {
       "total": 78,
-      "working": 60,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 96,
-      "hd": 35
+      "working": 98,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 143,
       "hd": 57
     },
     "Urdu": {
@@ -178,6 +178,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -830,11 +835,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -847,6 +847,11 @@
     {
       "name": "Northeast Live (576p)",
       "url": "https://fta.ektv.in/live/674/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Padharo SA (720p)",
+      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1150,11 +1155,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1273,6 +1273,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
