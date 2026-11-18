@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 05:42 UTC",
-  "fingerprint": "8d8a424e37664c9e3c7bb1a280d31dfe",
+  "updated_at": "2026-11-18 06:43 UTC",
+  "fingerprint": "87c9942692286980bee5d01ef1f7e2f5",
   "total": 1827,
-  "working": 1585,
-  "in_grace_period": 14,
-  "dead": 242,
+  "working": 1592,
+  "in_grace_period": 11,
+  "dead": 235,
   "hd_channels": 625,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 633,
-      "hd": 231
+      "working": 639,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -59,8 +59,8 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 43,
-      "hd": 19
+      "working": 44,
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -84,7 +84,7 @@
     },
     "Santali": {
       "total": 2,
-      "working": 1,
+      "working": 2,
       "hd": 1
     },
     "Tamil": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -188,16 +188,6 @@
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "B4U Movies (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Movies (576p)",
-      "url": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Music (576p)",
@@ -435,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -513,11 +508,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -653,11 +643,6 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KTV Bangla (720p)",
-      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Max (576p)",
@@ -865,16 +850,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Pudhari News (576p)",
-      "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -913,16 +888,6 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "Republic Bharat (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVREPUBLICBHARAT/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Republic Bharat (576p)",
-      "url": "https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
