@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 02:00 UTC",
-  "fingerprint": "8da740999045fed69cfcb0e51dd40e21",
+  "updated_at": "2026-11-18 02:49 UTC",
+  "fingerprint": "19f149d6511d1bacf2eaab7cc246d2a1",
   "total": 1828,
-  "working": 1592,
-  "in_grace_period": 21,
-  "dead": 236,
-  "hd_channels": 622,
+  "working": 1586,
+  "in_grace_period": 15,
+  "dead": 242,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 638,
-      "hd": 229
+      "working": 634,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
+      "working": 155,
       "hd": 57
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 142,
       "hd": 56
     },
     "Urdu": {
@@ -104,6 +104,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -118,6 +123,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -148,6 +158,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -233,6 +248,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -483,6 +503,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -837,6 +862,11 @@
     {
       "name": "Pudhari News (576p)",
       "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
