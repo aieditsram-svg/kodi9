@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 09:56 UTC",
-  "fingerprint": "69d64d6e9f058f5f4dae11ffa0b033ed",
+  "updated_at": "2026-11-19 10:53 UTC",
+  "fingerprint": "0806c2faa6ba79ba2bc01f9a5b995f67",
   "total": 1870,
   "working": 1631,
-  "in_grace_period": 16,
+  "in_grace_period": 12,
   "dead": 239,
-  "hd_channels": 640,
+  "hd_channels": 638,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
-      "hd": 42
+      "working": 85,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -44,8 +44,8 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
-      "hd": 27
+      "working": 60,
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 158,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 64
+      "hd": 63
     },
     "Urdu": {
       "total": 22,
@@ -168,6 +168,11 @@
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Ashwaveega News 24x7 (720p)",
+      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -968,11 +973,6 @@
       "name": "Shemaroo TV (576p)",
       "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Shubh Cinema TV (576p)",
