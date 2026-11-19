@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19 15:44 UTC",
-  "fingerprint": "ca80af3317bf4d464bb405c9f3098677",
+  "updated_at": "2026-11-19 16:47 UTC",
+  "fingerprint": "1a57fdb163d35baa2de3f21f54d717bf",
   "total": 1870,
   "working": 1637,
-  "in_grace_period": 57,
+  "in_grace_period": 19,
   "dead": 233,
-  "hd_channels": 617,
+  "hd_channels": 640,
   "languages": {
     "Assamese": {
       "total": 40,
       "working": 36,
-      "hd": 10
+      "hd": 13
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
-      "hd": 41
+      "working": 85,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 12
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 48,
       "working": 45,
-      "hd": 20
+      "hd": 21
     },
     "Hindi": {
       "total": 757,
-      "working": 654,
-      "hd": 222
+      "working": 653,
+      "hd": 234
     },
     "Kannada": {
       "total": 78,
@@ -59,18 +59,18 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 43,
-      "hd": 18
+      "working": 44,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
       "working": 6,
-      "hd": 2
+      "hd": 3
     },
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 144,
-      "hd": 71
+      "working": 145,
+      "hd": 72
     },
     "Telugu": {
       "total": 195,
@@ -445,11 +445,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -700,11 +695,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News18 Kannada (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8",
       "reason": "HTTP 404"
@@ -827,6 +817,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1013,6 +1008,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
