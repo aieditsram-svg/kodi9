@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 06:40 UTC",
-  "fingerprint": "31979c12aa9ee68fd548a89b6b2d356b",
+  "updated_at": "2026-11-19 07:59 UTC",
+  "fingerprint": "a3cb5b292122bad09ad059728425ff58",
   "total": 1870,
-  "working": 1628,
-  "in_grace_period": 15,
-  "dead": 242,
+  "working": 1629,
+  "in_grace_period": 12,
+  "dead": 241,
   "hd_channels": 642,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 43
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 646,
-      "hd": 234
+      "working": 648,
+      "hd": 235
     },
     "Kannada": {
       "total": 78,
@@ -108,11 +108,6 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -837,12 +832,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -985,6 +980,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1098,11 +1098,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Steelbird Music (720p) [Not 24/7]",
-      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
