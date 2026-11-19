@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 07:59 UTC",
-  "fingerprint": "a3cb5b292122bad09ad059728425ff58",
+  "updated_at": "2026-11-19 08:57 UTC",
+  "fingerprint": "1b4a1cf56d825524b6c4888659bca023",
   "total": 1870,
-  "working": 1629,
-  "in_grace_period": 12,
-  "dead": 241,
-  "hd_channels": 642,
+  "working": 1628,
+  "in_grace_period": 15,
+  "dead": 242,
+  "hd_channels": 641,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 83,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 648,
+      "working": 647,
       "hd": 235
     },
     "Kannada": {
       "total": 78,
-      "working": 62,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 97,
-      "hd": 35
+      "working": 95,
+      "hd": 34
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 175,
       "working": 144,
-      "hd": 71
+      "hd": 72
     },
     "Telugu": {
       "total": 195,
-      "working": 168,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -820,6 +820,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -828,16 +833,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1105,6 +1100,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1148,6 +1148,11 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
