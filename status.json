@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 00:40 UTC",
-  "fingerprint": "b8dda231c66a16c77d09b1257e851401",
+  "updated_at": "2026-11-19 01:56 UTC",
+  "fingerprint": "a53feeca20492131171aefeba080e5d9",
   "total": 1827,
-  "working": 1568,
-  "in_grace_period": 9,
-  "dead": 259,
+  "working": 1570,
+  "in_grace_period": 17,
+  "dead": 257,
   "hd_channels": 618,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 623,
+      "working": 624,
       "hd": 226
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 143,
       "hd": 57
     },
     "Urdu": {
@@ -405,11 +405,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dheeran TV (576p)",
-      "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
@@ -478,11 +473,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
