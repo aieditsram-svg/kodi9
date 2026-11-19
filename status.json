@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 21:24 UTC",
-  "fingerprint": "65abea8cf5a63a9c15cf93de3b6ad9a5",
+  "updated_at": "2026-11-19 22:15 UTC",
+  "fingerprint": "d5a9798e6f1e1779d3c6dea052a834c6",
   "total": 1870,
-  "working": 1630,
-  "in_grace_period": 10,
-  "dead": 240,
-  "hd_channels": 637,
+  "working": 1632,
+  "in_grace_period": 11,
+  "dead": 238,
+  "hd_channels": 638,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 164,
-      "hd": 63
+      "working": 166,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -423,11 +423,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1047,11 +1042,6 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 2 Telugu HD (576p)",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {
