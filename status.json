@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 07:50 UTC",
-  "fingerprint": "bb2c1d8f2fbe3c73e73abb74d56a1936",
+  "updated_at": "2026-11-20 08:47 UTC",
+  "fingerprint": "65476bf31672e870bec2ef7c108a85e7",
   "total": 1895,
-  "working": 1654,
-  "in_grace_period": 9,
-  "dead": 241,
+  "working": 1653,
+  "in_grace_period": 11,
+  "dead": 242,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
+      "working": 89,
       "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 665,
+      "working": 664,
       "hd": 246
     },
     "Kannada": {
@@ -225,8 +225,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bhojpuri Cinema (576p)",
-      "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1053,6 +1053,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
