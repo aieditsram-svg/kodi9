@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 04:26 UTC",
-  "fingerprint": "8b1940cd85e48dd9041af600d43cf7d0",
+  "updated_at": "2026-11-20 05:30 UTC",
+  "fingerprint": "20db6f5191495192eede409d1f163a3b",
   "total": 1895,
-  "working": 1643,
-  "in_grace_period": 14,
-  "dead": 252,
-  "hd_channels": 651,
+  "working": 1647,
+  "in_grace_period": 7,
+  "dead": 248,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
+      "working": 89,
       "hd": 45
     },
     "Bhojpuri": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 48,
-      "working": 45,
-      "hd": 21
+      "working": 44,
+      "hd": 20
     },
     "Hindi": {
       "total": 774,
-      "working": 654,
-      "hd": 242
+      "working": 660,
+      "hd": 244
     },
     "Kannada": {
       "total": 83,
@@ -178,6 +178,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -875,6 +880,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -965,6 +975,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -998,16 +1013,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1151,11 +1156,6 @@
     },
     {
       "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1208,26 +1208,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 Bharat (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "TV7 Bharat (576p)",
-      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
