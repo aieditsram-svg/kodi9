@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 08:47 UTC",
-  "fingerprint": "65476bf31672e870bec2ef7c108a85e7",
+  "updated_at": "2026-11-20 09:42 UTC",
+  "fingerprint": "b82bcde1ba72043f7c5bd5a1d2fcb84a",
   "total": 1895,
-  "working": 1653,
-  "in_grace_period": 11,
-  "dead": 242,
-  "hd_channels": 656,
+  "working": 1651,
+  "in_grace_period": 9,
+  "dead": 244,
+  "hd_channels": 655,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 89,
+      "working": 88,
       "hd": 46
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 664,
-      "hd": 246
+      "hd": 245
     },
     "Kannada": {
       "total": 83,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 101,
+      "working": 100,
       "hd": 39
     },
     "Marathi": {
@@ -515,11 +515,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -670,6 +665,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -678,6 +678,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mathrubhumi News (240p)",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Mazhavil Manorama (576p)",
@@ -1008,6 +1013,11 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (1080p)",
+      "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sony Aath (576p)",
