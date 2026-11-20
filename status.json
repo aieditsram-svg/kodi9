@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 18:31 UTC",
-  "fingerprint": "acd52b9497bf4da92e1ce65bb9255ed5",
+  "updated_at": "2026-11-20 19:35 UTC",
+  "fingerprint": "7156ffe9e30109e8a559fdcbb3e8e743",
   "total": 1895,
-  "working": 1654,
-  "in_grace_period": 9,
-  "dead": 241,
-  "hd_channels": 654,
+  "working": 1656,
+  "in_grace_period": 11,
+  "dead": 239,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 89,
-      "hd": 45
+      "working": 90,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 667,
+      "working": 669,
       "hd": 245
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 173,
       "hd": 69
     },
     "Urdu": {
@@ -410,6 +410,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -488,11 +493,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -855,11 +855,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1038,11 +1033,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
