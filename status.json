@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 06:31 UTC",
-  "fingerprint": "6585b1173b745dc96f6a8e489f689e71",
+  "updated_at": "2026-11-20 07:50 UTC",
+  "fingerprint": "bb2c1d8f2fbe3c73e73abb74d56a1936",
   "total": 1895,
-  "working": 1649,
+  "working": 1654,
   "in_grace_period": 9,
-  "dead": 246,
-  "hd_channels": 654,
+  "dead": 241,
+  "hd_channels": 656,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 48,
-      "working": 44,
-      "hd": 20
+      "working": 45,
+      "hd": 21
     },
     "Hindi": {
       "total": 774,
-      "working": 661,
-      "hd": 245
+      "working": 665,
+      "hd": 246
     },
     "Kannada": {
       "total": 83,
@@ -180,11 +180,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -222,11 +217,6 @@
     {
       "name": "Bhakti Play (1080p)",
       "url": "https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Bharat AtoZ (720p)",
-      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -505,11 +495,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -705,16 +690,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mercy TV (1080p)",
-      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mercy TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
@@ -753,11 +728,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -870,11 +840,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -903,6 +868,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1073,6 +1043,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SRK TV (1080p)",
+      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Bharat HD (1080p)",
