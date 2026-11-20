@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 13:51 UTC",
-  "fingerprint": "8136b61327931c131b1f8f434031672e",
+  "updated_at": "2026-11-20 14:40 UTC",
+  "fingerprint": "cb9ebf3c89fab1c93d564c6b869af2e6",
   "total": 1895,
-  "working": 1657,
-  "in_grace_period": 43,
-  "dead": 238,
-  "hd_channels": 655,
+  "working": 1653,
+  "in_grace_period": 11,
+  "dead": 242,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 91,
-      "hd": 46
+      "working": 88,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,11 +40,11 @@
     "Hindi": {
       "total": 774,
       "working": 667,
-      "hd": 245
+      "hd": 246
     },
     "Kannada": {
       "total": 83,
-      "working": 65,
+      "working": 66,
       "hd": 30
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 101,
+      "working": 102,
       "hd": 40
     },
     "Marathi": {
       "total": 56,
-      "working": 47,
+      "working": 48,
       "hd": 23
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 157,
+      "working": 158,
       "hd": 81
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 175,
       "hd": 69
     },
     "Urdu": {
@@ -143,6 +143,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -313,6 +318,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -645,6 +655,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -805,11 +820,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -925,6 +935,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1033,11 +1048,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "SRK TV (1080p)",
-      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Star Bharat HD (1080p)",
@@ -1208,6 +1218,16 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
