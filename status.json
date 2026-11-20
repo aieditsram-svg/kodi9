@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 19:35 UTC",
-  "fingerprint": "7156ffe9e30109e8a559fdcbb3e8e743",
+  "updated_at": "2026-11-20 20:24 UTC",
+  "fingerprint": "966799d8b3075d514075e43b0c389b52",
   "total": 1895,
-  "working": 1656,
-  "in_grace_period": 11,
-  "dead": 239,
-  "hd_channels": 653,
+  "working": 1655,
+  "in_grace_period": 7,
+  "dead": 240,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
-      "hd": 44
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -588,6 +588,11 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
