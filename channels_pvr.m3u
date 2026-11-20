@@ -1,5 +1,5 @@
 #EXTM3U
-# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-20 02:36 UTC
+# One link per channel for Kodi IPTV Simple Client, all languages, updated 2026-11-20 03:26 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese",DD Assam
@@ -636,7 +636,7 @@ https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in@SD" x-category="cooking" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-language="Hindi" group-title="Hindi" height="504",Food Food
 https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
-#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="Hindi" group-title="Hindi",Gangaur TV
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="Hindi" group-title="Hindi" height="1080",Gangaur TV
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="GlobalIndia.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" tvg-language="Hindi" group-title="Hindi" height="720",Global India
 https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
@@ -881,9 +881,8 @@ https://fta.ektv.in/live/623/master.m3u8
 https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/RQoDzpN.png" tvg-language="Hindi" group-title="Hindi" height="1080",Prime News
 https://stream.ottlive.co.in/primenews/index.m3u8
-#EXTINF:-1 tvg-id="PublicFirst.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-language="Hindi" group-title="Hindi",Public First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/237/master.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-language="Hindi" group-title="Hindi" height="720",Public First
+https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in@SD" x-category="entertainment" tvg-logo="https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png" tvg-language="Hindi" group-title="Hindi" height="720",Q TV
 https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://i.imgur.com/05B5USY.png" tvg-language="Hindi" group-title="Hindi" height="720",Raftaar Media
@@ -975,7 +974,7 @@ http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in@HD" x-category="movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-language="Hindi" group-title="Hindi" height="1080",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-id="SRKTV.in@SD" x-category="entertainment" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg" tvg-language="Hindi" group-title="Hindi" height="720",SRK TV
+#EXTINF:-1 tvg-id="SRKTV.in@SD" x-category="entertainment" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg" tvg-language="Hindi" group-title="Hindi",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in@HD" x-category="news" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h.jpg" tvg-language="Hindi" group-title="Hindi",Star Bharat HD
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
