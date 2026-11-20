@@ -1,106 +1,21 @@
 {
-  "updated_at": "2026-11-20 10:41 UTC",
-  "fingerprint": "44f3c11a1e9f8d9a78c6c6123bc13e6b",
+  "updated_at": "2026-11-20 11:36 UTC",
+  "fingerprint": "0b1e80200594d04adfc6157b947b005f",
   "total": 1895,
-  "working": 1650,
-  "in_grace_period": 8,
-  "dead": 245,
+  "working": 1653,
+  "in_grace_period": 14,
+  "dead": 242,
   "hd_channels": 655,
   "languages": {
-    "Assamese": {
-      "total": 42,
-      "working": 38,
-      "hd": 13
-    },
-    "Bengali": {
-      "total": 129,
-      "working": 88,
-      "hd": 46
-    },
-    "Bhojpuri": {
-      "total": 33,
-      "working": 31,
-      "hd": 13
-    },
-    "Chhattisgarhi": {
-      "total": 3,
-      "working": 3,
-      "hd": 0
-    },
-    "English": {
-      "total": 164,
-      "working": 145,
-      "hd": 62
-    },
-    "Gujarati": {
-      "total": 48,
-      "working": 45,
-      "hd": 21
-    },
-    "Hindi": {
-      "total": 774,
-      "working": 663,
-      "hd": 245
-    },
-    "Kannada": {
-      "total": 83,
-      "working": 66,
-      "hd": 31
-    },
-    "Konkani": {
-      "total": 3,
-      "working": 2,
-      "hd": 1
-    },
-    "Malayalam": {
-      "total": 123,
-      "working": 100,
-      "hd": 39
-    },
-    "Marathi": {
-      "total": 56,
-      "working": 47,
-      "hd": 23
-    },
-    "Nepali": {
-      "total": 6,
-      "working": 6,
-      "hd": 3
-    },
-    "Odia": {
-      "total": 36,
-      "working": 28,
-      "hd": 12
-    },
     "Other": {
-      "total": 24,
-      "working": 20,
-      "hd": 11
-    },
-    "Punjabi": {
-      "total": 167,
-      "working": 159,
-      "hd": 58
-    },
-    "Santali": {
-      "total": 2,
-      "working": 2,
-      "hd": 1
-    },
-    "Tamil": {
-      "total": 187,
-      "working": 157,
-      "hd": 81
+      "total": 1811,
+      "working": 1580,
+      "hd": 604
     },
     "Telugu": {
-      "total": 203,
-      "working": 174,
-      "hd": 69
-    },
-    "Urdu": {
-      "total": 22,
-      "working": 21,
-      "hd": 6
+      "total": 84,
+      "working": 73,
+      "hd": 51
     }
   },
   "dead_channels": [
@@ -123,6 +38,11 @@
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "22Scope News (1080p)",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -300,16 +220,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -485,6 +395,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -635,11 +550,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -653,16 +563,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -817,7 +717,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -860,11 +760,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -903,6 +798,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sach Bedhadak (576p)",
+      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
