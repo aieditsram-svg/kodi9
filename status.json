@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 21:14 UTC",
-  "fingerprint": "cf051e5b5997ebe48c026cd7818ba592",
+  "updated_at": "2026-11-21 21:55 UTC",
+  "fingerprint": "fa1cd36563ad982134a95f1d2a3a85f9",
   "total": 1969,
   "working": 1716,
-  "in_grace_period": 7,
+  "in_grace_period": 9,
   "dead": 253,
-  "hd_channels": 687,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 697,
-      "hd": 263
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -155,11 +155,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -193,6 +188,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -867,12 +867,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
