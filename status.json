@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 07:17 UTC",
-  "fingerprint": "21cd18007aa436725f5da4316cc5094b",
+  "updated_at": "2026-11-21 08:22 UTC",
+  "fingerprint": "0ac44cebd21c1e4ec947317378300fc4",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 7,
-  "dead": 250,
-  "hd_channels": 694,
+  "working": 1721,
+  "in_grace_period": 5,
+  "dead": 248,
+  "hd_channels": 692,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 48
+      "working": 93,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 34,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 158,
-      "hd": 73
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 104,
+      "working": 107,
       "hd": 43
     },
     "Marathi": {
@@ -635,16 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
       "reason": "HTTP 404"
@@ -668,11 +658,6 @@
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kanak News (576p)",
@@ -1273,6 +1258,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
