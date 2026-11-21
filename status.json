@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 13:56 UTC",
-  "fingerprint": "f13ac5488641d98e0027fac77d4b08f5",
+  "updated_at": "2026-11-21 14:42 UTC",
+  "fingerprint": "7eaa3f5fab99a6c538a25a7b3a4c16c7",
   "total": 1969,
-  "working": 1713,
-  "in_grace_period": 10,
-  "dead": 256,
-  "hd_channels": 683,
+  "working": 1711,
+  "in_grace_period": 12,
+  "dead": 258,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 92,
-      "hd": 46
+      "working": 91,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 34,
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
@@ -173,6 +173,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Angel TV (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Anmol TV (576p)",
@@ -807,7 +812,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Hour (576p)",
@@ -1293,6 +1298,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ZB Cinema (1080p)",
