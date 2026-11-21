@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-21 04:17 UTC",
-  "fingerprint": "de9476260b9110d2a5d2302b98a5ff86",
+  "updated_at": "2026-11-21 05:15 UTC",
+  "fingerprint": "e911bad87f15e3a02f2d70624c329e68",
   "total": 1969,
-  "working": 1723,
-  "in_grace_period": 61,
-  "dead": 246,
-  "hd_channels": 671,
+  "working": 1722,
+  "in_grace_period": 14,
+  "dead": 247,
+  "hd_channels": 693,
   "languages": {
     "Assamese": {
       "total": 44,
       "working": 40,
-      "hd": 12
+      "hd": 13
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
-      "hd": 47
+      "working": 94,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
-      "hd": 71
+      "working": 157,
+      "hd": 73
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 262
+      "working": 699,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
       "working": 71,
-      "hd": 30
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -60,7 +60,7 @@
     "Malayalam": {
       "total": 130,
       "working": 106,
-      "hd": 37
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
@@ -95,12 +95,12 @@
     "Tamil": {
       "total": 193,
       "working": 163,
-      "hd": 78
+      "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
-      "hd": 71
+      "working": 179,
+      "hd": 72
     },
     "Urdu": {
       "total": 22,
@@ -335,6 +335,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Manipur (576p)",
       "url": "https://fta.ektv.in/live/671/master.m3u8",
       "reason": "HTTP 404"
@@ -423,6 +428,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -567,11 +577,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -743,11 +748,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1070,6 +1070,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1222,7 +1227,7 @@
     {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "VR Live (720p)",
