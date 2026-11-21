@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 19:54 UTC",
-  "fingerprint": "98f86d8cb3233a063af3d60154e36928",
+  "updated_at": "2026-11-21 20:30 UTC",
+  "fingerprint": "2fcf6245170876edee8d8f7aef433514",
   "total": 1969,
-  "working": 1723,
-  "in_grace_period": 18,
-  "dead": 246,
-  "hd_channels": 690,
+  "working": 1718,
+  "in_grace_period": 10,
+  "dead": 251,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,13 +29,13 @@
     },
     "English": {
       "total": 176,
-      "working": 158,
+      "working": 157,
       "hd": 73
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 19
     },
     "Haryanvi": {
       "total": 1,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 702,
+      "working": 698,
       "hd": 265
     },
     "Kannada": {
@@ -148,6 +148,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -880,6 +885,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -976,6 +986,11 @@
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -1008,6 +1023,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
