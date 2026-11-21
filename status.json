@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 00:20 UTC",
-  "fingerprint": "6c6a41455474790cc8e21cd167fbfd0e",
+  "updated_at": "2026-11-21 01:39 UTC",
+  "fingerprint": "abba09894c427c2372bb385f0e4c5ab2",
   "total": 1969,
-  "working": 1726,
-  "in_grace_period": 11,
-  "dead": 243,
-  "hd_channels": 688,
+  "working": 1722,
+  "in_grace_period": 15,
+  "dead": 247,
+  "hd_channels": 687,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
-      "hd": 44
+      "working": 90,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 705,
+      "working": 703,
       "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 70,
-      "hd": 34
+      "working": 71,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -177,11 +177,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -665,6 +660,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -752,7 +752,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -857,6 +857,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1235,6 +1240,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ZB Bhakti (720p)",
+      "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ZB Music (720p)",
       "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
@@ -1313,6 +1328,11 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZillarBarta News",
+      "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
