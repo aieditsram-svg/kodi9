@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-21 16:58 UTC",
-  "fingerprint": "a68356c974a3a0cc1af968b3f71037f8",
+  "updated_at": "2026-11-21 17:37 UTC",
+  "fingerprint": "415bbcc0642a42e6d13689b798a2b948",
   "total": 1969,
   "working": 1718,
-  "in_grace_period": 11,
+  "in_grace_period": 13,
   "dead": 251,
   "hd_channels": 688,
   "languages": {
@@ -1092,7 +1092,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
