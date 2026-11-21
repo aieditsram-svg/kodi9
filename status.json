@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 06:10 UTC",
-  "fingerprint": "98c00fda3b689e93188366cfad1f67df",
+  "updated_at": "2026-11-21 07:17 UTC",
+  "fingerprint": "21cd18007aa436725f5da4316cc5094b",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 11,
-  "dead": 249,
+  "working": 1719,
+  "in_grace_period": 7,
+  "dead": 250,
   "hd_channels": 694,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
+      "working": 158,
       "hd": 73
     },
     "Gujarati": {
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 700,
-      "hd": 264
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -79,12 +79,12 @@
     },
     "Other": {
       "total": 24,
-      "working": 20,
-      "hd": 11
+      "working": 19,
+      "hd": 10
     },
     "Punjabi": {
       "total": 168,
-      "working": 160,
+      "working": 159,
       "hd": 58
     },
     "Santali": {
@@ -104,7 +104,7 @@
     },
     "Urdu": {
       "total": 22,
-      "working": 20,
+      "working": 21,
       "hd": 6
     }
   },
@@ -128,6 +128,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -520,6 +525,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -705,6 +715,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -875,6 +890,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "reason": "HTTP 504"
+    },
+    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
@@ -938,11 +958,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sach Bedhadak (576p)",
-      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1156,11 +1171,6 @@
     },
     {
       "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1263,11 +1273,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
