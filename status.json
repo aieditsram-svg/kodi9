@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 23:11 UTC",
-  "fingerprint": "6211a770ede6f7196a32c2141da811b3",
+  "updated_at": "2026-11-21 23:48 UTC",
+  "fingerprint": "f705ff5c69ddb63001616bc42b775125",
   "total": 1969,
   "working": 1718,
-  "in_grace_period": 11,
+  "in_grace_period": 7,
   "dead": 251,
-  "hd_channels": 684,
+  "hd_channels": 685,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
+      "working": 156,
       "hd": 71
     },
     "Gujarati": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 263
+      "working": 700,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 70,
       "hd": 34
     },
     "Konkani": {
@@ -565,6 +565,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "India Ahead (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -665,11 +670,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mantavya News (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
       "reason": "HTTP 404"
@@ -752,11 +752,6 @@
     {
       "name": "Network 10 (720p)",
       "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10",
-      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -885,6 +880,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -918,11 +918,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1173,6 +1168,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
