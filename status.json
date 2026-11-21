@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 11:25 UTC",
-  "fingerprint": "4a7f868af65197fcebaa0872ad7fdb08",
+  "updated_at": "2026-11-21 12:09 UTC",
+  "fingerprint": "d55e68f90b258a3d557b6adbc22ae0b4",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 26,
-  "dead": 253,
-  "hd_channels": 682,
+  "working": 1705,
+  "in_grace_period": 22,
+  "dead": 264,
+  "hd_channels": 679,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
-      "hd": 48
+      "working": 92,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 34,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
+      "working": 156,
       "hd": 72
     },
     "Gujarati": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 690,
       "hd": 257
     },
     "Kannada": {
       "total": 88,
-      "working": 72,
+      "working": 71,
       "hd": 35
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 109,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
-      "working": 51,
+      "working": 50,
       "hd": 25
     },
     "Nepali": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 156,
       "hd": 57
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
@@ -147,7 +147,7 @@
     {
       "name": "Aagaaz Times (1080p)",
       "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -193,6 +193,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -248,6 +253,16 @@
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "BVG (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "C-10 (576p)",
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Captain (576p)",
@@ -430,11 +445,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -563,6 +573,11 @@
       "name": "Gujarat First (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Har Khabar (576p)",
+      "url": "https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Harvest TV (1080p)",
@@ -790,11 +805,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -825,9 +835,9 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "News Hour (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -885,6 +895,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -897,12 +912,17 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Only Bharat (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -933,6 +953,11 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pratham News (576p)",
+      "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Public First (576p)",
@@ -980,6 +1005,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sadhna Plus News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1002,7 +1032,7 @@
     {
       "name": "Samay Kolkata (1080p)",
       "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Samay Kolkata (720p)",
@@ -1013,6 +1043,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1165,6 +1200,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1285,9 +1325,24 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
