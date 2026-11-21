@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 10:37 UTC",
-  "fingerprint": "39d60da96476e862bac14dfce9dd7d2c",
+  "updated_at": "2026-11-21 11:25 UTC",
+  "fingerprint": "4a7f868af65197fcebaa0872ad7fdb08",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 21,
-  "dead": 250,
-  "hd_channels": 683,
+  "working": 1716,
+  "in_grace_period": 26,
+  "dead": 253,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,7 +34,7 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 46,
+      "working": 45,
       "hd": 20
     },
     "Haryanvi": {
@@ -94,8 +94,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
-      "hd": 85
+      "working": 162,
+      "hd": 84
     },
     "Telugu": {
       "total": 209,
@@ -715,6 +715,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Mantavya News (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -888,6 +893,16 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
