@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 23:48 UTC",
-  "fingerprint": "f705ff5c69ddb63001616bc42b775125",
+  "updated_at": "2026-11-22 00:25 UTC",
+  "fingerprint": "9d77f54fd154a6c14d91dfcee9f290c2",
   "total": 1969,
-  "working": 1718,
+  "working": 1716,
   "in_grace_period": 7,
-  "dead": 251,
+  "dead": 253,
   "hd_channels": 685,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
+      "working": 94,
       "hd": 47
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
+      "working": 155,
       "hd": 71
     },
     "Gujarati": {
@@ -517,6 +517,11 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Grace TV (360p)",
+      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1098,6 +1103,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
