@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 15:37 UTC",
-  "fingerprint": "9049ddb9e6f5caeebff6fb7a1d41f319",
+  "updated_at": "2026-11-22 16:25 UTC",
+  "fingerprint": "fa2d1786593fe278ebe10e08a77f4949",
   "total": 1969,
-  "working": 1671,
-  "in_grace_period": 13,
-  "dead": 298,
+  "working": 1672,
+  "in_grace_period": 19,
+  "dead": 297,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 156,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -125,11 +125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -168,6 +163,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -348,11 +348,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
