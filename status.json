@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 20:09 UTC",
-  "fingerprint": "99b5959cc255f2c560531fc37bfce357",
+  "updated_at": "2026-11-22 20:50 UTC",
+  "fingerprint": "ec9f01565333f132c12e85484bfb64a1",
   "total": 1969,
-  "working": 1667,
-  "in_grace_period": 12,
-  "dead": 302,
+  "working": 1661,
+  "in_grace_period": 5,
+  "dead": 308,
   "hd_channels": 651,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
+      "working": 89,
       "hd": 43
     },
     "Bhojpuri": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 664,
-      "hd": 239
+      "working": 661,
+      "hd": 240
     },
     "Kannada": {
       "total": 88,
-      "working": 65,
+      "working": 64,
       "hd": 29
     },
     "Konkani": {
@@ -59,18 +59,18 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 101,
-      "hd": 38
+      "working": 99,
+      "hd": 37
     },
     "Marathi": {
       "total": 59,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 38,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 146,
+      "working": 145,
       "hd": 71
     },
     "Telugu": {
       "total": 209,
-      "working": 169,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -187,7 +182,7 @@
     {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aradana TV (576p)",
@@ -203,6 +198,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -350,6 +350,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -470,6 +475,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -583,6 +593,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -960,6 +975,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1013,6 +1033,16 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "R Plus (768p)",
+      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1340,6 +1370,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
       "reason": "HTTP 404"
@@ -1458,11 +1493,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
