@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-22 00:25 UTC
+# Working channels, all languages, updated 2026-11-22 01:42 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -467,6 +467,8 @@ http://116.90.120.149:8000/play/a118/index.m3u8
 https://cdn.pishow.tv/ott/live/1413/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/ZrvoGqS.png" tvg-language="English" group-title="English" height="720",GoodNews TV (720p)
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GraceTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/i3Anlid.png" tvg-language="English" group-title="English" height="720",Grace TV (360p)
+https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HarvestUSA.in@SD" x-category="religious" tvg-language="English" group-title="English" height="720",Harvest USA (576p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HiDost.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/bnST6y5.png" tvg-language="English" group-title="English" height="576",Hi Dost! (576p)
@@ -500,6 +502,8 @@ https://ktismaservers.in:3349/live/hosannatvlive.m3u8
 https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" x-category="news" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-language="English" group-title="English" height="576",India Ahead (576p)
 https://cdn.pishow.tv/ott/live/269/master.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD" x-category="news" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-language="English" group-title="English" height="720",India Ahead (576p)
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",India Today (1080p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",India Today (720p)
@@ -1032,7 +1036,7 @@ https://cdn.pishow.tv/ott/live/415/master.m3u8
 https://fta.ektv.in/live/157/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",B4U Music (576p)
 https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",B4U Music (576p)
+#EXTINF:-1 tvg-id="B4UMusic.in@India" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",B4U Music (576p)
 https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",B4U Music (576p)
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
@@ -1733,6 +1737,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 https://fta.ektv.in/live/102/102_0.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" x-category="news" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-language="Hindi" group-title="Hindi" height="720",News 1 India (576p)
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" x-category="news" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-language="Hindi" group-title="Hindi" height="576",News 1 India (576p)
+https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 #EXTINF:-1 tvg-id="News11.in@SD" x-category="general" tvg-logo="https://i.imgur.com/brLsWXU.png" tvg-language="Hindi" group-title="Hindi" height="396",News 11 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
 #EXTINF:-1 tvg-id="News11.in@SD" x-category="general" tvg-logo="https://i.imgur.com/brLsWXU.png" tvg-language="Hindi" group-title="Hindi" height="576",News 11 (576p)
@@ -1943,7 +1949,7 @@ https://stream.ottlive.co.in/rongeentv/index.m3u8
 https://fta.ektv.in/live/650/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143735_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Saam TV (576p)
 https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="SachBedhadak.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158864_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Sach Bedhadak (576p)
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158864_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Sach Bedhadak (576p)
 https://sbnews.nexcdn.online/sbnews/live/index.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/x13iiuI.png" tvg-language="Hindi" group-title="Hindi" height="576",Sadhna (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2397,6 +2403,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Power TV (576p)
 https://cdn.pishow.tv/ott/live/247/master.m3u8
+#EXTINF:-1 tvg-id="PowerTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Power TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="576",Power TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://powertvkannada.com/hls/stream.m3u8
@@ -3079,7 +3087,7 @@ https://fta.ektv.in/live/47/47_0.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",Mh 1 Music (720p)
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Mh1News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Mh 1 News (360p)
+#EXTINF:-1 tvg-id="Mh1News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="360",Mh 1 News (360p)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",Mh 1 News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -3445,6 +3453,10 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="NTCTV.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-language="Tamil" group-title="Tamil" height="720",NTC TV (720p)
 https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
+https://hlslive.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
