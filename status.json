@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 10:06 UTC",
-  "fingerprint": "d8d556b70f76686adba51e7a933c737d",
+  "updated_at": "2026-11-22 10:50 UTC",
+  "fingerprint": "7d8567f8532b62806bbbbfe5a8dca331",
   "total": 1969,
-  "working": 1723,
-  "in_grace_period": 16,
-  "dead": 246,
-  "hd_channels": 681,
+  "working": 1724,
+  "in_grace_period": 37,
+  "dead": 245,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,13 +29,13 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
-      "hd": 71
+      "working": 157,
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
       "working": 46,
-      "hd": 20
+      "hd": 21
     },
     "Haryanvi": {
       "total": 1,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
-      "hd": 255
+      "working": 700,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
@@ -577,11 +577,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
