@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 14:12 UTC",
-  "fingerprint": "436626da0ab64426eeaf65977203aa23",
+  "updated_at": "2026-11-22 14:57 UTC",
+  "fingerprint": "9523bc92f11a6d2cab4daaf11b68af91",
   "total": 1969,
-  "working": 1669,
-  "in_grace_period": 11,
-  "dead": 300,
+  "working": 1668,
+  "in_grace_period": 9,
+  "dead": 301,
   "hd_channels": 655,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 90,
+      "working": 91,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 127,
+      "working": 126,
       "hd": 52
     },
     "Gujarati": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 664,
-      "hd": 240
+      "working": 663,
+      "hd": 239
     },
     "Kannada": {
       "total": 88,
-      "working": 64,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
-      "hd": 38
+      "working": 102,
+      "hd": 39
     },
     "Marathi": {
       "total": 59,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -94,17 +94,17 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 146,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
       "total": 209,
-      "working": 168,
+      "working": 169,
       "hd": 64
     },
     "Urdu": {
       "total": 22,
-      "working": 21,
+      "working": 20,
       "hd": 6
     }
   },
@@ -745,6 +745,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -943,11 +948,6 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1267,7 +1267,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1343,11 +1343,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1500,6 +1495,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Zainabia Channel",
+      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1598,6 +1598,11 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a11v/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
