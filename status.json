@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 09:18 UTC",
-  "fingerprint": "2e3cfc8fd82a56c5e3ba82d9958ca124",
+  "updated_at": "2026-11-22 10:06 UTC",
+  "fingerprint": "d8d556b70f76686adba51e7a933c737d",
   "total": 1969,
-  "working": 1721,
-  "in_grace_period": 8,
-  "dead": 248,
-  "hd_channels": 688,
+  "working": 1723,
+  "in_grace_period": 16,
+  "dead": 246,
+  "hd_channels": 681,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,7 +34,7 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
+      "working": 46,
       "hd": 20
     },
     "Haryanvi": {
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 699,
-      "hd": 262
+      "hd": 255
     },
     "Kannada": {
       "total": 88,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -188,6 +188,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -423,11 +428,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -695,11 +695,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Mantavya News (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -768,11 +763,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
