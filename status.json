@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 07:39 UTC",
-  "fingerprint": "fd185d985957de2ebe367024b645a03f",
+  "updated_at": "2026-11-22 08:30 UTC",
+  "fingerprint": "309329622ce2a871b5dfee2a70129f56",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 12,
-  "dead": 249,
-  "hd_channels": 689,
+  "working": 1722,
+  "in_grace_period": 13,
+  "dead": 247,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 44,
-      "hd": 19
+      "working": 45,
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 700,
       "hd": 264
     },
     "Kannada": {
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -438,6 +438,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -875,11 +880,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1008,16 +1008,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
