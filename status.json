@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 05:26 UTC",
-  "fingerprint": "0bdd851f415385587653a9882416da99",
+  "updated_at": "2026-11-22 06:22 UTC",
+  "fingerprint": "705df5a100dda7810c1960dc7bf1216c",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 12,
-  "dead": 250,
-  "hd_channels": 690,
+  "working": 1721,
+  "in_grace_period": 9,
+  "dead": 248,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 700,
       "hd": 264
     },
     "Kannada": {
       "total": 88,
-      "working": 72,
+      "working": 71,
       "hd": 35
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 109,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
-      "working": 51,
+      "working": 50,
       "hd": 25
     },
     "Nepali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -332,11 +332,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -685,11 +680,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -853,6 +843,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1140,6 +1135,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1158,11 +1158,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1343,11 +1338,6 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
