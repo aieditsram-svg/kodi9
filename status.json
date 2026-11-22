@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 18:26 UTC",
-  "fingerprint": "8720db1a393dbc9435360954b759308a",
+  "updated_at": "2026-11-22 19:23 UTC",
+  "fingerprint": "72114b0821ab544ee73fcbc8d9be2cb4",
   "total": 1969,
-  "working": 1672,
-  "in_grace_period": 10,
-  "dead": 297,
-  "hd_channels": 653,
+  "working": 1670,
+  "in_grace_period": 16,
+  "dead": 299,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 92,
-      "hd": 45
+      "working": 90,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 34,
@@ -1060,6 +1060,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1477,6 +1482,11 @@
     {
       "name": "Zainabia Channel",
       "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
     },
     {
