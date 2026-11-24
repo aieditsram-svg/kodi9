@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23 13:36 UTC",
-  "fingerprint": "c32a72ddc7c0e3c7e3517cc82a6fc31b",
+  "updated_at": "2026-11-24 01:12 UTC",
+  "fingerprint": "1dbb09e04afa97d86ac23048a1b5e13d",
   "total": 1917,
   "working": 1685,
-  "in_grace_period": 27,
+  "in_grace_period": 17,
   "dead": 232,
   "hd_channels": 660,
   "languages": {
@@ -20,7 +20,7 @@
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 4,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 771,
-      "working": 671,
-      "hd": 243
+      "working": 672,
+      "hd": 244
     },
     "Kannada": {
       "total": 74,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 116,
       "working": 102,
-      "hd": 39
+      "hd": 40
     },
     "Marathi": {
       "total": 46,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 170,
-      "working": 148,
+      "working": 147,
       "hd": 73
     },
     "Telugu": {
       "total": 191,
       "working": 171,
-      "hd": 65
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -127,11 +127,6 @@
     {
       "name": "22Scope News (1080p)",
       "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aagaaz Times (1080p)",
-      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -768,6 +763,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
