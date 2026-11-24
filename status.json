@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24 10:55 UTC",
-  "fingerprint": "42dd079c6bb6f8e58645399ceb6697c6",
+  "updated_at": "2026-11-24 20:58 UTC",
+  "fingerprint": "6606d2edbac84e509b4cf3bda9b130bb",
   "total": 1841,
   "working": 1673,
-  "in_grace_period": 30,
+  "in_grace_period": 19,
   "dead": 168,
-  "hd_channels": 654,
+  "hd_channels": 658,
   "languages": {
     "Assamese": {
       "total": 43,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 660,
+      "working": 661,
       "hd": 240
     },
     "Kannada": {
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 119,
       "working": 105,
-      "hd": 41
+      "hd": 42
     },
     "Marathi": {
       "total": 45,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 171,
-      "hd": 63
+      "working": 170,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -104,6 +104,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -803,11 +808,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
