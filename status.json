@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25 03:59 UTC",
-  "fingerprint": "efdbc47b2ee7dfff71ee3fd91f54ccd1",
+  "updated_at": "2026-11-25 14:01 UTC",
+  "fingerprint": "ed4f2642dfb4e6799e5bf5b865894a2c",
   "total": 1858,
-  "working": 1686,
-  "in_grace_period": 21,
-  "dead": 172,
-  "hd_channels": 666,
+  "working": 1690,
+  "in_grace_period": 14,
+  "dead": 168,
+  "hd_channels": 672,
   "languages": {
     "Assamese": {
       "total": 43,
-      "working": 40,
+      "working": 41,
       "hd": 13
     },
     "Bengali": {
       "total": 101,
       "working": 89,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 20
+      "hd": 19
     },
     "Hindi": {
       "total": 733,
-      "working": 659,
-      "hd": 238
+      "working": 662,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 136,
-      "working": 120,
-      "hd": 52
+      "working": 122,
+      "hd": 54
     },
     "Marathi": {
       "total": 45,
@@ -70,11 +70,11 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 12
+      "hd": 13
     },
     "Other": {
       "total": 24,
-      "working": 20,
+      "working": 18,
       "hd": 11
     },
     "Punjabi": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 165,
-      "working": 147,
+      "working": 148,
       "hd": 73
     },
     "Telugu": {
       "total": 187,
-      "working": 170,
+      "working": 169,
       "hd": 64
     },
     "Urdu": {
@@ -170,6 +170,11 @@
       "reason": "URLError"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Movies (1080p)",
       "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
       "reason": "URLError"
@@ -191,23 +196,13 @@
     },
     {
       "name": "B4U Music (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Music (576p)",
-      "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
+      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -257,11 +252,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -335,6 +325,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -358,6 +353,16 @@
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass",
+      "reason": "RemoteDisconnected"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/943090988?profile=pass",
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "FashionTV (576p)",
@@ -475,11 +480,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "India Talkies (360p)",
-      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -503,11 +503,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jonack (576p)",
-      "url": "https://fta.ektv.in/live/676/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -548,11 +543,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Malabar Plus (720p)",
-      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -643,11 +633,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -838,11 +823,6 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Thanima (1080p)",
-      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
