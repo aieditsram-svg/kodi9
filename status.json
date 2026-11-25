@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24 20:58 UTC",
-  "fingerprint": "6606d2edbac84e509b4cf3bda9b130bb",
-  "total": 1841,
-  "working": 1673,
-  "in_grace_period": 19,
-  "dead": 168,
-  "hd_channels": 658,
+  "updated_at": "2026-11-25 03:59 UTC",
+  "fingerprint": "efdbc47b2ee7dfff71ee3fd91f54ccd1",
+  "total": 1858,
+  "working": 1686,
+  "in_grace_period": 21,
+  "dead": 172,
+  "hd_channels": 666,
   "languages": {
     "Assamese": {
       "total": 43,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 661,
-      "hd": 240
+      "working": 659,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -53,9 +53,9 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 119,
-      "working": 105,
-      "hd": 42
+      "total": 136,
+      "working": 120,
+      "hd": 52
     },
     "Marathi": {
       "total": 45,
@@ -196,6 +196,11 @@
     },
     {
       "name": "B4U Music (576p)",
+      "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
@@ -252,6 +257,11 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -465,6 +475,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "India Talkies (360p)",
+      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -535,9 +550,9 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
+      "name": "Malabar Plus (720p)",
+      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -823,6 +838,11 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Thanima (1080p)",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
