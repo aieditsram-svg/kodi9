@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 14:40 UTC",
-  "fingerprint": "655e94e9c722f7933ace7e42b7edb1f4",
+  "updated_at": "2026-11-26 23:18 UTC",
+  "fingerprint": "11e1d3f54d78a47685ac126af92aaaf8",
   "total": 1873,
-  "working": 1709,
-  "in_grace_period": 30,
-  "dead": 164,
-  "hd_channels": 680,
+  "working": 1708,
+  "in_grace_period": 37,
+  "dead": 165,
+  "hd_channels": 679,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 90,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 739,
-      "working": 670,
-      "hd": 244
+      "working": 669,
+      "hd": 245
     },
     "Kannada": {
       "total": 71,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 27,
@@ -213,6 +213,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
