@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25 23:02 UTC",
-  "fingerprint": "244aa54c7a10c8cc58a3ca65b08a8117",
-  "total": 1858,
-  "working": 1690,
-  "in_grace_period": 13,
+  "updated_at": "2026-11-26 04:55 UTC",
+  "fingerprint": "b6ec85d90dcb6062aec2628cccc755e0",
+  "total": 1873,
+  "working": 1705,
+  "in_grace_period": 16,
   "dead": 168,
-  "hd_channels": 673,
+  "hd_channels": 683,
   "languages": {
     "Assamese": {
-      "total": 43,
-      "working": 41,
-      "hd": 13
+      "total": 44,
+      "working": 42,
+      "hd": 14
     },
     "Bengali": {
-      "total": 101,
-      "working": 89,
-      "hd": 43
+      "total": 103,
+      "working": 91,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 31,
@@ -30,21 +30,21 @@
     "English": {
       "total": 140,
       "working": 128,
-      "hd": 53
+      "hd": 52
     },
     "Gujarati": {
-      "total": 47,
-      "working": 45,
+      "total": 48,
+      "working": 46,
       "hd": 20
     },
     "Hindi": {
-      "total": 733,
-      "working": 662,
-      "hd": 241
+      "total": 739,
+      "working": 667,
+      "hd": 247
     },
     "Kannada": {
-      "total": 70,
-      "working": 64,
+      "total": 71,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -73,9 +73,9 @@
       "hd": 13
     },
     "Other": {
-      "total": 24,
-      "working": 18,
-      "hd": 11
+      "total": 27,
+      "working": 21,
+      "hd": 13
     },
     "Punjabi": {
       "total": 167,
@@ -93,8 +93,8 @@
       "hd": 73
     },
     "Telugu": {
-      "total": 187,
-      "working": 168,
+      "total": 188,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -185,11 +185,6 @@
       "reason": "URLError"
     },
     {
-      "name": "B4U Music (1080p)",
-      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "http://66.102.126.10:8000/play/a01e/index.m3u8",
       "reason": "URLError"
@@ -248,6 +243,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -328,11 +328,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -543,6 +538,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
