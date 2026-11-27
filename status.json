@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 23:18 UTC",
-  "fingerprint": "11e1d3f54d78a47685ac126af92aaaf8",
-  "total": 1873,
-  "working": 1708,
-  "in_grace_period": 37,
-  "dead": 165,
-  "hd_channels": 679,
+  "updated_at": "2026-11-27 05:09 UTC",
+  "fingerprint": "357b1e5c56c262af362f7a3c95d05329",
+  "total": 1901,
+  "working": 1727,
+  "in_grace_period": 32,
+  "dead": 174,
+  "hd_channels": 686,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -13,13 +13,13 @@
       "hd": 14
     },
     "Bengali": {
-      "total": 103,
-      "working": 90,
-      "hd": 44
+      "total": 106,
+      "working": 93,
+      "hd": 46
     },
     "Bhojpuri": {
-      "total": 31,
-      "working": 31,
+      "total": 32,
+      "working": 32,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -28,9 +28,9 @@
       "hd": 1
     },
     "English": {
-      "total": 140,
-      "working": 128,
-      "hd": 53
+      "total": 142,
+      "working": 130,
+      "hd": 55
     },
     "Gujarati": {
       "total": 48,
@@ -38,13 +38,13 @@
       "hd": 20
     },
     "Hindi": {
-      "total": 739,
-      "working": 669,
-      "hd": 245
+      "total": 745,
+      "working": 675,
+      "hd": 244
     },
     "Kannada": {
-      "total": 71,
-      "working": 65,
+      "total": 72,
+      "working": 66,
       "hd": 29
     },
     "Konkani": {
@@ -53,13 +53,13 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 136,
-      "working": 123,
-      "hd": 55
+      "total": 149,
+      "working": 134,
+      "hd": 57
     },
     "Marathi": {
-      "total": 45,
-      "working": 44,
+      "total": 46,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -73,14 +73,14 @@
       "hd": 12
     },
     "Other": {
-      "total": 27,
-      "working": 21,
-      "hd": 12
+      "total": 30,
+      "working": 22,
+      "hd": 14
     },
     "Punjabi": {
       "total": 167,
-      "working": 159,
-      "hd": 57
+      "working": 156,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -88,22 +88,27 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 165,
-      "working": 148,
+      "total": 167,
+      "working": 149,
       "hd": 73
     },
     "Telugu": {
-      "total": 188,
-      "working": 171,
-      "hd": 64
+      "total": 191,
+      "working": 174,
+      "hd": 66
     },
     "Urdu": {
       "total": 22,
-      "working": 21,
+      "working": 20,
       "hd": 6
     }
   },
   "dead_channels": [
+    {
+      "name": "4TV News (576p)",
+      "url": "https://fta.ektv.in/live/647/master.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "6 TV Telugu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
@@ -145,6 +150,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Anandpur Live (720p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
@@ -163,16 +173,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (1080p)",
-      "url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "B4U Movies (1080p)",
-      "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "B4U Movies (576p)",
@@ -213,11 +213,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -365,6 +360,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "FashionTV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3FASHIONTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 404"
@@ -433,6 +438,11 @@
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Hindi Hits SD (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDIHITS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hindi Khabar (576p) [Geo-blocked]",
@@ -510,6 +520,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kasargod Vision (576p)",
+      "url": "https://live.skystream.in/live/kasaragodvsn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -528,6 +543,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -573,6 +593,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Nanaksar Live (720p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "NDTV India (576p)",
@@ -643,6 +668,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Punjabi Beats HD (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -815,6 +845,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Times Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "reason": "HTTP 403"
@@ -828,6 +863,11 @@
       "name": "Times Now Navbharat (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Total TV Haryana (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
@@ -847,6 +887,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
