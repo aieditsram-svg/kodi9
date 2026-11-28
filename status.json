@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27 23:18 UTC",
-  "fingerprint": "4019d560a0d6d712386b00413c567a05",
-  "total": 1901,
+  "updated_at": "2026-11-28 04:47 UTC",
+  "fingerprint": "3e8ce9220c6ea67cd956a2425ee9a08d",
+  "total": 1904,
   "working": 1729,
-  "in_grace_period": 13,
-  "dead": 172,
+  "in_grace_period": 12,
+  "dead": 175,
   "hd_channels": 685,
   "languages": {
     "Assamese": {
@@ -18,7 +18,7 @@
       "hd": 45
     },
     "Bhojpuri": {
-      "total": 32,
+      "total": 33,
       "working": 32,
       "hd": 13
     },
@@ -28,7 +28,7 @@
       "hd": 1
     },
     "English": {
-      "total": 142,
+      "total": 143,
       "working": 131,
       "hd": 55
     },
@@ -78,7 +78,7 @@
       "hd": 14
     },
     "Punjabi": {
-      "total": 167,
+      "total": 168,
       "working": 156,
       "hd": 56
     },
@@ -172,6 +172,11 @@
     {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Bhojpuri Plus (576p) [Geo-blocked]",
+      "url": "https://b4u-bhojpuri.cdn.runn.tv/master.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -520,6 +525,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Kerala Today TV (1080p)",
+      "url": "https://live.skystream.in/live/krlatoday/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -660,6 +670,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "PTC News (576p) [Geo-blocked]",
+      "url": "https://ptc.cdn.runn.tv/ptc_newsCDN/master/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -683,6 +698,11 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Republic Business (576p) [Geo-blocked]",
+      "url": "https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -798,11 +818,6 @@
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
