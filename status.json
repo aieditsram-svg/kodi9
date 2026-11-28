@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28 04:47 UTC",
-  "fingerprint": "3e8ce9220c6ea67cd956a2425ee9a08d",
+  "updated_at": "2026-11-28 13:42 UTC",
+  "fingerprint": "2df865dad3f172736acadcdfe71d0730",
   "total": 1904,
-  "working": 1729,
-  "in_grace_period": 12,
-  "dead": 175,
-  "hd_channels": 685,
+  "working": 1727,
+  "in_grace_period": 18,
+  "dead": 177,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 106,
       "working": 93,
-      "hd": 45
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 131,
-      "hd": 55
+      "hd": 56
     },
     "Gujarati": {
       "total": 48,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 150,
+      "working": 149,
       "hd": 73
     },
     "Telugu": {
       "total": 191,
-      "working": 174,
-      "hd": 65
+      "working": 173,
+      "hd": 66
     },
     "Urdu": {
       "total": 22,
@@ -107,11 +107,6 @@
     {
       "name": "4TV News (576p)",
       "url": "https://fta.ektv.in/live/647/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -218,6 +213,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -650,6 +650,11 @@
       "reason": "URLError"
     },
     {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -833,6 +838,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swatantra TV (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "T News (576p)",
